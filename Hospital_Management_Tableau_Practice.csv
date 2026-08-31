@@ -1,0 +1,1001 @@
+Patient_ID,Patient_Name,Age,Gender,City,Department,Doctor,Diagnosis,Admission_Type,Admission_Date,Discharge_Date,Length_of_Stay_Days,Room_Type,Insurance_Type,Treatment_Cost_INR,Discount_INR,Insurance_Covered_INR,Patient_Payment_INR,Payment_Method,Patient_Satisfaction,Outcome,Admission_Month,Admission_Month_Number,Age_Group
+P10846,Aisha Kulkarni,18,Female,Pune,Neurology,Dr. Anil Joshi,Pregnancy,Planned,2025-01-01,2025-01-04,3,General Ward,Government Scheme,49700,2500,41700,5500,Insurance,3.9,Discharged,Jan,1,0-18
+P10425,Pooja Pawar,43,Male,Pune,Neurology,Dr. Kavita Rao,Skin Infection,Planned,2025-01-01,2025-01-08,7,Private,Government Scheme,84700,0,49900,34800,UPI,2.8,Discharged,Jan,1,36-50
+P10482,Vivaan Chavan,29,Female,Mumbai,Pediatrics,Dr. Rohan Shah,Kidney Stone,Planned,2025-01-02,2025-01-04,2,Semi-Private,Self Pay,21400,0,0,21400,UPI,3.4,Discharged,Jan,1,19-35
+P10827,Aisha Sharma,51,Female,Thane,Oncology,Dr. Vikram Singh,Diabetes,Emergency,2025-01-02,2025-01-05,3,Private,Health Insurance,101100,0,73200,27900,Card,4.3,Discharged,Jan,1,51-65
+P10417,Riya Chavan,21,Female,Mumbai,Gynecology,Dr. Ananya Rao,Pregnancy,Planned,2025-01-02,2025-01-03,1,General Ward,Self Pay,32400,0,0,32400,Insurance,4.2,Discharged,Jan,1,19-35
+P10362,Rahul Khan,76,Female,Kolhapur,ENT,Dr. Meenal Joshi,Diabetes,Planned,2025-01-02,2025-01-05,3,General Ward,Health Insurance,22900,1100,16400,5400,UPI,5.0,Discharged,Jan,1,66+
+P10177,Ira Pawar,36,Female,Mumbai,Neurology,Dr. Anil Joshi,Viral Fever,Emergency,2025-01-02,2025-01-04,2,Semi-Private,Corporate Insurance,46900,0,37100,9800,UPI,5.0,Discharged,Jan,1,36-50
+P10474,Ira Gupta,80,Female,Pune,Cardiology,Dr. Amit Shah,Cancer,Planned,2025-01-02,2025-01-05,3,ICU,Health Insurance,101900,10200,57100,34600,Card,3.1,Discharged,Jan,1,66+
+P10565,Aarav Mehta,62,Male,Mumbai,Gynecology,Dr. Pooja Desai,Asthma,Planned,2025-01-03,2025-01-16,13,Semi-Private,Self Pay,60600,0,0,60600,UPI,2.6,Discharged,Jan,1,51-65
+P10030,Aditya More,47,Female,Thane,Neurology,Dr. Kavita Rao,Cancer,Emergency,2025-01-03,2025-01-06,3,Semi-Private,Self Pay,61000,9200,0,51800,UPI,4.1,Discharged,Jan,1,36-50
+P10599,Rahul Pawar,44,Male,Thane,Oncology,Dr. Vikram Singh,Migraine,Planned,2025-01-03,2025-01-07,4,ICU,Self Pay,127900,12800,0,115100,Insurance,2.3,Discharged,Jan,1,36-50
+P10212,Rohan Patil,28,Female,Thane,General Medicine,Dr. Priya Nair,Pneumonia,Emergency,2025-01-03,2025-01-07,4,Semi-Private,Self Pay,21800,1100,0,20700,Card,4.1,Discharged,Jan,1,19-35
+P10043,Sneha Jadhav,37,Female,Kolhapur,Orthopedics,Dr. Raj Mehta,Pneumonia,Planned,2025-01-04,2025-01-07,3,Semi-Private,Corporate Insurance,47300,2400,32500,12400,Cash,4.4,Discharged,Jan,1,36-50
+P10057,Karan Pawar,35,Male,Nagpur,Gynecology,Dr. Ananya Rao,Migraine,Planned,2025-01-04,2025-01-06,2,General Ward,Government Scheme,35500,0,25200,10300,Cash,4.4,Discharged,Jan,1,19-35
+P10896,Aditya Mehta,89,Female,Mumbai,Cardiology,Dr. Amit Shah,Migraine,Referral,2025-01-04,2025-01-15,11,ICU,Self Pay,183500,27500,0,156000,Cash,4.6,Discharged,Jan,1,66+
+P10112,Vivaan Deshmukh,21,Female,Ahmednagar,ENT,Dr. Meenal Joshi,Hypertension,Emergency,2025-01-05,2025-01-09,4,Semi-Private,Corporate Insurance,23300,0,19500,3800,Insurance,3.3,Under Treatment,Jan,1,19-35
+P10353,Karan Patil,70,Female,Pune,Emergency,Dr. Arjun Patil,Pregnancy,Emergency,2025-01-06,2025-01-09,3,Semi-Private,Corporate Insurance,30100,1500,27200,1400,Insurance,4.1,Discharged,Jan,1,66+
+P10946,Neha Chavan,28,Male,Nagpur,Neurology,Dr. Kavita Rao,Pneumonia,Emergency,2025-01-07,2025-01-09,2,Private,Health Insurance,51300,5100,31700,14500,Card,4.0,Discharged,Jan,1,19-35
+P10193,Aarav Gupta,66,Female,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Pneumonia,Planned,2025-01-07,2025-01-14,7,Semi-Private,Health Insurance,71400,0,52200,19200,Insurance,3.5,Discharged,Jan,1,66+
+P10040,Sneha Chavan,37,Female,Pune,Dermatology,Dr. Neha Mehta,Pregnancy,Planned,2025-01-07,2025-01-09,2,Private,Health Insurance,25800,1300,21400,3100,Cash,4.5,Discharged,Jan,1,36-50
+P10410,Priya Sharma,47,Male,Pune,Cardiology,Dr. Neeraj Kulkarni,Ear Infection,Emergency,2025-01-07,2025-01-10,3,General Ward,Corporate Insurance,59500,3000,40900,15600,Insurance,2.4,Discharged,Jan,1,36-50
+P10544,Riya Nair,21,Female,Nashik,Neurology,Dr. Anil Joshi,Back Pain,Planned,2025-01-08,2025-01-12,4,Private,Corporate Insurance,65000,3200,34800,27000,Insurance,4.4,Discharged,Jan,1,19-35
+P10712,Ishaan Khan,34,Male,Navi Mumbai,Orthopedics,Dr. Raj Mehta,Viral Fever,Planned,2025-01-09,2025-01-13,4,Private,Corporate Insurance,43100,0,35100,8000,Insurance,4.1,Discharged,Jan,1,19-35
+P10508,Ira Deshmukh,57,Female,Kolhapur,Pediatrics,Dr. Rohan Shah,Heart Disease,Planned,2025-01-09,2025-01-14,5,Private,Corporate Insurance,48600,0,46000,2600,Cash,4.0,Discharged,Jan,1,51-65
+P10248,Ananya Kulkarni,49,Other,Mumbai,ENT,Dr. Karan Shah,Viral Fever,Referral,2025-01-10,2025-01-11,1,General Ward,Corporate Insurance,16900,0,12900,4000,Insurance,3.5,Discharged,Jan,1,36-50
+P10940,Vivaan Verma,64,Female,Mumbai,Gynecology,Dr. Ananya Rao,Skin Infection,Emergency,2025-01-11,2025-01-16,5,General Ward,Self Pay,39500,0,0,39500,Insurance,3.4,Discharged,Jan,1,51-65
+P10611,Aarav More,66,Male,Mumbai,Oncology,Dr. Vikram Singh,Pneumonia,Emergency,2025-01-11,2025-01-13,2,General Ward,Health Insurance,95800,4800,57200,33800,Cash,3.3,Discharged,Jan,1,66+
+P10215,Rohan Singh,27,Female,Thane,Cardiology,Dr. Amit Shah,Kidney Stone,Emergency,2025-01-11,2025-01-15,4,General Ward,Health Insurance,42200,2100,31100,9000,Insurance,4.2,Discharged,Jan,1,19-35
+P10114,Kabir Singh,9,Male,Pune,Dermatology,Dr. Neha Mehta,Skin Infection,Planned,2025-01-11,2025-01-23,12,Semi-Private,Self Pay,61500,6200,0,55300,Card,2.8,Discharged,Jan,1,0-18
+P10821,Rohan Kulkarni,90,Male,Pune,Cardiology,Dr. Neeraj Kulkarni,Pneumonia,Planned,2025-01-11,2025-01-13,2,Private,Government Scheme,51300,2600,33700,15000,Insurance,3.7,Referred,Jan,1,66+
+P10742,Ira Joshi,35,Female,Nashik,Emergency,Dr. Arjun Patil,Ear Infection,Planned,2025-01-12,2025-01-27,15,General Ward,Self Pay,42200,2100,0,40100,Cash,4.5,Discharged,Jan,1,19-35
+P10950,Kabir Gupta,56,Female,Thane,Neurology,Dr. Anil Joshi,Asthma,Referral,2025-01-12,2025-01-18,6,Semi-Private,Self Pay,59600,6000,0,53600,UPI,4.4,Discharged,Jan,1,51-65
+P10657,Aarav Singh,32,Male,Nashik,Gynecology,Dr. Ananya Rao,Fracture,Emergency,2025-01-12,2025-01-14,2,Private,Government Scheme,34900,5200,20600,9100,Cash,3.9,Discharged,Jan,1,19-35
+P10494,Diya More,54,Male,Mumbai,Emergency,Dr. Arjun Patil,Fracture,Emergency,2025-01-12,2025-01-14,2,General Ward,Health Insurance,31600,0,26200,5400,Card,4.0,Discharged,Jan,1,51-65
+P10274,Ananya Khan,35,Female,Pune,Gynecology,Dr. Pooja Desai,Ear Infection,Planned,2025-01-13,2025-01-15,2,General Ward,Self Pay,31800,4800,0,27000,Insurance,4.4,Discharged,Jan,1,19-35
+P10102,Pooja Khan,49,Female,Nagpur,Emergency,Dr. Arjun Patil,Diabetes,Planned,2025-01-13,2025-01-17,4,Private,Self Pay,48700,2400,0,46300,Insurance,4.4,Discharged,Jan,1,36-50
+P10849,Rohan Jadhav,43,Female,Nashik,Neurology,Dr. Anil Joshi,Hypertension,Planned,2025-01-13,2025-01-14,1,General Ward,Corporate Insurance,32600,1600,22400,8600,Insurance,3.0,Discharged,Jan,1,36-50
+P10097,Riya Khan,62,Male,Mumbai,Oncology,Dr. Vikram Singh,Diabetes,Emergency,2025-01-13,2025-01-20,7,General Ward,Health Insurance,100800,5000,88000,7800,Card,4.1,Under Treatment,Jan,1,51-65
+P10322,Riya Verma,36,Male,Aurangabad,Dermatology,Dr. Isha Patil,Migraine,Planned,2025-01-14,2025-01-16,2,Private,Corporate Insurance,24900,0,15900,9000,UPI,3.3,Discharged,Jan,1,36-50
+P10884,Karan Sharma,67,Female,Nagpur,General Medicine,Dr. Rahul Verma,Pregnancy,Emergency,2025-01-15,2025-01-17,2,ICU,Corporate Insurance,57300,0,38500,18800,UPI,3.5,Discharged,Jan,1,66+
+P10387,Kabir Pawar,30,Male,Kolhapur,Orthopedics,Dr. Raj Mehta,Fracture,Referral,2025-01-16,2025-01-18,2,Semi-Private,Self Pay,37900,0,0,37900,Insurance,3.4,Under Treatment,Jan,1,19-35
+P10869,Diya Deshmukh,6,Female,Nagpur,General Medicine,Dr. Priya Nair,Asthma,Planned,2025-01-16,2025-01-18,2,Private,Self Pay,25300,1300,0,24000,Insurance,3.3,Discharged,Jan,1,0-18
+P10900,Neha Joshi,65,Male,Navi Mumbai,Gynecology,Dr. Pooja Desai,Pregnancy,Emergency,2025-01-16,2025-01-22,6,Semi-Private,Self Pay,52300,5200,0,47100,UPI,3.9,Discharged,Jan,1,51-65
+P10652,Rahul Jadhav,3,Male,Navi Mumbai,Pediatrics,Dr. Sneha Desai,Cancer,Emergency,2025-01-16,2025-01-20,4,General Ward,Self Pay,34600,0,0,34600,Insurance,3.4,Under Treatment,Jan,1,0-18
+P10171,Aarav Pawar,36,Male,Nagpur,Oncology,Dr. Vikram Singh,Back Pain,Referral,2025-01-16,2025-01-22,6,General Ward,Self Pay,102600,0,0,102600,Insurance,4.8,Discharged,Jan,1,36-50
+P10949,Aarav Pawar,52,Male,Mumbai,Neurology,Dr. Anil Joshi,Back Pain,Emergency,2025-01-16,2025-01-20,4,General Ward,Corporate Insurance,55600,2800,44100,8700,Card,2.4,Discharged,Jan,1,51-65
+P10012,Aarav Pawar,78,Female,Thane,Oncology,Dr. Vikram Singh,Kidney Stone,Emergency,2025-01-17,2025-01-24,7,Private,Health Insurance,116800,5800,64200,46800,Cash,4.2,Discharged,Jan,1,66+
+P10795,Rohan Patil,60,Male,Mumbai,Oncology,Dr. Nitin Mehta,Hypertension,Emergency,2025-01-17,2025-01-18,1,ICU,Government Scheme,83900,0,59500,24400,Insurance,4.6,Discharged,Jan,1,51-65
+P10927,Pooja Jadhav,66,Female,Ahmednagar,Gynecology,Dr. Ananya Rao,Skin Infection,Referral,2025-01-17,2025-01-18,1,Private,Self Pay,30300,0,0,30300,Cash,4.0,Discharged,Jan,1,66+
+P10047,Aarav Gupta,25,Female,Mumbai,Cardiology,Dr. Amit Shah,Migraine,Planned,2025-01-17,2025-01-20,3,Semi-Private,Self Pay,60400,3000,0,57400,Card,3.8,Under Treatment,Jan,1,19-35
+P10924,Sneha Nair,1,Female,Nashik,Oncology,Dr. Nitin Mehta,Kidney Stone,Planned,2025-01-18,2025-01-26,8,Semi-Private,Health Insurance,112000,11200,56200,44600,Insurance,4.5,Discharged,Jan,1,0-18
+P10672,Sneha Sharma,45,Male,Thane,General Medicine,Dr. Rahul Verma,Pregnancy,Planned,2025-01-18,2025-01-24,6,Private,Self Pay,51600,7700,0,43900,Insurance,4.0,Referred,Jan,1,36-50
+P10928,Rahul Chavan,35,Male,Aurangabad,Neurology,Dr. Anil Joshi,Viral Fever,Planned,2025-01-19,2025-01-25,6,General Ward,Health Insurance,62000,3100,41900,17000,Insurance,4.2,Under Treatment,Jan,1,19-35
+P10835,Karan Verma,53,Male,Thane,Orthopedics,Dr. Sameer Patil,Asthma,Planned,2025-01-20,2025-01-26,6,Semi-Private,Corporate Insurance,55900,0,50300,5600,UPI,4.5,Discharged,Jan,1,51-65
+P10535,Diya Gupta,25,Male,Pune,Dermatology,Dr. Isha Patil,Back Pain,Emergency,2025-01-20,2025-01-22,2,Semi-Private,Self Pay,23400,0,0,23400,Insurance,3.1,Under Treatment,Jan,1,19-35
+P10130,Karan Patil,42,Female,Nashik,ENT,Dr. Karan Shah,Fracture,Referral,2025-01-20,2025-01-23,3,Private,Health Insurance,38300,0,35200,3100,Insurance,4.2,Discharged,Jan,1,36-50
+P10293,Meera Nair,1,Female,Nashik,ENT,Dr. Meenal Joshi,Hypertension,Emergency,2025-01-21,2025-01-24,3,General Ward,Self Pay,5000,0,0,5000,Card,3.1,Expired,Jan,1,0-18
+P10456,Rahul Patil,26,Female,Pune,Cardiology,Dr. Neeraj Kulkarni,Hypertension,Planned,2025-01-21,2025-01-23,2,General Ward,Self Pay,46200,0,0,46200,UPI,4.2,Discharged,Jan,1,19-35
+P10953,Karan Patil,56,Female,Mumbai,Gynecology,Dr. Pooja Desai,Pneumonia,Referral,2025-01-21,2025-01-26,5,General Ward,Self Pay,36800,0,0,36800,Cash,2.5,Discharged,Jan,1,51-65
+P10219,Rahul Mehta,63,Male,Thane,Cardiology,Dr. Amit Shah,Diabetes,Planned,2025-01-21,2025-01-22,1,ICU,Corporate Insurance,64500,6400,35900,22200,Insurance,4.7,Discharged,Jan,1,51-65
+P10830,Kabir Jadhav,27,Male,Pune,Dermatology,Dr. Neha Mehta,Back Pain,Planned,2025-01-21,2025-01-23,2,Semi-Private,Self Pay,37600,0,0,37600,Cash,4.6,Discharged,Jan,1,19-35
+P10441,Rohan Sharma,59,Female,Nagpur,Pediatrics,Dr. Rohan Shah,Cancer,Planned,2025-01-22,2025-02-08,17,Semi-Private,Health Insurance,84800,8500,56100,20200,Insurance,3.5,Referred,Jan,1,51-65
+P10088,Diya Khan,43,Male,Kolhapur,Pediatrics,Dr. Rohan Shah,Asthma,Emergency,2025-01-22,2025-01-27,5,General Ward,Health Insurance,41900,0,36800,5100,Insurance,3.7,Discharged,Jan,1,36-50
+P10454,Pooja Khan,20,Male,Ahmednagar,Orthopedics,Dr. Sameer Patil,Back Pain,Planned,2025-01-22,2025-02-04,13,Semi-Private,Corporate Insurance,70000,0,61100,8900,Cash,4.7,Discharged,Jan,1,19-35
+P10665,Neha Verma,57,Male,Mumbai,Cardiology,Dr. Amit Shah,Back Pain,Planned,2025-01-22,2025-01-24,2,Semi-Private,Self Pay,60800,0,0,60800,UPI,3.4,Discharged,Jan,1,51-65
+P10383,Aarav Sharma,48,Male,Mumbai,Pediatrics,Dr. Rohan Shah,Back Pain,Emergency,2025-01-24,2025-01-25,1,Semi-Private,Corporate Insurance,23600,2400,17700,3500,Insurance,3.5,Referred,Jan,1,36-50
+P10385,Aarav Deshmukh,55,Female,Mumbai,Dermatology,Dr. Neha Mehta,Hypertension,Planned,2025-01-24,2025-02-03,10,General Ward,Health Insurance,29200,1500,18400,9300,Cash,3.8,Discharged,Jan,1,51-65
+P10056,Ishaan Khan,50,Male,Mumbai,Orthopedics,Dr. Sameer Patil,Viral Fever,Emergency,2025-01-24,2025-01-27,3,General Ward,Corporate Insurance,46900,0,36900,10000,Insurance,4.9,Discharged,Jan,1,36-50
+P10367,Aarav Deshmukh,26,Female,Mumbai,Emergency,Dr. Arjun Patil,Kidney Stone,Emergency,2025-01-24,2025-01-27,3,General Ward,Health Insurance,37800,0,25800,12000,Insurance,4.5,Under Treatment,Jan,1,19-35
+P10990,Meera Joshi,66,Female,Thane,General Medicine,Dr. Rahul Verma,Pneumonia,Referral,2025-01-24,2025-01-29,5,Private,Self Pay,55300,5500,0,49800,Insurance,3.4,Discharged,Jan,1,66+
+P10749,Ira More,22,Female,Mumbai,Neurology,Dr. Kavita Rao,Kidney Stone,Emergency,2025-01-24,2025-01-25,1,Private,Health Insurance,64100,3200,40800,20100,Cash,3.4,Discharged,Jan,1,19-35
+P10567,Arjun Jadhav,36,Female,Mumbai,Orthopedics,Dr. Sameer Patil,Back Pain,Planned,2025-01-25,2025-01-26,1,General Ward,Self Pay,38600,3900,0,34700,Card,4.1,Discharged,Jan,1,36-50
+P10840,Neha Verma,65,Female,Mumbai,Emergency,Dr. Arjun Patil,Asthma,Emergency,2025-01-25,2025-02-01,7,Semi-Private,Health Insurance,43600,0,41000,2600,Cash,2.1,Discharged,Jan,1,51-65
+P10344,Ira Jadhav,1,Male,Kolhapur,Cardiology,Dr. Neeraj Kulkarni,Asthma,Planned,2025-01-25,2025-02-04,10,Semi-Private,Corporate Insurance,80400,0,45100,35300,Cash,4.2,Discharged,Jan,1,0-18
+P10994,Riya Pawar,62,Male,Thane,Oncology,Dr. Nitin Mehta,Kidney Stone,Emergency,2025-01-25,2025-02-03,9,Semi-Private,Self Pay,117100,5900,0,111200,Insurance,3.8,Discharged,Jan,1,51-65
+P10412,Ishaan Kulkarni,26,Female,Nashik,Dermatology,Dr. Neha Mehta,Skin Infection,Planned,2025-01-26,2025-02-01,6,Private,Government Scheme,61400,6100,41200,14100,Card,3.6,Discharged,Jan,1,19-35
+P10641,Riya Nair,43,Male,Mumbai,Emergency,Dr. Sameer Khan,Skin Infection,Emergency,2025-01-26,2025-02-01,6,Semi-Private,Corporate Insurance,34900,3500,26400,5000,Insurance,4.6,Discharged,Jan,1,36-50
+P10842,Vivaan Verma,58,Female,Navi Mumbai,Cardiology,Dr. Neeraj Kulkarni,Viral Fever,Referral,2025-01-26,2025-01-28,2,Private,Corporate Insurance,57600,2900,39000,15700,Cash,5.0,Discharged,Jan,1,51-65
+P10655,Riya More,40,Female,Thane,Dermatology,Dr. Neha Mehta,Asthma,Emergency,2025-01-26,2025-02-04,9,General Ward,Health Insurance,24700,0,16700,8000,Card,4.0,Referred,Jan,1,36-50
+P10262,Riya Nair,43,Female,Mumbai,Neurology,Dr. Anil Joshi,Viral Fever,Emergency,2025-01-26,2025-01-30,4,Private,Health Insurance,65000,0,48000,17000,Card,4.3,Discharged,Jan,1,36-50
+P10699,Meera Sharma,47,Female,Mumbai,Gynecology,Dr. Ananya Rao,Fracture,Emergency,2025-01-26,2025-01-29,3,Semi-Private,Government Scheme,38500,1900,22900,13700,Insurance,4.1,Referred,Jan,1,36-50
+P10600,Diya Pawar,60,Female,Mumbai,Dermatology,Dr. Neha Mehta,Diabetes,Planned,2025-01-26,2025-01-27,1,General Ward,Health Insurance,16800,0,11200,5600,UPI,4.2,Under Treatment,Jan,1,51-65
+P10975,Ishaan Chavan,39,Male,Mumbai,Cardiology,Dr. Amit Shah,Fracture,Planned,2025-01-26,2025-02-05,10,Private,Government Scheme,106800,16000,72300,18500,Insurance,4.5,Referred,Jan,1,36-50
+P10642,Riya More,37,Female,Pune,Dermatology,Dr. Isha Patil,Asthma,Emergency,2025-01-27,2025-01-30,3,Private,Health Insurance,37800,3800,24800,9200,Insurance,3.0,Discharged,Jan,1,36-50
+P10825,Pooja Jadhav,59,Male,Nashik,Emergency,Dr. Sameer Khan,Skin Infection,Referral,2025-01-27,2025-02-01,5,General Ward,Government Scheme,32800,0,27300,5500,Insurance,3.2,Discharged,Jan,1,51-65
+P10794,Ishaan Mehta,73,Male,Thane,Orthopedics,Dr. Sameer Patil,Ear Infection,Planned,2025-01-28,2025-01-29,1,General Ward,Health Insurance,36900,5500,19900,11500,Insurance,3.6,Discharged,Jan,1,66+
+P10386,Sneha Singh,66,Male,Pune,Emergency,Dr. Arjun Patil,Viral Fever,Emergency,2025-01-28,2025-02-02,5,Private,Health Insurance,53700,0,40800,12900,Cash,3.6,Discharged,Jan,1,66+
+P10423,Arjun Khan,58,Male,Mumbai,Gynecology,Dr. Ananya Rao,Pregnancy,Emergency,2025-01-28,2025-01-31,3,General Ward,Government Scheme,34800,0,26600,8200,UPI,4.1,Discharged,Jan,1,51-65
+P10755,Rahul Gupta,50,Male,Pune,Neurology,Dr. Kavita Rao,Heart Disease,Emergency,2025-01-29,2025-01-31,2,General Ward,Self Pay,50700,2500,0,48200,Insurance,4.5,Referred,Jan,1,36-50
+P10740,Aditya Sharma,28,Male,Aurangabad,Emergency,Dr. Sameer Khan,Viral Fever,Emergency,2025-01-29,2025-02-02,4,Private,Self Pay,46800,0,0,46800,Insurance,3.7,Under Treatment,Jan,1,19-35
+P10214,Ira Pawar,38,Female,Pune,Pediatrics,Dr. Sneha Desai,Pneumonia,Emergency,2025-01-29,2025-01-31,2,Private,Health Insurance,28900,0,18900,10000,Cash,4.5,Discharged,Jan,1,36-50
+P10329,Riya Jadhav,59,Female,Nagpur,Gynecology,Dr. Ananya Rao,Back Pain,Emergency,2025-01-29,2025-01-30,1,Private,Self Pay,42300,0,0,42300,UPI,4.1,Under Treatment,Jan,1,51-65
+P10559,Riya Kulkarni,26,Female,Nashik,General Medicine,Dr. Rahul Verma,Ear Infection,Planned,2025-01-29,2025-02-01,3,General Ward,Self Pay,20700,0,0,20700,UPI,4.5,Referred,Jan,1,19-35
+P10775,Diya Verma,52,Male,Aurangabad,General Medicine,Dr. Rahul Verma,Cancer,Referral,2025-01-29,2025-02-02,4,General Ward,Health Insurance,31600,3200,19300,9100,UPI,3.4,Under Treatment,Jan,1,51-65
+P10491,Aarav Deshmukh,52,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Migraine,Emergency,2025-01-29,2025-01-31,2,Semi-Private,Government Scheme,20900,1000,14500,5400,Cash,3.4,Discharged,Jan,1,51-65
+P10902,Vivaan More,16,Male,Pune,Dermatology,Dr. Neha Mehta,Fracture,Emergency,2025-01-29,2025-02-01,3,Semi-Private,Health Insurance,20900,0,13900,7000,UPI,5.0,Discharged,Jan,1,0-18
+P10511,Tanya Patil,63,Male,Pune,Orthopedics,Dr. Raj Mehta,Skin Infection,Emergency,2025-01-29,2025-02-06,8,Semi-Private,Government Scheme,52700,0,37000,15700,Insurance,2.2,Discharged,Jan,1,51-65
+P10625,Vivaan Nair,48,Female,Pune,Pediatrics,Dr. Rohan Shah,Back Pain,Emergency,2025-01-30,2025-01-31,1,General Ward,Government Scheme,28200,1400,19000,7800,UPI,4.8,Discharged,Jan,1,36-50
+P10556,Vivaan More,90,Male,Nagpur,ENT,Dr. Karan Shah,Kidney Stone,Planned,2025-01-30,2025-02-16,17,Semi-Private,Government Scheme,62900,0,40300,22600,Cash,4.0,Discharged,Jan,1,66+
+P10301,Neha Deshmukh,28,Female,Navi Mumbai,Dermatology,Dr. Neha Mehta,Heart Disease,Emergency,2025-01-31,2025-02-04,4,General Ward,Corporate Insurance,26200,3900,15800,6500,Cash,4.7,Discharged,Jan,1,19-35
+P10579,Tanya Verma,28,Male,Pune,Emergency,Dr. Arjun Patil,Migraine,Emergency,2025-01-31,2025-02-04,4,Private,Health Insurance,41400,2100,31400,7900,UPI,4.4,Discharged,Jan,1,19-35
+P10123,Karan Pawar,64,Female,Nashik,Neurology,Dr. Kavita Rao,Cancer,Planned,2025-01-31,2025-02-04,4,General Ward,Self Pay,46000,2300,0,43700,Cash,3.9,Discharged,Jan,1,51-65
+P10982,Tanya Mehta,56,Male,Pune,Oncology,Dr. Nitin Mehta,Hypertension,Planned,2025-01-31,2025-02-03,3,Semi-Private,Government Scheme,96000,9600,81400,5000,Cash,4.5,Discharged,Jan,1,51-65
+P10820,Kabir Deshmukh,29,Male,Kolhapur,Dermatology,Dr. Isha Patil,Pneumonia,Planned,2025-01-31,2025-02-06,6,Semi-Private,Health Insurance,40200,2000,25100,13100,Insurance,4.4,Discharged,Jan,1,19-35
+P10772,Aditya Pawar,42,Female,Kolhapur,Emergency,Dr. Arjun Patil,Asthma,Planned,2025-01-31,2025-02-05,5,Semi-Private,Corporate Insurance,43600,0,28600,15000,Card,3.6,Discharged,Jan,1,36-50
+P10498,Arjun Verma,47,Male,Kolhapur,Pediatrics,Dr. Sneha Desai,Pneumonia,Planned,2025-02-01,2025-02-02,1,Private,Government Scheme,22000,1100,14400,6500,Insurance,4.6,Discharged,Feb,2,36-50
+P10552,Kabir Patil,24,Male,Mumbai,Pediatrics,Dr. Sneha Desai,Skin Infection,Planned,2025-02-01,2025-02-04,3,General Ward,Corporate Insurance,25500,3800,18200,3500,Insurance,3.8,Discharged,Feb,2,19-35
+P10719,Diya Mehta,10,Male,Pune,Neurology,Dr. Kavita Rao,Heart Disease,Planned,2025-02-03,2025-02-09,6,Private,Corporate Insurance,71600,3600,58600,9400,Cash,2.6,Expired,Feb,2,0-18
+P10933,Aditya Mehta,39,Male,Pune,Dermatology,Dr. Neha Mehta,Pneumonia,Emergency,2025-02-03,2025-02-07,4,Semi-Private,Health Insurance,19300,1900,9900,7500,UPI,5.0,Referred,Feb,2,36-50
+P10428,Kabir Deshmukh,56,Female,Pune,Gynecology,Dr. Ananya Rao,Asthma,Emergency,2025-02-04,2025-02-09,5,General Ward,Health Insurance,26400,1300,22500,2600,Card,5.0,Discharged,Feb,2,51-65
+P10384,Karan Joshi,23,Female,Mumbai,Gynecology,Dr. Pooja Desai,Skin Infection,Emergency,2025-02-04,2025-02-06,2,Semi-Private,Self Pay,30400,0,0,30400,Cash,4.6,Discharged,Feb,2,19-35
+P10110,Rohan Patil,37,Female,Mumbai,ENT,Dr. Karan Shah,Asthma,Emergency,2025-02-04,2025-02-11,7,General Ward,Health Insurance,26600,1300,14700,10600,Insurance,4.4,Discharged,Feb,2,36-50
+P10432,Riya Chavan,44,Male,Navi Mumbai,Oncology,Dr. Vikram Singh,Pregnancy,Planned,2025-02-05,2025-02-06,1,Semi-Private,Corporate Insurance,81700,0,45100,36600,Insurance,4.6,Discharged,Feb,2,36-50
+P10999,Aditya Pawar,20,Female,Pune,Pediatrics,Dr. Sneha Desai,Asthma,Planned,2025-02-06,2025-02-14,8,General Ward,Health Insurance,39800,0,29200,10600,Insurance,3.3,Under Treatment,Feb,2,19-35
+P10313,Ira Gupta,52,Female,Mumbai,Cardiology,Dr. Amit Shah,Cancer,Planned,2025-02-06,2025-02-13,7,Private,Government Scheme,86100,0,77800,8300,Insurance,3.4,Discharged,Feb,2,51-65
+P10838,Vivaan Pawar,28,Female,Ahmednagar,Pediatrics,Dr. Rohan Shah,Migraine,Planned,2025-02-07,2025-02-09,2,Semi-Private,Self Pay,25900,2600,0,23300,Insurance,3.1,Discharged,Feb,2,19-35
+P10197,Aditya Sharma,71,Male,Nashik,Emergency,Dr. Arjun Patil,Hypertension,Emergency,2025-02-07,2025-02-15,8,Private,Health Insurance,79500,0,70900,8600,Cash,5.0,Discharged,Feb,2,66+
+P10461,Priya Verma,8,Male,Nagpur,Emergency,Dr. Sameer Khan,Back Pain,Planned,2025-02-08,2025-02-13,5,Semi-Private,Health Insurance,40200,4000,30900,5300,Insurance,3.5,Discharged,Feb,2,0-18
+P10679,Rohan Mehta,32,Female,Pune,Cardiology,Dr. Amit Shah,Diabetes,Emergency,2025-02-08,2025-02-10,2,Private,Self Pay,48500,7300,0,41200,Cash,4.4,Discharged,Feb,2,19-35
+P10133,Aarav Nair,71,Female,Mumbai,Cardiology,Dr. Amit Shah,Fracture,Emergency,2025-02-08,2025-02-18,10,ICU,Corporate Insurance,182200,0,119600,62600,Card,4.6,Discharged,Feb,2,66+
+P10210,Neha Kulkarni,53,Other,Navi Mumbai,Neurology,Dr. Kavita Rao,Skin Infection,Planned,2025-02-08,2025-02-09,1,Semi-Private,Health Insurance,58500,2900,43100,12500,Cash,4.0,Discharged,Feb,2,51-65
+P10407,Pooja Chavan,15,Female,Mumbai,Dermatology,Dr. Neha Mehta,Migraine,Planned,2025-02-08,2025-02-09,1,Semi-Private,Health Insurance,9500,500,6900,2100,UPI,4.0,Discharged,Feb,2,0-18
+P10220,Sneha Jadhav,44,Male,Mumbai,Pediatrics,Dr. Rohan Shah,Hypertension,Emergency,2025-02-08,2025-02-11,3,Private,Corporate Insurance,52500,0,49500,3000,Cash,5.0,Discharged,Feb,2,36-50
+P10873,Meera Jadhav,47,Male,Thane,Emergency,Dr. Sameer Khan,Migraine,Planned,2025-02-08,2025-02-13,5,General Ward,Self Pay,51100,0,0,51100,Insurance,2.7,Discharged,Feb,2,36-50
+P10096,Rohan Patil,48,Male,Pune,Oncology,Dr. Nitin Mehta,Asthma,Planned,2025-02-08,2025-02-13,5,Semi-Private,Health Insurance,107800,0,100100,7700,Cash,4.3,Under Treatment,Feb,2,36-50
+P10106,Rohan Patil,53,Female,Mumbai,Cardiology,Dr. Amit Shah,Pregnancy,Planned,2025-02-09,2025-02-13,4,Private,Corporate Insurance,61400,9200,28900,23300,Insurance,3.6,Discharged,Feb,2,51-65
+P10640,Meera More,37,Male,Kolhapur,Orthopedics,Dr. Sameer Patil,Migraine,Planned,2025-02-09,2025-02-11,2,General Ward,Health Insurance,34700,0,27400,7300,UPI,2.5,Discharged,Feb,2,36-50
+P10759,Neha Khan,88,Male,Aurangabad,Cardiology,Dr. Amit Shah,Ear Infection,Emergency,2025-02-11,2025-02-16,5,General Ward,Health Insurance,58100,0,39100,19000,Cash,5.0,Discharged,Feb,2,66+
+P10335,Meera Sharma,3,Male,Mumbai,Pediatrics,Dr. Sneha Desai,Diabetes,Planned,2025-02-11,2025-02-19,8,Private,Self Pay,66100,0,0,66100,Cash,3.8,Discharged,Feb,2,0-18
+P10337,Rahul Jadhav,18,Female,Nashik,Neurology,Dr. Kavita Rao,Cancer,Planned,2025-02-11,2025-02-15,4,General Ward,Health Insurance,42200,0,29000,13200,Cash,5.0,Discharged,Feb,2,0-18
+P10236,Sneha Joshi,36,Male,Ahmednagar,General Medicine,Dr. Priya Nair,Pneumonia,Emergency,2025-02-12,2025-02-15,3,Semi-Private,Health Insurance,28000,0,20900,7100,Insurance,4.2,Discharged,Feb,2,36-50
+P10024,Priya Sharma,36,Male,Nashik,Gynecology,Dr. Pooja Desai,Asthma,Planned,2025-02-13,2025-02-16,3,Semi-Private,Health Insurance,36100,0,26300,9800,UPI,4.0,Discharged,Feb,2,36-50
+P10619,Tanya Gupta,59,Female,Pune,Orthopedics,Dr. Sameer Patil,Asthma,Referral,2025-02-13,2025-02-16,3,General Ward,Self Pay,58500,2900,0,55600,UPI,4.3,Discharged,Feb,2,51-65
+P10792,Ira Chavan,38,Male,Nashik,Gynecology,Dr. Ananya Rao,Viral Fever,Planned,2025-02-13,2025-02-27,14,General Ward,Self Pay,39400,2000,0,37400,Insurance,4.4,Discharged,Feb,2,36-50
+P10135,Ananya Joshi,89,Male,Navi Mumbai,Neurology,Dr. Anil Joshi,Fracture,Planned,2025-02-14,2025-02-16,2,General Ward,Corporate Insurance,38700,0,28400,10300,Card,4.6,Discharged,Feb,2,66+
+P10021,Riya Singh,50,Male,Mumbai,Dermatology,Dr. Isha Patil,Diabetes,Emergency,2025-02-14,2025-02-18,4,Semi-Private,Corporate Insurance,35700,0,23100,12600,UPI,4.4,Discharged,Feb,2,36-50
+P10549,Rahul Singh,40,Female,Pune,Neurology,Dr. Kavita Rao,Fracture,Planned,2025-02-14,2025-02-18,4,ICU,Health Insurance,97200,0,68800,28400,UPI,5.0,Discharged,Feb,2,36-50
+P10618,Karan Khan,55,Female,Ahmednagar,Oncology,Dr. Nitin Mehta,Hypertension,Planned,2025-02-15,2025-02-20,5,Semi-Private,Health Insurance,100000,5000,80700,14300,Insurance,4.1,Discharged,Feb,2,51-65
+P10377,Meera Deshmukh,26,Female,Pune,Orthopedics,Dr. Sameer Patil,Diabetes,Emergency,2025-02-15,2025-02-17,2,ICU,Corporate Insurance,66100,0,57100,9000,UPI,5.0,Discharged,Feb,2,19-35
+P10223,Riya Patil,19,Female,Pune,Emergency,Dr. Arjun Patil,Asthma,Emergency,2025-02-15,2025-02-18,3,General Ward,Government Scheme,21100,0,18800,2300,Cash,2.6,Discharged,Feb,2,19-35
+P10684,Kabir More,45,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Skin Infection,Emergency,2025-02-15,2025-02-17,2,General Ward,Health Insurance,17000,1700,12900,2400,Insurance,3.7,Under Treatment,Feb,2,36-50
+P10272,Pooja Khan,37,Female,Ahmednagar,ENT,Dr. Meenal Joshi,Fracture,Emergency,2025-02-16,2025-02-21,5,General Ward,Corporate Insurance,13600,700,7600,5300,Insurance,3.3,Discharged,Feb,2,36-50
+P10194,Diya Kulkarni,74,Other,Mumbai,Neurology,Dr. Anil Joshi,Back Pain,Referral,2025-02-16,2025-02-18,2,General Ward,Health Insurance,50100,0,43500,6600,Card,4.0,Discharged,Feb,2,66+
+P10580,Neha Jadhav,43,Female,Thane,ENT,Dr. Meenal Joshi,Skin Infection,Planned,2025-02-16,2025-02-20,4,General Ward,Self Pay,26300,1300,0,25000,Cash,3.5,Discharged,Feb,2,36-50
+P10460,Priya Khan,49,Male,Kolhapur,General Medicine,Dr. Priya Nair,Fracture,Planned,2025-02-16,2025-02-20,4,General Ward,Health Insurance,22900,0,14400,8500,Insurance,3.6,Discharged,Feb,2,36-50
+P10850,Pooja Sharma,39,Female,Satara,Pediatrics,Dr. Sneha Desai,Kidney Stone,Planned,2025-02-17,2025-02-19,2,Private,Government Scheme,32100,1600,27700,2800,Card,4.4,Under Treatment,Feb,2,36-50
+P10202,Rahul More,27,Female,Aurangabad,Gynecology,Dr. Ananya Rao,Back Pain,Referral,2025-02-17,2025-02-18,1,General Ward,Health Insurance,22900,2300,17600,3000,Card,5.0,Discharged,Feb,2,19-35
+P10411,Diya Joshi,59,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Fracture,Planned,2025-02-18,2025-02-22,4,General Ward,Health Insurance,41900,4200,23600,14100,Card,5.0,Discharged,Feb,2,51-65
+P10150,Pooja Verma,50,Female,Pune,Pediatrics,Dr. Sneha Desai,Kidney Stone,Referral,2025-02-18,2025-02-20,2,General Ward,Health Insurance,31100,0,18700,12400,UPI,4.3,Under Treatment,Feb,2,36-50
+P10253,Aarav Verma,28,Female,Satara,Gynecology,Dr. Pooja Desai,Diabetes,Emergency,2025-02-18,2025-02-21,3,Semi-Private,Self Pay,40100,0,0,40100,UPI,4.3,Discharged,Feb,2,19-35
+P10472,Ananya Singh,28,Male,Kolhapur,Gynecology,Dr. Ananya Rao,Fracture,Planned,2025-02-18,2025-02-21,3,Private,Government Scheme,40300,2000,30800,7500,Insurance,3.5,Under Treatment,Feb,2,19-35
+P10685,Karan Sharma,63,Female,Thane,Neurology,Dr. Kavita Rao,Kidney Stone,Planned,2025-02-19,2025-03-01,10,General Ward,Health Insurance,56000,8400,36600,11000,Insurance,4.0,Discharged,Feb,2,51-65
+P10034,Kabir Kulkarni,40,Male,Thane,Oncology,Dr. Vikram Singh,Asthma,Emergency,2025-02-20,2025-02-24,4,General Ward,Health Insurance,96600,0,72700,23900,Insurance,4.2,Discharged,Feb,2,36-50
+P10239,Rohan Chavan,31,Male,Ahmednagar,ENT,Dr. Meenal Joshi,Fracture,Planned,2025-02-20,2025-02-23,3,General Ward,Health Insurance,25100,2500,21000,1600,Insurance,4.0,Under Treatment,Feb,2,19-35
+P10703,Karan Kulkarni,38,Female,Navi Mumbai,Emergency,Dr. Arjun Patil,Heart Disease,Emergency,2025-02-20,2025-02-23,3,General Ward,Government Scheme,35200,0,30800,4400,Cash,4.0,Discharged,Feb,2,36-50
+P10717,Arjun Joshi,4,Male,Mumbai,Cardiology,Dr. Amit Shah,Ear Infection,Planned,2025-02-20,2025-02-28,8,General Ward,Government Scheme,66800,3300,39700,23800,Insurance,3.5,Discharged,Feb,2,0-18
+P10151,Arjun Kulkarni,72,Male,Nagpur,Emergency,Dr. Sameer Khan,Heart Disease,Emergency,2025-02-21,2025-02-27,6,General Ward,Self Pay,31300,0,0,31300,Insurance,3.9,Under Treatment,Feb,2,66+
+P10542,Aditya Deshmukh,19,Female,Thane,Gynecology,Dr. Ananya Rao,Viral Fever,Emergency,2025-02-21,2025-02-24,3,General Ward,Health Insurance,37500,0,28500,9000,UPI,3.2,Discharged,Feb,2,19-35
+P10048,Ishaan Gupta,52,Female,Mumbai,Dermatology,Dr. Isha Patil,Kidney Stone,Referral,2025-02-21,2025-02-24,3,General Ward,Health Insurance,5000,0,3200,1800,Cash,4.0,Referred,Feb,2,51-65
+P10714,Priya Sharma,29,Female,Aurangabad,Dermatology,Dr. Isha Patil,Skin Infection,Planned,2025-02-21,2025-02-22,1,General Ward,Corporate Insurance,14800,1500,11400,1900,UPI,5.0,Under Treatment,Feb,2,19-35
+P10195,Sneha Singh,11,Female,Thane,Oncology,Dr. Nitin Mehta,Skin Infection,Emergency,2025-02-22,2025-02-28,6,General Ward,Health Insurance,90800,0,77900,12900,Insurance,4.9,Discharged,Feb,2,0-18
+P10199,Ishaan Gupta,48,Male,Thane,Gynecology,Dr. Ananya Rao,Diabetes,Planned,2025-02-22,2025-02-25,3,Semi-Private,Government Scheme,41700,2100,31000,8600,Cash,4.1,Referred,Feb,2,36-50
+P10357,Diya Pawar,29,Male,Nagpur,ENT,Dr. Karan Shah,Diabetes,Referral,2025-02-22,2025-02-25,3,General Ward,Health Insurance,6900,0,4100,2800,Card,3.2,Discharged,Feb,2,19-35
+P10603,Rohan Verma,63,Female,Aurangabad,Dermatology,Dr. Neha Mehta,Back Pain,Planned,2025-02-22,2025-02-26,4,ICU,Health Insurance,55000,0,39700,15300,Cash,4.1,Discharged,Feb,2,51-65
+P10968,Aisha Chavan,54,Male,Mumbai,Dermatology,Dr. Neha Mehta,Back Pain,Planned,2025-02-24,2025-03-02,6,General Ward,Corporate Insurance,18200,900,10300,7000,Insurance,1.9,Under Treatment,Feb,2,51-65
+P10597,Aisha Gupta,41,Female,Mumbai,Cardiology,Dr. Amit Shah,Skin Infection,Emergency,2025-02-24,2025-03-01,5,Semi-Private,Health Insurance,56300,0,51200,5100,Insurance,2.2,Discharged,Feb,2,36-50
+P10066,Neha More,42,Female,Nashik,Orthopedics,Dr. Raj Mehta,Pregnancy,Emergency,2025-02-25,2025-03-06,9,Semi-Private,Self Pay,47700,0,0,47700,Insurance,2.9,Under Treatment,Feb,2,36-50
+P10427,Rohan Sharma,52,Male,Thane,Pediatrics,Dr. Rohan Shah,Kidney Stone,Referral,2025-02-25,2025-02-27,2,General Ward,Self Pay,25600,0,0,25600,UPI,4.4,Discharged,Feb,2,51-65
+P10911,Diya Nair,29,Female,Pune,Emergency,Dr. Arjun Patil,Skin Infection,Emergency,2025-02-26,2025-03-01,3,ICU,Corporate Insurance,70600,3500,37700,29400,Cash,4.6,Discharged,Feb,2,19-35
+P10105,Aditya Patil,63,Male,Pune,Cardiology,Dr. Neeraj Kulkarni,Hypertension,Emergency,2025-02-26,2025-03-06,8,General Ward,Corporate Insurance,58100,0,35700,22400,Card,3.5,Discharged,Feb,2,51-65
+P10586,Arjun Mehta,54,Male,Mumbai,Dermatology,Dr. Neha Mehta,Pneumonia,Emergency,2025-02-27,2025-03-01,2,General Ward,Self Pay,28000,0,0,28000,Cash,5.0,Under Treatment,Feb,2,51-65
+P10831,Neha Gupta,23,Male,Mumbai,Pediatrics,Dr. Rohan Shah,Pregnancy,Referral,2025-02-27,2025-03-01,2,General Ward,Health Insurance,37500,3800,28400,5300,Card,3.2,Discharged,Feb,2,19-35
+P10341,Pooja Gupta,1,Male,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Ear Infection,Emergency,2025-02-27,2025-02-28,1,General Ward,Government Scheme,39500,0,22200,17300,Insurance,4.5,Discharged,Feb,2,0-18
+P10536,Vivaan Pawar,24,Female,Mumbai,Emergency,Dr. Arjun Patil,Pregnancy,Planned,2025-02-27,2025-03-05,6,ICU,Self Pay,100100,0,0,100100,UPI,3.8,Discharged,Feb,2,19-35
+P10299,Priya Chavan,23,Male,Mumbai,Dermatology,Dr. Neha Mehta,Cancer,Emergency,2025-02-27,2025-03-03,4,Private,Health Insurance,42800,0,34500,8300,UPI,3.6,Discharged,Feb,2,19-35
+P10478,Aditya Gupta,59,Male,Mumbai,General Medicine,Dr. Priya Nair,Fracture,Planned,2025-02-28,2025-03-05,5,General Ward,Corporate Insurance,29500,0,16200,13300,Cash,4.4,Discharged,Feb,2,51-65
+P10388,Pooja Deshmukh,43,Female,Mumbai,ENT,Dr. Karan Shah,Kidney Stone,Emergency,2025-02-28,2025-03-05,5,General Ward,Health Insurance,24600,0,14700,9900,Card,2.6,Under Treatment,Feb,2,36-50
+P10898,Diya Patil,60,Male,Nagpur,Orthopedics,Dr. Sameer Patil,Migraine,Planned,2025-03-01,2025-03-11,10,General Ward,Government Scheme,44100,4400,24600,15100,UPI,4.0,Discharged,Mar,3,51-65
+P10528,Pooja Gupta,31,Female,Kolhapur,Pediatrics,Dr. Rohan Shah,Back Pain,Planned,2025-03-03,2025-03-05,2,Semi-Private,Self Pay,23600,0,0,23600,Card,3.7,Discharged,Mar,3,19-35
+P10564,Neha Jadhav,33,Female,Navi Mumbai,Pediatrics,Dr. Sneha Desai,Asthma,Emergency,2025-03-03,2025-03-05,2,Semi-Private,Corporate Insurance,30100,4500,20200,5400,Insurance,3.7,Discharged,Mar,3,19-35
+P10509,Kabir Khan,4,Male,Kolhapur,Neurology,Dr. Kavita Rao,Fracture,Emergency,2025-03-03,2025-03-09,6,Semi-Private,Self Pay,60100,3000,0,57100,UPI,4.6,Discharged,Mar,3,0-18
+P10739,Ishaan Joshi,6,Female,Ahmednagar,Emergency,Dr. Arjun Patil,Kidney Stone,Emergency,2025-03-04,2025-03-12,8,General Ward,Corporate Insurance,57400,8600,39600,9200,UPI,3.3,Discharged,Mar,3,0-18
+P10205,Neha Pawar,62,Male,Mumbai,Gynecology,Dr. Pooja Desai,Fracture,Referral,2025-03-05,2025-03-07,2,General Ward,Self Pay,37200,0,0,37200,UPI,4.6,Discharged,Mar,3,51-65
+P10213,Rahul Deshmukh,30,Female,Mumbai,Oncology,Dr. Vikram Singh,Diabetes,Emergency,2025-03-05,2025-03-09,4,Semi-Private,Corporate Insurance,99800,10000,57300,32500,Insurance,4.2,Discharged,Mar,3,19-35
+P10578,Meera Verma,21,Female,Satara,Neurology,Dr. Kavita Rao,Migraine,Emergency,2025-03-05,2025-03-07,2,ICU,Self Pay,78300,7800,0,70500,UPI,3.3,Discharged,Mar,3,19-35
+P10765,Riya Verma,38,Female,Mumbai,Pediatrics,Dr. Rohan Shah,Kidney Stone,Referral,2025-03-05,2025-03-09,4,General Ward,Self Pay,26700,0,0,26700,Cash,3.5,Discharged,Mar,3,36-50
+P10369,Sneha Jadhav,22,Female,Thane,Neurology,Dr. Kavita Rao,Cancer,Referral,2025-03-06,2025-03-18,12,Semi-Private,Health Insurance,71500,0,54500,17000,UPI,3.6,Discharged,Mar,3,19-35
+P10437,Arjun Verma,30,Male,Nagpur,Gynecology,Dr. Pooja Desai,Viral Fever,Planned,2025-03-06,2025-03-10,4,Private,Corporate Insurance,62400,0,56600,5800,UPI,3.6,Referred,Mar,3,19-35
+P10224,Riya Pawar,17,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Cancer,Planned,2025-03-07,2025-03-21,14,General Ward,Corporate Insurance,42800,4300,29100,9400,Card,3.6,Discharged,Mar,3,0-18
+P10455,Arjun Patil,33,Male,Thane,Dermatology,Dr. Neha Mehta,Fracture,Referral,2025-03-07,2025-03-08,1,General Ward,Corporate Insurance,20700,1000,12900,6800,UPI,5.0,Discharged,Mar,3,19-35
+P10084,Meera More,82,Female,Mumbai,Gynecology,Dr. Pooja Desai,Migraine,Emergency,2025-03-07,2025-03-14,7,General Ward,Self Pay,41500,0,0,41500,Insurance,3.6,Discharged,Mar,3,66+
+P10962,Karan Jadhav,9,Female,Mumbai,Neurology,Dr. Anil Joshi,Diabetes,Emergency,2025-03-07,2025-03-09,2,General Ward,Health Insurance,44000,0,40200,3800,UPI,3.9,Referred,Mar,3,0-18
+P10358,Ananya Verma,45,Female,Pune,ENT,Dr. Karan Shah,Heart Disease,Emergency,2025-03-07,2025-03-11,4,General Ward,Health Insurance,24400,1200,19300,3900,Card,4.1,Under Treatment,Mar,3,36-50
+P10127,Aditya Chavan,43,Male,Mumbai,General Medicine,Dr. Rahul Verma,Hypertension,Emergency,2025-03-07,2025-03-09,2,Semi-Private,Self Pay,31100,0,0,31100,UPI,3.5,Under Treatment,Mar,3,36-50
+P10121,Diya Chavan,45,Male,Thane,Oncology,Dr. Vikram Singh,Kidney Stone,Emergency,2025-03-08,2025-03-17,9,General Ward,Health Insurance,106300,10600,75800,19900,Insurance,3.7,Discharged,Mar,3,36-50
+P10352,Aisha Chavan,60,Male,Mumbai,Pediatrics,Dr. Sneha Desai,Back Pain,Referral,2025-03-08,2025-03-15,7,Private,Corporate Insurance,53500,0,44400,9100,Cash,4.6,Referred,Mar,3,51-65
+P10555,Neha Singh,15,Female,Satara,Orthopedics,Dr. Sameer Patil,Heart Disease,Planned,2025-03-08,2025-03-09,1,Private,Self Pay,33400,0,0,33400,Insurance,3.2,Discharged,Mar,3,0-18
+P10035,Ananya Mehta,58,Female,Nagpur,Oncology,Dr. Nitin Mehta,Pregnancy,Planned,2025-03-08,2025-03-14,6,Private,Government Scheme,110100,0,91100,19000,Cash,3.2,Discharged,Mar,3,51-65
+P10566,Ishaan Nair,90,Male,Mumbai,Emergency,Dr. Arjun Patil,Ear Infection,Emergency,2025-03-09,2025-03-13,4,General Ward,Government Scheme,46300,4600,29600,12100,Insurance,4.9,Discharged,Mar,3,66+
+P10449,Karan Khan,32,Other,Mumbai,Gynecology,Dr. Ananya Rao,Ear Infection,Planned,2025-03-09,2025-03-11,2,Semi-Private,Self Pay,39100,3900,0,35200,UPI,4.5,Discharged,Mar,3,19-35
+P10398,Meera Mehta,16,Male,Nagpur,Cardiology,Dr. Amit Shah,Heart Disease,Planned,2025-03-09,2025-03-16,7,General Ward,Health Insurance,46100,0,43400,2700,Cash,3.6,Discharged,Mar,3,0-18
+P10502,Neha Kulkarni,3,Male,Kolhapur,Pediatrics,Dr. Sneha Desai,Pregnancy,Emergency,2025-03-10,2025-03-19,9,Private,Health Insurance,72300,3600,46700,22000,Insurance,3.3,Discharged,Mar,3,0-18
+P10242,Tanya Deshmukh,58,Male,Thane,ENT,Dr. Karan Shah,Kidney Stone,Planned,2025-03-10,2025-03-16,6,General Ward,Corporate Insurance,13900,700,10500,2700,UPI,4.0,Discharged,Mar,3,51-65
+P10585,Riya Joshi,29,Male,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Migraine,Planned,2025-03-10,2025-03-14,4,General Ward,Self Pay,54400,2700,0,51700,Cash,4.1,Discharged,Mar,3,19-35
+P10810,Diya More,65,Male,Mumbai,Emergency,Dr. Sameer Khan,Hypertension,Planned,2025-03-10,2025-03-11,1,General Ward,Health Insurance,39000,0,30700,8300,UPI,4.3,Discharged,Mar,3,51-65
+P10807,Rohan Nair,52,Other,Nagpur,Oncology,Dr. Nitin Mehta,Pneumonia,Referral,2025-03-10,2025-03-16,6,ICU,Health Insurance,158200,23700,84800,49700,UPI,3.8,Discharged,Mar,3,51-65
+P10093,Ishaan Kulkarni,20,Female,Ahmednagar,Orthopedics,Dr. Raj Mehta,Kidney Stone,Planned,2025-03-10,2025-03-12,2,General Ward,Government Scheme,49900,5000,40700,4200,Insurance,3.2,Under Treatment,Mar,3,19-35
+P10548,Aisha Verma,44,Female,Thane,General Medicine,Dr. Priya Nair,Pneumonia,Emergency,2025-03-10,2025-03-14,4,General Ward,Health Insurance,30700,0,25600,5100,Insurance,3.0,Discharged,Mar,3,36-50
+P10862,Meera Gupta,19,Male,Mumbai,Oncology,Dr. Vikram Singh,Back Pain,Emergency,2025-03-10,2025-03-13,3,Private,Health Insurance,101300,0,85300,16000,Card,4.3,Discharged,Mar,3,19-35
+P10139,Tanya Pawar,37,Male,Mumbai,Dermatology,Dr. Neha Mehta,Migraine,Referral,2025-03-11,2025-03-18,7,Private,Corporate Insurance,45900,4600,31000,10300,Insurance,5.0,Discharged,Mar,3,36-50
+P10695,Meera Gupta,8,Female,Mumbai,Gynecology,Dr. Ananya Rao,Hypertension,Emergency,2025-03-11,2025-03-12,1,General Ward,Corporate Insurance,22200,2200,11600,8400,Cash,2.9,Under Treatment,Mar,3,0-18
+P10128,Riya Mehta,65,Female,Mumbai,Neurology,Dr. Kavita Rao,Back Pain,Planned,2025-03-11,2025-03-18,7,General Ward,Self Pay,62000,0,0,62000,Card,3.1,Discharged,Mar,3,51-65
+P10595,Ira Khan,48,Male,Navi Mumbai,Emergency,Dr. Arjun Patil,Migraine,Emergency,2025-03-12,2025-03-16,4,Private,Corporate Insurance,45700,2300,28200,15200,UPI,4.1,Discharged,Mar,3,36-50
+P10658,Aisha Singh,62,Female,Pune,General Medicine,Dr. Rahul Verma,Cancer,Emergency,2025-03-13,2025-03-16,3,Semi-Private,Self Pay,16300,1600,0,14700,Card,2.1,Discharged,Mar,3,51-65
+P10148,Aarav Verma,30,Other,Pune,Pediatrics,Dr. Rohan Shah,Back Pain,Emergency,2025-03-13,2025-03-25,12,General Ward,Health Insurance,39700,0,29500,10200,Cash,4.9,Discharged,Mar,3,19-35
+P10263,Rohan Pawar,47,Male,Mumbai,Gynecology,Dr. Ananya Rao,Pregnancy,Planned,2025-03-13,2025-03-16,3,Semi-Private,Health Insurance,31200,3100,23800,4300,UPI,2.6,Under Treatment,Mar,3,36-50
+P10690,Priya Singh,59,Male,Kolhapur,Dermatology,Dr. Isha Patil,Fracture,Planned,2025-03-13,2025-03-18,5,Semi-Private,Self Pay,20500,0,0,20500,Insurance,2.4,Discharged,Mar,3,51-65
+P10471,Rohan Pawar,45,Female,Aurangabad,Gynecology,Dr. Pooja Desai,Kidney Stone,Emergency,2025-03-14,2025-03-23,9,General Ward,Health Insurance,39300,3900,26100,9300,UPI,3.6,Under Treatment,Mar,3,36-50
+P10324,Aarav Kulkarni,57,Female,Nagpur,Orthopedics,Dr. Raj Mehta,Viral Fever,Planned,2025-03-14,2025-03-16,2,General Ward,Government Scheme,51200,0,41900,9300,Card,3.1,Under Treatment,Mar,3,51-65
+P10925,Rahul Pawar,90,Female,Satara,General Medicine,Dr. Priya Nair,Ear Infection,Planned,2025-03-14,2025-03-21,7,General Ward,Government Scheme,20900,2100,16000,2800,Insurance,4.9,Discharged,Mar,3,66+
+P10345,Meera Jadhav,48,Female,Mumbai,Neurology,Dr. Kavita Rao,Ear Infection,Emergency,2025-03-14,2025-03-16,2,Semi-Private,Health Insurance,61700,0,40700,21000,UPI,3.6,Referred,Mar,3,36-50
+P10033,Arjun Sharma,49,Female,Nashik,Pediatrics,Dr. Sneha Desai,Ear Infection,Planned,2025-03-15,2025-03-22,7,Private,Government Scheme,63500,0,38300,25200,Insurance,4.6,Discharged,Mar,3,36-50
+P10499,Kabir Sharma,65,Male,Mumbai,Pediatrics,Dr. Rohan Shah,Viral Fever,Emergency,2025-03-15,2025-03-17,2,ICU,Corporate Insurance,52100,0,46000,6100,Insurance,4.5,Under Treatment,Mar,3,51-65
+P10009,Vivaan Verma,11,Female,Aurangabad,Pediatrics,Dr. Sneha Desai,Migraine,Emergency,2025-03-15,2025-03-18,3,General Ward,Health Insurance,23300,0,20400,2900,Insurance,4.2,Discharged,Mar,3,0-18
+P10401,Rahul Singh,54,Female,Mumbai,Cardiology,Dr. Amit Shah,Skin Infection,Referral,2025-03-16,2025-03-19,3,Private,Health Insurance,71000,7100,41400,22500,UPI,3.0,Discharged,Mar,3,51-65
+P10525,Rahul Sharma,49,Male,Satara,Oncology,Dr. Nitin Mehta,Pneumonia,Planned,2025-03-16,2025-03-19,3,General Ward,Health Insurance,79900,0,51400,28500,UPI,4.6,Discharged,Mar,3,36-50
+P10124,Kabir Jadhav,73,Male,Nagpur,Neurology,Dr. Anil Joshi,Pneumonia,Planned,2025-03-16,2025-03-18,2,General Ward,Government Scheme,48000,4800,37300,5900,Insurance,4.3,Discharged,Mar,3,66+
+P10799,Aisha More,28,Female,Mumbai,Neurology,Dr. Kavita Rao,Hypertension,Emergency,2025-03-17,2025-03-19,2,Semi-Private,Health Insurance,55100,8300,37200,9600,UPI,4.1,Under Treatment,Mar,3,19-35
+P10250,Vivaan Mehta,54,Female,Navi Mumbai,General Medicine,Dr. Priya Nair,Asthma,Planned,2025-03-17,2025-03-19,2,ICU,Health Insurance,33800,1700,19700,12400,Insurance,4.6,Discharged,Mar,3,51-65
+P10082,Riya Kulkarni,24,Female,Navi Mumbai,Emergency,Dr. Arjun Patil,Fracture,Emergency,2025-03-18,2025-03-19,1,General Ward,Self Pay,24700,0,0,24700,Cash,4.4,Discharged,Mar,3,19-35
+P10882,Riya More,47,Male,Mumbai,General Medicine,Dr. Rahul Verma,Viral Fever,Emergency,2025-03-18,2025-03-21,3,General Ward,Health Insurance,23400,0,21400,2000,UPI,5.0,Referred,Mar,3,36-50
+P10919,Kabir Chavan,13,Male,Satara,Orthopedics,Dr. Sameer Patil,Heart Disease,Emergency,2025-03-18,2025-03-22,4,General Ward,Corporate Insurance,44400,0,41200,3200,Insurance,3.6,Under Treatment,Mar,3,0-18
+P10026,Vivaan Mehta,41,Male,Mumbai,Oncology,Dr. Vikram Singh,Ear Infection,Planned,2025-03-19,2025-03-20,1,General Ward,Corporate Insurance,94200,4700,49800,39700,Insurance,4.1,Discharged,Mar,3,36-50
+P10416,Neha Nair,57,Female,Ahmednagar,Oncology,Dr. Nitin Mehta,Pregnancy,Emergency,2025-03-20,2025-03-22,2,General Ward,Self Pay,91000,9100,0,81900,UPI,4.7,Discharged,Mar,3,51-65
+P10906,Karan Singh,47,Female,Mumbai,Orthopedics,Dr. Sameer Patil,Kidney Stone,Planned,2025-03-20,2025-03-22,2,ICU,Health Insurance,66000,0,52700,13300,UPI,4.0,Discharged,Mar,3,36-50
+P10163,Aditya Patil,70,Female,Mumbai,Orthopedics,Dr. Sameer Patil,Diabetes,Planned,2025-03-20,2025-03-21,1,Private,Health Insurance,44500,2200,35400,6900,UPI,4.8,Discharged,Mar,3,66+
+P10713,Meera Patil,49,Other,Pune,Pediatrics,Dr. Rohan Shah,Pneumonia,Emergency,2025-03-20,2025-03-23,3,Private,Government Scheme,41700,0,37000,4700,Insurance,3.3,Discharged,Mar,3,36-50
+P10945,Aisha More,24,Male,Nashik,Emergency,Dr. Sameer Khan,Kidney Stone,Emergency,2025-03-21,2025-03-25,4,Semi-Private,Government Scheme,34100,3400,26100,4600,Cash,4.9,Discharged,Mar,3,19-35
+P10434,Diya Kulkarni,54,Female,Thane,Emergency,Dr. Arjun Patil,Migraine,Planned,2025-03-21,2025-03-26,5,Semi-Private,Corporate Insurance,42600,0,25900,16700,Insurance,2.8,Discharged,Mar,3,51-65
+P10309,Ishaan More,42,Male,Satara,Dermatology,Dr. Neha Mehta,Kidney Stone,Planned,2025-03-21,2025-03-24,3,Private,Health Insurance,40100,2000,21800,16300,Insurance,2.8,Discharged,Mar,3,36-50
+P10488,Vivaan Nair,24,Female,Ahmednagar,Pediatrics,Dr. Sneha Desai,Hypertension,Planned,2025-03-23,2025-03-27,4,Private,Government Scheme,47000,4700,39100,3200,Insurance,5.0,Under Treatment,Mar,3,19-35
+P10360,Rahul Khan,43,Male,Mumbai,Gynecology,Dr. Ananya Rao,Ear Infection,Referral,2025-03-23,2025-03-29,6,Private,Corporate Insurance,62200,0,58000,4200,Cash,4.1,Discharged,Mar,3,36-50
+P10520,Aarav Kulkarni,34,Female,Navi Mumbai,Neurology,Dr. Kavita Rao,Viral Fever,Emergency,2025-03-23,2025-03-26,3,Private,Health Insurance,50700,2500,29600,18600,Insurance,2.1,Discharged,Mar,3,19-35
+P10168,Meera Joshi,45,Male,Pune,Orthopedics,Dr. Raj Mehta,Viral Fever,Emergency,2025-03-23,2025-03-25,2,Private,Government Scheme,50900,0,38200,12700,Cash,4.7,Discharged,Mar,3,36-50
+P10644,Sneha Verma,46,Male,Nashik,Dermatology,Dr. Neha Mehta,Skin Infection,Planned,2025-03-24,2025-04-01,8,Semi-Private,Corporate Insurance,37400,1900,30900,4600,UPI,3.5,Under Treatment,Mar,3,36-50
+P10436,Arjun Verma,60,Male,Nagpur,Emergency,Dr. Sameer Khan,Ear Infection,Planned,2025-03-24,2025-03-26,2,ICU,Health Insurance,63300,0,55800,7500,Insurance,4.0,Discharged,Mar,3,51-65
+P10934,Priya Chavan,62,Male,Mumbai,General Medicine,Dr. Rahul Verma,Heart Disease,Referral,2025-03-25,2025-04-04,10,Semi-Private,Government Scheme,45300,2300,31900,11100,Insurance,3.4,Discharged,Mar,3,51-65
+P10311,Diya Nair,11,Male,Mumbai,Dermatology,Dr. Neha Mehta,Pneumonia,Planned,2025-03-25,2025-03-26,1,General Ward,Government Scheme,15300,0,11800,3500,Insurance,5.0,Under Treatment,Mar,3,0-18
+P10094,Rahul Nair,75,Male,Thane,Oncology,Dr. Nitin Mehta,Migraine,Emergency,2025-03-25,2025-03-30,5,Private,Health Insurance,108400,5400,74700,28300,UPI,3.9,Discharged,Mar,3,66+
+P10237,Rohan Kulkarni,68,Female,Mumbai,Neurology,Dr. Anil Joshi,Kidney Stone,Emergency,2025-03-25,2025-04-02,8,General Ward,Corporate Insurance,55700,0,38800,16900,Card,2.7,Discharged,Mar,3,66+
+P10465,Aditya Chavan,65,Male,Navi Mumbai,Pediatrics,Dr. Sneha Desai,Viral Fever,Planned,2025-03-26,2025-03-29,3,ICU,Self Pay,53500,5400,0,48100,Insurance,3.6,Discharged,Mar,3,51-65
+P10808,Kabir Singh,39,Female,Mumbai,Neurology,Dr. Anil Joshi,Pregnancy,Referral,2025-03-26,2025-03-30,4,Private,Government Scheme,66000,0,45300,20700,Cash,2.2,Discharged,Mar,3,36-50
+P10615,Riya Verma,18,Female,Nagpur,Emergency,Dr. Arjun Patil,Migraine,Emergency,2025-03-26,2025-03-28,2,Private,Government Scheme,39900,2000,25200,12700,Insurance,3.0,Referred,Mar,3,0-18
+P10252,Riya Khan,24,Male,Nashik,General Medicine,Dr. Rahul Verma,Viral Fever,Referral,2025-03-26,2025-04-03,8,General Ward,Health Insurance,22000,0,18400,3600,Insurance,4.2,Discharged,Mar,3,19-35
+P10785,Meera Jadhav,42,Female,Pune,Dermatology,Dr. Neha Mehta,Skin Infection,Emergency,2025-03-28,2025-04-03,6,Private,Health Insurance,44400,0,36100,8300,Card,3.2,Referred,Mar,3,36-50
+P10169,Rahul Nair,66,Female,Aurangabad,Pediatrics,Dr. Sneha Desai,Ear Infection,Emergency,2025-03-28,2025-03-29,1,Private,Health Insurance,31500,1600,25600,4300,UPI,3.9,Discharged,Mar,3,66+
+P10361,Arjun Khan,44,Female,Thane,Orthopedics,Dr. Sameer Patil,Viral Fever,Emergency,2025-03-28,2025-04-04,7,General Ward,Self Pay,42600,0,0,42600,Insurance,3.4,Discharged,Mar,3,36-50
+P10347,Sneha Kulkarni,65,Male,Nashik,Dermatology,Dr. Neha Mehta,Asthma,Referral,2025-03-28,2025-04-02,5,General Ward,Self Pay,30800,1500,0,29300,Insurance,3.8,Discharged,Mar,3,51-65
+P10046,Neha Jadhav,14,Female,Pune,Pediatrics,Dr. Sneha Desai,Hypertension,Planned,2025-03-29,2025-04-02,4,General Ward,Self Pay,26100,0,0,26100,Card,4.6,Referred,Mar,3,0-18
+P10706,Kabir Khan,57,Female,Nashik,Neurology,Dr. Anil Joshi,Viral Fever,Emergency,2025-03-30,2025-04-04,5,Semi-Private,Self Pay,55800,0,0,55800,Insurance,5.0,Referred,Mar,3,51-65
+P10144,Karan Gupta,23,Male,Thane,Pediatrics,Dr. Sneha Desai,Diabetes,Emergency,2025-03-30,2025-04-15,16,Semi-Private,Self Pay,74100,3700,0,70400,Insurance,4.5,Discharged,Mar,3,19-35
+P10874,Ira Singh,60,Female,Nashik,Gynecology,Dr. Ananya Rao,Skin Infection,Planned,2025-03-30,2025-03-31,1,Semi-Private,Health Insurance,32500,0,25000,7500,UPI,2.7,Discharged,Mar,3,51-65
+P10282,Rohan Gupta,36,Female,Thane,Cardiology,Dr. Amit Shah,Pneumonia,Planned,2025-03-31,2025-04-01,1,Private,Health Insurance,43100,0,39800,3300,Card,4.7,Discharged,Mar,3,36-50
+P10897,Ira Singh,48,Female,Pune,General Medicine,Dr. Rahul Verma,Ear Infection,Emergency,2025-03-31,2025-04-04,4,Semi-Private,Health Insurance,31700,0,28900,2800,Cash,3.8,Discharged,Mar,3,36-50
+P10328,Arjun Kulkarni,42,Female,Mumbai,Gynecology,Dr. Pooja Desai,Ear Infection,Planned,2025-03-31,2025-04-08,8,Private,Self Pay,74900,3700,0,71200,Card,3.3,Discharged,Mar,3,36-50
+P10464,Riya Singh,27,Male,Mumbai,Emergency,Dr. Arjun Patil,Fracture,Planned,2025-03-31,2025-04-01,1,Private,Government Scheme,26800,0,23100,3700,UPI,4.5,Discharged,Mar,3,19-35
+P10137,Sneha Khan,56,Male,Mumbai,Dermatology,Dr. Neha Mehta,Heart Disease,Planned,2025-04-01,2025-04-03,2,ICU,Health Insurance,42600,2100,29300,11200,Insurance,4.4,Discharged,Apr,4,51-65
+P10225,Rohan Khan,56,Male,Ahmednagar,Oncology,Dr. Nitin Mehta,Pneumonia,Planned,2025-04-01,2025-04-03,2,General Ward,Health Insurance,90300,0,75200,15100,UPI,3.7,Discharged,Apr,4,51-65
+P10737,Diya Verma,55,Female,Thane,Pediatrics,Dr. Rohan Shah,Ear Infection,Emergency,2025-04-01,2025-04-13,12,General Ward,Health Insurance,48500,0,36700,11800,Card,4.3,Discharged,Apr,4,51-65
+P10326,Ishaan Gupta,39,Male,Thane,Cardiology,Dr. Amit Shah,Back Pain,Emergency,2025-04-01,2025-04-04,3,General Ward,Corporate Insurance,60300,9000,29400,21900,Insurance,3.3,Discharged,Apr,4,36-50
+P10964,Tanya Khan,31,Female,Thane,General Medicine,Dr. Priya Nair,Back Pain,Emergency,2025-04-02,2025-04-03,1,General Ward,Self Pay,27600,0,0,27600,Cash,4.3,Discharged,Apr,4,19-35
+P10182,Aditya Pawar,31,Male,Mumbai,Oncology,Dr. Vikram Singh,Asthma,Planned,2025-04-02,2025-04-07,5,ICU,Self Pay,150600,7500,0,143100,UPI,3.3,Discharged,Apr,4,19-35
+P10541,Priya Pawar,44,Female,Thane,Emergency,Dr. Sameer Khan,Heart Disease,Planned,2025-04-02,2025-04-03,1,Semi-Private,Health Insurance,32400,0,26900,5500,Card,3.9,Under Treatment,Apr,4,36-50
+P10738,Ananya Gupta,90,Female,Thane,ENT,Dr. Meenal Joshi,Skin Infection,Planned,2025-04-02,2025-04-04,2,Private,Self Pay,33400,0,0,33400,UPI,3.8,Discharged,Apr,4,66+
+P10303,Ira Gupta,31,Female,Nashik,ENT,Dr. Karan Shah,Diabetes,Emergency,2025-04-03,2025-04-08,5,ICU,Government Scheme,68600,3400,48700,16500,Card,2.6,Discharged,Apr,4,19-35
+P10317,Priya Jadhav,39,Male,Satara,Emergency,Dr. Arjun Patil,Skin Infection,Planned,2025-04-03,2025-04-06,3,Semi-Private,Corporate Insurance,45000,0,27400,17600,Insurance,3.5,Discharged,Apr,4,36-50
+P10913,Ira Verma,40,Female,Nashik,Orthopedics,Dr. Sameer Patil,Hypertension,Emergency,2025-04-03,2025-04-06,3,General Ward,Government Scheme,49400,0,35700,13700,Insurance,4.5,Under Treatment,Apr,4,36-50
+P10037,Ira Sharma,64,Female,Mumbai,Emergency,Dr. Arjun Patil,Kidney Stone,Emergency,2025-04-03,2025-04-08,5,General Ward,Government Scheme,41200,0,35900,5300,Insurance,4.1,Under Treatment,Apr,4,51-65
+P10854,Rahul Sharma,28,Male,Navi Mumbai,Orthopedics,Dr. Raj Mehta,Viral Fever,Planned,2025-04-04,2025-04-07,3,Semi-Private,Health Insurance,44500,4400,35000,5100,Card,4.0,Discharged,Apr,4,19-35
+P10815,Riya Jadhav,50,Male,Aurangabad,Dermatology,Dr. Neha Mehta,Kidney Stone,Emergency,2025-04-04,2025-04-11,7,General Ward,Corporate Insurance,21700,1100,17000,3600,Card,4.7,Discharged,Apr,4,36-50
+P10735,Rahul Patil,47,Female,Mumbai,Neurology,Dr. Anil Joshi,Heart Disease,Planned,2025-04-04,2025-04-06,2,Private,Health Insurance,49200,0,41000,8200,UPI,4.9,Discharged,Apr,4,36-50
+P10306,Sneha Gupta,28,Male,Pune,General Medicine,Dr. Priya Nair,Back Pain,Referral,2025-04-04,2025-04-10,6,Semi-Private,Health Insurance,40600,2000,31600,7000,Cash,4.0,Discharged,Apr,4,19-35
+P10289,Meera Singh,52,Male,Navi Mumbai,Cardiology,Dr. Amit Shah,Kidney Stone,Planned,2025-04-07,2025-04-15,8,General Ward,Self Pay,56100,5600,0,50500,Insurance,4.7,Discharged,Apr,4,51-65
+P10651,Arjun Patil,36,Female,Mumbai,Cardiology,Dr. Amit Shah,Diabetes,Emergency,2025-04-07,2025-04-09,2,Semi-Private,Corporate Insurance,48600,4900,34500,9200,UPI,4.8,Discharged,Apr,4,36-50
+P10216,Arjun Kulkarni,43,Female,Mumbai,Pediatrics,Dr. Rohan Shah,Viral Fever,Emergency,2025-04-07,2025-04-14,7,General Ward,Health Insurance,23800,0,17900,5900,Cash,5.0,Discharged,Apr,4,36-50
+P10175,Arjun Joshi,65,Male,Navi Mumbai,Oncology,Dr. Vikram Singh,Diabetes,Emergency,2025-04-08,2025-04-13,5,General Ward,Health Insurance,82200,8200,50500,23500,Cash,4.1,Discharged,Apr,4,51-65
+P10627,Ira Nair,38,Male,Mumbai,Dermatology,Dr. Neha Mehta,Diabetes,Emergency,2025-04-08,2025-04-13,5,Semi-Private,Self Pay,15900,0,0,15900,Insurance,4.2,Discharged,Apr,4,36-50
+P10546,Arjun Gupta,44,Male,Ahmednagar,Neurology,Dr. Anil Joshi,Ear Infection,Emergency,2025-04-08,2025-04-20,12,Semi-Private,Health Insurance,68500,0,50500,18000,Cash,4.0,Discharged,Apr,4,36-50
+P10231,Rahul Jadhav,22,Male,Mumbai,Dermatology,Dr. Neha Mehta,Heart Disease,Planned,2025-04-09,2025-04-12,3,Semi-Private,Self Pay,26800,0,0,26800,Cash,4.2,Discharged,Apr,4,19-35
+P10750,Sneha Verma,58,Female,Ahmednagar,Gynecology,Dr. Pooja Desai,Migraine,Referral,2025-04-09,2025-04-10,1,General Ward,Health Insurance,34400,0,19600,14800,UPI,4.6,Discharged,Apr,4,51-65
+P10811,Meera Sharma,66,Female,Navi Mumbai,General Medicine,Dr. Rahul Verma,Hypertension,Emergency,2025-04-09,2025-04-14,5,General Ward,Corporate Insurance,26700,0,23200,3500,Card,4.2,Under Treatment,Apr,4,66+
+P10480,Neha Mehta,68,Male,Nashik,General Medicine,Dr. Rahul Verma,Skin Infection,Planned,2025-04-09,2025-04-13,4,Semi-Private,Health Insurance,34200,0,23800,10400,Card,4.6,Discharged,Apr,4,66+
+P10701,Kabir Sharma,38,Male,Nagpur,ENT,Dr. Meenal Joshi,Ear Infection,Emergency,2025-04-09,2025-04-15,6,Semi-Private,Corporate Insurance,30700,0,21900,8800,Insurance,4.7,Discharged,Apr,4,36-50
+P10616,Neha Deshmukh,44,Female,Mumbai,Oncology,Dr. Nitin Mehta,Hypertension,Emergency,2025-04-10,2025-04-11,1,Semi-Private,Self Pay,78600,7900,0,70700,Cash,4.4,Referred,Apr,4,36-50
+P10457,Aditya Jadhav,26,Female,Nagpur,Neurology,Dr. Anil Joshi,Asthma,Planned,2025-04-10,2025-04-17,7,General Ward,Corporate Insurance,53700,8100,30000,15600,Insurance,3.7,Expired,Apr,4,19-35
+P10506,Diya Verma,19,Male,Mumbai,General Medicine,Dr. Rahul Verma,Migraine,Emergency,2025-04-10,2025-04-12,2,Semi-Private,Health Insurance,21900,0,17500,4400,Cash,3.2,Discharged,Apr,4,19-35
+P10970,Ira Patil,38,Male,Nagpur,Oncology,Dr. Nitin Mehta,Heart Disease,Emergency,2025-04-11,2025-04-20,9,General Ward,Corporate Insurance,85800,0,66100,19700,Insurance,4.3,Referred,Apr,4,36-50
+P10473,Pooja Singh,79,Male,Ahmednagar,ENT,Dr. Karan Shah,Fracture,Referral,2025-04-11,2025-04-16,5,General Ward,Self Pay,23900,0,0,23900,UPI,3.5,Discharged,Apr,4,66+
+P10932,Ira Deshmukh,38,Male,Mumbai,Emergency,Dr. Arjun Patil,Fracture,Planned,2025-04-11,2025-04-18,7,General Ward,Corporate Insurance,39500,4000,32600,2900,UPI,2.6,Discharged,Apr,4,36-50
+P10829,Aditya Joshi,79,Female,Aurangabad,Orthopedics,Dr. Sameer Patil,Kidney Stone,Planned,2025-04-11,2025-04-18,7,General Ward,Corporate Insurance,49000,0,43500,5500,UPI,3.6,Discharged,Apr,4,66+
+P10531,Aditya More,22,Male,Nashik,General Medicine,Dr. Priya Nair,Kidney Stone,Emergency,2025-04-12,2025-04-18,6,Semi-Private,Health Insurance,49900,2500,43000,4400,UPI,4.1,Expired,Apr,4,19-35
+P10222,Ananya More,84,Male,Navi Mumbai,Emergency,Dr. Arjun Patil,Kidney Stone,Referral,2025-04-12,2025-04-21,9,General Ward,Government Scheme,43400,0,38900,4500,Insurance,4.5,Discharged,Apr,4,66+
+P10319,Karan Sharma,32,Male,Thane,Emergency,Dr. Arjun Patil,Migraine,Emergency,2025-04-12,2025-04-14,2,Semi-Private,Health Insurance,34500,1700,27800,5000,Insurance,3.0,Discharged,Apr,4,19-35
+P10234,Rohan Kulkarni,44,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Kidney Stone,Referral,2025-04-13,2025-04-17,4,Private,Health Insurance,56400,2800,36000,17600,UPI,4.5,Discharged,Apr,4,36-50
+P10402,Vivaan Kulkarni,45,Male,Pune,Oncology,Dr. Nitin Mehta,Viral Fever,Planned,2025-04-13,2025-04-16,3,General Ward,Self Pay,93300,0,0,93300,Card,3.1,Discharged,Apr,4,36-50
+P10366,Pooja Gupta,33,Female,Thane,Gynecology,Dr. Ananya Rao,Migraine,Emergency,2025-04-13,2025-04-20,7,Semi-Private,Government Scheme,48900,4900,28700,15300,Insurance,3.2,Discharged,Apr,4,19-35
+P10459,Neha Chavan,54,Male,Kolhapur,Neurology,Dr. Anil Joshi,Diabetes,Planned,2025-04-13,2025-04-15,2,General Ward,Health Insurance,45800,4600,31200,10000,Cash,5.0,Discharged,Apr,4,51-65
+P10095,Karan More,27,Male,Mumbai,Cardiology,Dr. Amit Shah,Ear Infection,Emergency,2025-04-13,2025-04-18,5,General Ward,Health Insurance,69900,0,40600,29300,Insurance,4.2,Referred,Apr,4,19-35
+P10729,Aditya Mehta,44,Male,Pune,Dermatology,Dr. Isha Patil,Diabetes,Emergency,2025-04-13,2025-04-15,2,Semi-Private,Government Scheme,15700,1600,13300,800,UPI,3.8,Discharged,Apr,4,36-50
+P10967,Priya Khan,43,Female,Mumbai,Gynecology,Dr. Pooja Desai,Asthma,Emergency,2025-04-13,2025-04-17,4,General Ward,Health Insurance,30100,0,16700,13400,Cash,3.4,Discharged,Apr,4,36-50
+P10863,Ananya Mehta,42,Female,Satara,Pediatrics,Dr. Sneha Desai,Migraine,Planned,2025-04-14,2025-04-19,5,Semi-Private,Self Pay,29200,2900,0,26300,Cash,3.6,Discharged,Apr,4,36-50
+P10705,Rohan Gupta,33,Female,Mumbai,Pediatrics,Dr. Rohan Shah,Ear Infection,Emergency,2025-04-14,2025-04-17,3,General Ward,Corporate Insurance,34400,0,19300,15100,Insurance,3.2,Discharged,Apr,4,19-35
+P10617,Neha Gupta,62,Female,Nashik,Emergency,Dr. Sameer Khan,Migraine,Planned,2025-04-14,2025-04-19,5,ICU,Government Scheme,86800,0,58500,28300,Card,3.4,Referred,Apr,4,51-65
+P10824,Aditya Mehta,57,Male,Nashik,Oncology,Dr. Vikram Singh,Asthma,Planned,2025-04-15,2025-04-17,2,General Ward,Health Insurance,77800,0,59800,18000,Insurance,3.9,Under Treatment,Apr,4,51-65
+P10375,Vivaan Khan,48,Female,Mumbai,General Medicine,Dr. Priya Nair,Viral Fever,Planned,2025-04-15,2025-04-18,3,General Ward,Health Insurance,23600,2400,13300,7900,Card,4.4,Discharged,Apr,4,36-50
+P10497,Rahul Deshmukh,35,Female,Mumbai,Gynecology,Dr. Ananya Rao,Cancer,Emergency,2025-04-16,2025-04-18,2,Semi-Private,Health Insurance,41400,0,39300,2100,Insurance,4.3,Discharged,Apr,4,19-35
+P10587,Diya Nair,28,Male,Mumbai,Orthopedics,Dr. Raj Mehta,Asthma,Referral,2025-04-16,2025-04-17,1,Private,Health Insurance,48700,0,30700,18000,Card,3.3,Discharged,Apr,4,19-35
+P10001,Ishaan Mehta,32,Female,Nashik,Cardiology,Dr. Neeraj Kulkarni,Kidney Stone,Emergency,2025-04-16,2025-04-17,1,Private,Self Pay,52900,2600,0,50300,UPI,3.0,Under Treatment,Apr,4,19-35
+P10687,Tanya Khan,56,Female,Pune,Oncology,Dr. Vikram Singh,Pregnancy,Planned,2025-04-16,2025-04-18,2,Semi-Private,Self Pay,82000,0,0,82000,Cash,3.0,Discharged,Apr,4,51-65
+P10985,Karan Pawar,11,Other,Mumbai,Oncology,Dr. Nitin Mehta,Migraine,Planned,2025-04-16,2025-04-23,7,Private,Health Insurance,128200,0,103500,24700,Card,3.1,Discharged,Apr,4,0-18
+P10660,Aditya Verma,25,Female,Thane,General Medicine,Dr. Priya Nair,Hypertension,Planned,2025-04-16,2025-04-20,4,General Ward,Self Pay,13700,0,0,13700,Insurance,3.6,Discharged,Apr,4,19-35
+P10089,Ishaan More,46,Male,Mumbai,Oncology,Dr. Nitin Mehta,Asthma,Emergency,2025-04-17,2025-04-18,1,ICU,Health Insurance,99200,0,62500,36700,Cash,4.5,Discharged,Apr,4,36-50
+P10443,Kabir Patil,68,Male,Mumbai,Emergency,Dr. Sameer Khan,Viral Fever,Planned,2025-04-17,2025-04-25,8,General Ward,Corporate Insurance,42000,6300,26200,9500,Cash,3.3,Discharged,Apr,4,66+
+P10668,Priya Nair,67,Female,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Hypertension,Planned,2025-04-17,2025-04-24,7,ICU,Health Insurance,130500,19600,68500,42400,Insurance,4.5,Discharged,Apr,4,66+
+P10003,Rahul Jadhav,64,Female,Mumbai,General Medicine,Dr. Priya Nair,Fracture,Emergency,2025-04-18,2025-04-19,1,Private,Health Insurance,23700,2400,18800,2500,Insurance,4.9,Discharged,Apr,4,51-65
+P10010,Ira More,82,Male,Pune,Gynecology,Dr. Ananya Rao,Hypertension,Emergency,2025-04-18,2025-04-22,4,General Ward,Corporate Insurance,48700,7300,38300,3100,Cash,4.0,Referred,Apr,4,66+
+P10067,Aditya Patil,45,Male,Mumbai,Dermatology,Dr. Isha Patil,Pregnancy,Emergency,2025-04-18,2025-04-27,9,Private,Self Pay,49200,0,0,49200,Cash,3.7,Discharged,Apr,4,36-50
+P10991,Riya Singh,25,Female,Nashik,Oncology,Dr. Nitin Mehta,Back Pain,Emergency,2025-04-19,2025-04-22,3,Semi-Private,Self Pay,96300,4800,0,91500,Cash,4.5,Discharged,Apr,4,19-35
+P10444,Rohan Gupta,34,Female,Navi Mumbai,Neurology,Dr. Kavita Rao,Back Pain,Referral,2025-04-19,2025-04-23,4,General Ward,Self Pay,56400,5600,0,50800,Insurance,3.1,Discharged,Apr,4,19-35
+P10584,Vivaan Nair,41,Male,Pune,Emergency,Dr. Arjun Patil,Kidney Stone,Planned,2025-04-20,2025-04-24,4,Semi-Private,Health Insurance,33200,3300,26500,3400,Insurance,4.6,Under Treatment,Apr,4,36-50
+P10227,Aarav Khan,37,Female,Mumbai,ENT,Dr. Meenal Joshi,Skin Infection,Planned,2025-04-21,2025-04-27,6,Private,Self Pay,42500,0,0,42500,Card,3.5,Discharged,Apr,4,36-50
+P10537,Aditya Joshi,36,Female,Mumbai,Pediatrics,Dr. Rohan Shah,Cancer,Planned,2025-04-22,2025-04-24,2,Private,Health Insurance,42200,0,31500,10700,Card,3.5,Discharged,Apr,4,36-50
+P10429,Vivaan Jadhav,88,Male,Mumbai,Oncology,Dr. Nitin Mehta,Pregnancy,Planned,2025-04-22,2025-04-26,4,Semi-Private,Health Insurance,101300,15200,79700,6400,Insurance,5.0,Discharged,Apr,4,66+
+P10249,Rohan Mehta,52,Male,Pune,Gynecology,Dr. Pooja Desai,Fracture,Planned,2025-04-24,2025-04-26,2,General Ward,Health Insurance,36600,0,20400,16200,Card,3.8,Discharged,Apr,4,51-65
+P10512,Tanya Patil,38,Male,Kolhapur,Dermatology,Dr. Isha Patil,Cancer,Planned,2025-04-24,2025-04-26,2,General Ward,Self Pay,19200,0,0,19200,UPI,4.5,Discharged,Apr,4,36-50
+P10154,Aditya Gupta,10,Male,Nashik,Pediatrics,Dr. Rohan Shah,Ear Infection,Emergency,2025-04-24,2025-05-04,10,Semi-Private,Health Insurance,51000,0,29100,21900,Insurance,4.4,Discharged,Apr,4,0-18
+P10557,Rahul Verma,44,Male,Nagpur,Cardiology,Dr. Neeraj Kulkarni,Cancer,Planned,2025-04-24,2025-04-28,4,Semi-Private,Health Insurance,66300,0,53000,13300,Insurance,3.9,Discharged,Apr,4,36-50
+P10527,Rohan Gupta,50,Female,Nashik,Oncology,Dr. Nitin Mehta,Asthma,Planned,2025-04-24,2025-04-25,1,General Ward,Health Insurance,90600,0,71100,19500,UPI,4.2,Referred,Apr,4,36-50
+P10623,Vivaan Singh,31,Female,Nashik,Cardiology,Dr. Amit Shah,Skin Infection,Planned,2025-04-24,2025-04-28,4,General Ward,Health Insurance,57600,2900,46600,8100,Cash,3.7,Discharged,Apr,4,19-35
+P10397,Riya Jadhav,30,Female,Aurangabad,Emergency,Dr. Arjun Patil,Migraine,Planned,2025-04-25,2025-04-26,1,General Ward,Corporate Insurance,32300,1600,23700,7000,UPI,2.1,Discharged,Apr,4,19-35
+P10818,Karan Patil,27,Female,Mumbai,Emergency,Dr. Sameer Khan,Diabetes,Referral,2025-04-25,2025-05-01,6,General Ward,Health Insurance,31800,0,24700,7100,Insurance,3.2,Under Treatment,Apr,4,19-35
+P10630,Kabir Deshmukh,46,Female,Navi Mumbai,Orthopedics,Dr. Sameer Patil,Hypertension,Emergency,2025-04-25,2025-05-03,8,Semi-Private,Self Pay,61900,3100,0,58800,Insurance,3.9,Discharged,Apr,4,36-50
+P10373,Riya Deshmukh,33,Male,Thane,Orthopedics,Dr. Sameer Patil,Pregnancy,Planned,2025-04-26,2025-04-30,4,Private,Health Insurance,48800,0,29900,18900,Card,2.8,Discharged,Apr,4,19-35
+P10997,Rohan Verma,29,Male,Thane,Oncology,Dr. Nitin Mehta,Cancer,Planned,2025-04-26,2025-04-29,3,Private,Health Insurance,99100,9900,83300,5900,Card,3.5,Under Treatment,Apr,4,19-35
+P10119,Rohan Mehta,16,Male,Mumbai,Dermatology,Dr. Isha Patil,Hypertension,Emergency,2025-04-26,2025-04-29,3,Private,Government Scheme,27300,0,21000,6300,UPI,4.1,Discharged,Apr,4,0-18
+P10674,Ishaan Patil,26,Male,Mumbai,Gynecology,Dr. Ananya Rao,Asthma,Planned,2025-04-27,2025-04-28,1,General Ward,Corporate Insurance,30100,0,27400,2700,Cash,5.0,Discharged,Apr,4,19-35
+P10420,Neha Pawar,43,Female,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Hypertension,Emergency,2025-04-27,2025-05-01,4,Private,Health Insurance,66500,0,59400,7100,Cash,3.7,Discharged,Apr,4,36-50
+P10116,Diya Verma,73,Female,Nashik,Dermatology,Dr. Isha Patil,Hypertension,Planned,2025-04-27,2025-04-30,3,ICU,Corporate Insurance,45100,4500,22900,17700,Insurance,4.4,Discharged,Apr,4,66+
+P10372,Kabir Sharma,65,Male,Thane,Orthopedics,Dr. Raj Mehta,Asthma,Planned,2025-04-27,2025-04-28,1,General Ward,Health Insurance,39600,0,26500,13100,Cash,4.0,Discharged,Apr,4,51-65
+P10290,Aditya Gupta,43,Female,Ahmednagar,Dermatology,Dr. Neha Mehta,Viral Fever,Referral,2025-04-27,2025-05-01,4,General Ward,Self Pay,20200,3000,0,17200,Insurance,3.5,Under Treatment,Apr,4,36-50
+P10018,Riya Pawar,17,Male,Pune,Neurology,Dr. Anil Joshi,Asthma,Planned,2025-04-29,2025-05-12,13,Private,Self Pay,119100,11900,0,107200,Insurance,4.0,Discharged,Apr,4,0-18
+P10723,Vivaan Singh,51,Female,Navi Mumbai,Oncology,Dr. Nitin Mehta,Asthma,Emergency,2025-04-30,2025-05-03,3,General Ward,Health Insurance,94700,0,55400,39300,Cash,3.3,Discharged,Apr,4,51-65
+P10103,Tanya Pawar,8,Female,Kolhapur,Neurology,Dr. Kavita Rao,Pneumonia,Emergency,2025-04-30,2025-05-07,7,Semi-Private,Corporate Insurance,72300,3600,39700,29000,Cash,4.8,Expired,Apr,4,0-18
+P10514,Aarav Khan,50,Female,Nagpur,Dermatology,Dr. Isha Patil,Pneumonia,Emergency,2025-04-30,2025-05-01,1,Semi-Private,Government Scheme,5000,0,4000,1000,Insurance,3.6,Discharged,Apr,4,36-50
+P10931,Aditya Jadhav,65,Male,Pune,Oncology,Dr. Nitin Mehta,Kidney Stone,Planned,2025-04-30,2025-05-02,2,General Ward,Health Insurance,87400,0,50600,36800,UPI,2.9,Under Treatment,Apr,4,51-65
+P10734,Karan Gupta,65,Female,Kolhapur,Dermatology,Dr. Isha Patil,Viral Fever,Planned,2025-05-01,2025-05-06,5,Semi-Private,Government Scheme,25600,0,22200,3400,Cash,4.4,Discharged,May,5,51-65
+P10976,Karan Sharma,28,Male,Mumbai,Emergency,Dr. Arjun Patil,Asthma,Referral,2025-05-01,2025-05-03,2,Private,Health Insurance,34200,0,26300,7900,UPI,4.7,Discharged,May,5,19-35
+P10841,Rohan Nair,74,Female,Pune,Pediatrics,Dr. Sneha Desai,Diabetes,Planned,2025-05-01,2025-05-05,4,General Ward,Self Pay,35000,1800,0,33200,Insurance,3.2,Discharged,May,5,66+
+P10011,Kabir Sharma,40,Male,Pune,ENT,Dr. Meenal Joshi,Back Pain,Planned,2025-05-02,2025-05-11,9,Private,Corporate Insurance,71800,0,43500,28300,Cash,4.4,Under Treatment,May,5,36-50
+P10981,Ishaan Nair,39,Female,Pune,Orthopedics,Dr. Sameer Patil,Hypertension,Planned,2025-05-02,2025-05-10,8,ICU,Self Pay,137600,0,0,137600,UPI,2.2,Discharged,May,5,36-50
+P10165,Riya Kulkarni,30,Male,Aurangabad,Cardiology,Dr. Amit Shah,Hypertension,Referral,2025-05-03,2025-05-04,1,Semi-Private,Health Insurance,62000,0,54800,7200,Cash,3.8,Under Treatment,May,5,19-35
+P10486,Karan Deshmukh,58,Female,Kolhapur,Emergency,Dr. Arjun Patil,Fracture,Emergency,2025-05-03,2025-05-08,5,ICU,Corporate Insurance,92300,4600,60700,27000,Insurance,4.4,Discharged,May,5,51-65
+P10267,Ira Jadhav,33,Female,Nashik,Emergency,Dr. Arjun Patil,Migraine,Referral,2025-05-03,2025-05-06,3,General Ward,Health Insurance,34100,5100,21000,8000,Insurance,4.1,Discharged,May,5,19-35
+P10229,Vivaan More,44,Male,Navi Mumbai,Emergency,Dr. Sameer Khan,Diabetes,Planned,2025-05-03,2025-05-05,2,General Ward,Self Pay,27200,0,0,27200,UPI,4.6,Discharged,May,5,36-50
+P10354,Priya Chavan,66,Male,Thane,Orthopedics,Dr. Raj Mehta,Asthma,Referral,2025-05-05,2025-05-07,2,Semi-Private,Health Insurance,38300,1900,30400,6000,UPI,4.3,Discharged,May,5,66+
+P10208,Pooja Mehta,31,Male,Nashik,Oncology,Dr. Nitin Mehta,Skin Infection,Emergency,2025-05-05,2025-05-10,5,General Ward,Self Pay,91300,0,0,91300,Insurance,4.0,Discharged,May,5,19-35
+P10351,Tanya Gupta,40,Male,Mumbai,ENT,Dr. Karan Shah,Skin Infection,Planned,2025-05-05,2025-05-10,5,ICU,Health Insurance,88100,0,63200,24900,Card,3.9,Under Treatment,May,5,36-50
+P10602,Sneha Mehta,42,Male,Nashik,General Medicine,Dr. Rahul Verma,Kidney Stone,Referral,2025-05-06,2025-05-12,6,General Ward,Self Pay,27900,0,0,27900,Cash,4.0,Discharged,May,5,36-50
+P10554,Pooja Patil,53,Female,Mumbai,Orthopedics,Dr. Raj Mehta,Migraine,Referral,2025-05-06,2025-05-13,7,General Ward,Health Insurance,45100,0,31900,13200,Insurance,2.8,Discharged,May,5,51-65
+P10241,Priya More,43,Male,Mumbai,Neurology,Dr. Anil Joshi,Ear Infection,Planned,2025-05-06,2025-05-14,8,Semi-Private,Self Pay,55800,0,0,55800,Cash,3.7,Discharged,May,5,36-50
+P10796,Pooja Joshi,31,Male,Nagpur,Emergency,Dr. Arjun Patil,Pneumonia,Planned,2025-05-07,2025-05-09,2,Semi-Private,Self Pay,29200,1500,0,27700,Insurance,4.6,Under Treatment,May,5,19-35
+P10108,Pooja Sharma,55,Female,Mumbai,General Medicine,Dr. Priya Nair,Pregnancy,Planned,2025-05-08,2025-05-13,5,Private,Health Insurance,50900,0,30800,20100,Insurance,3.9,Discharged,May,5,51-65
+P10439,Aisha Jadhav,37,Female,Nagpur,Oncology,Dr. Vikram Singh,Back Pain,Planned,2025-05-08,2025-05-11,3,General Ward,Health Insurance,90300,4500,68500,17300,Insurance,5.0,Discharged,May,5,36-50
+P10192,Pooja Verma,51,Male,Mumbai,Emergency,Dr. Arjun Patil,Diabetes,Emergency,2025-05-08,2025-05-12,4,General Ward,Health Insurance,32600,4900,23700,4000,Cash,2.5,Discharged,May,5,51-65
+P10346,Neha Deshmukh,46,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Diabetes,Planned,2025-05-09,2025-05-13,4,ICU,Health Insurance,71000,3600,44300,23100,Card,3.3,Discharged,May,5,36-50
+P10736,Aarav Gupta,55,Female,Thane,ENT,Dr. Karan Shah,Skin Infection,Planned,2025-05-09,2025-05-15,6,ICU,Health Insurance,93300,9300,63900,20100,Insurance,4.2,Discharged,May,5,51-65
+P10141,Aarav More,38,Male,Navi Mumbai,General Medicine,Dr. Rahul Verma,Ear Infection,Emergency,2025-05-10,2025-05-13,3,General Ward,Health Insurance,12000,1800,7000,3200,Insurance,3.4,Discharged,May,5,36-50
+P10823,Pooja Gupta,3,Male,Ahmednagar,Cardiology,Dr. Neeraj Kulkarni,Heart Disease,Emergency,2025-05-10,2025-05-13,3,Private,Health Insurance,77200,7700,46800,22700,Insurance,2.9,Discharged,May,5,0-18
+P10581,Rahul Deshmukh,70,Male,Mumbai,Orthopedics,Dr. Raj Mehta,Hypertension,Planned,2025-05-10,2025-05-14,4,Private,Health Insurance,71500,0,53300,18200,Cash,3.9,Discharged,May,5,66+
+P10574,Rohan Nair,41,Male,Mumbai,Orthopedics,Dr. Sameer Patil,Back Pain,Emergency,2025-05-10,2025-05-15,5,Private,Self Pay,63400,9500,0,53900,UPI,4.1,Discharged,May,5,36-50
+P10745,Rohan Pawar,84,Male,Pune,Pediatrics,Dr. Sneha Desai,Fracture,Planned,2025-05-10,2025-05-15,5,General Ward,Health Insurance,33500,0,27200,6300,Cash,4.2,Referred,May,5,66+
+P10560,Kabir Joshi,36,Female,Mumbai,ENT,Dr. Meenal Joshi,Skin Infection,Planned,2025-05-11,2025-05-15,4,General Ward,Self Pay,29400,0,0,29400,Insurance,4.2,Discharged,May,5,36-50
+P10722,Aditya Kulkarni,25,Female,Mumbai,Pediatrics,Dr. Rohan Shah,Pneumonia,Referral,2025-05-11,2025-05-15,4,General Ward,Corporate Insurance,22500,0,16600,5900,Card,4.2,Discharged,May,5,19-35
+P10418,Vivaan Mehta,52,Female,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Pneumonia,Planned,2025-05-12,2025-05-18,6,General Ward,Health Insurance,59200,0,54100,5100,Card,4.3,Under Treatment,May,5,51-65
+P10664,Aarav Pawar,1,Female,Mumbai,Dermatology,Dr. Isha Patil,Diabetes,Planned,2025-05-13,2025-05-16,3,Semi-Private,Health Insurance,25500,0,22900,2600,UPI,5.0,Discharged,May,5,0-18
+P10731,Meera Nair,27,Female,Mumbai,Dermatology,Dr. Isha Patil,Back Pain,Emergency,2025-05-13,2025-05-26,13,Semi-Private,Government Scheme,54500,0,48500,6000,Cash,3.9,Discharged,May,5,19-35
+P10156,Aisha Sharma,39,Female,Nashik,Neurology,Dr. Anil Joshi,Pneumonia,Emergency,2025-05-13,2025-05-14,1,General Ward,Corporate Insurance,46100,0,33700,12400,Cash,5.0,Under Treatment,May,5,36-50
+P10002,Neha Nair,46,Female,Kolhapur,Cardiology,Dr. Neeraj Kulkarni,Heart Disease,Referral,2025-05-13,2025-05-16,3,General Ward,Corporate Insurance,55200,5500,31500,18200,Insurance,3.3,Discharged,May,5,36-50
+P10659,Rahul Patil,53,Male,Pune,Pediatrics,Dr. Rohan Shah,Pneumonia,Emergency,2025-05-13,2025-05-20,7,General Ward,Corporate Insurance,23700,0,15300,8400,Insurance,3.4,Discharged,May,5,51-65
+P10683,Rohan Deshmukh,3,Male,Mumbai,ENT,Dr. Karan Shah,Migraine,Referral,2025-05-14,2025-05-16,2,Semi-Private,Health Insurance,13900,0,8100,5800,Insurance,5.0,Referred,May,5,0-18
+P10959,Aisha Pawar,26,Male,Mumbai,Neurology,Dr. Anil Joshi,Skin Infection,Planned,2025-05-14,2025-05-21,7,General Ward,Corporate Insurance,60900,0,53600,7300,UPI,3.0,Discharged,May,5,19-35
+P10049,Aarav Pawar,59,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Hypertension,Emergency,2025-05-14,2025-05-16,2,General Ward,Health Insurance,30800,0,21400,9400,Card,4.0,Referred,May,5,51-65
+P10336,Tanya Pawar,83,Male,Aurangabad,Pediatrics,Dr. Sneha Desai,Kidney Stone,Referral,2025-05-15,2025-05-18,3,Private,Government Scheme,36000,1800,30500,3700,Card,5.0,Discharged,May,5,66+
+P10654,Ananya Khan,68,Female,Thane,Orthopedics,Dr. Raj Mehta,Diabetes,Emergency,2025-05-15,2025-05-17,2,Semi-Private,Self Pay,48200,4800,0,43400,UPI,3.7,Discharged,May,5,66+
+P10550,Rahul More,30,Female,Satara,General Medicine,Dr. Priya Nair,Cancer,Planned,2025-05-17,2025-05-22,5,General Ward,Health Insurance,18500,0,12200,6300,UPI,4.9,Discharged,May,5,19-35
+P10963,Aarav Jadhav,38,Male,Ahmednagar,Oncology,Dr. Nitin Mehta,Pneumonia,Planned,2025-05-17,2025-05-19,2,General Ward,Corporate Insurance,89900,4500,75600,9800,UPI,5.0,Discharged,May,5,36-50
+P10880,Meera Joshi,18,Female,Satara,Dermatology,Dr. Isha Patil,Viral Fever,Referral,2025-05-17,2025-06-03,17,ICU,Self Pay,233100,0,0,233100,Card,2.5,Discharged,May,5,0-18
+P10505,Vivaan Chavan,14,Female,Thane,Orthopedics,Dr. Raj Mehta,Fracture,Planned,2025-05-17,2025-05-23,6,General Ward,Health Insurance,63000,0,40200,22800,Card,3.9,Discharged,May,5,0-18
+P10044,Aisha Chavan,67,Male,Nashik,Cardiology,Dr. Amit Shah,Cancer,Planned,2025-05-18,2025-05-21,3,General Ward,Government Scheme,58200,8700,35500,14000,Card,3.1,Discharged,May,5,66+
+P10162,Rahul Singh,23,Male,Mumbai,Emergency,Dr. Arjun Patil,Kidney Stone,Emergency,2025-05-18,2025-05-19,1,General Ward,Corporate Insurance,22300,3300,14900,4100,Insurance,5.0,Discharged,May,5,19-35
+P10752,Pooja Singh,43,Female,Thane,Emergency,Dr. Sameer Khan,Fracture,Referral,2025-05-19,2025-05-24,5,Private,Health Insurance,56400,0,47900,8500,UPI,3.3,Discharged,May,5,36-50
+P10733,Vivaan Deshmukh,49,Male,Nashik,General Medicine,Dr. Priya Nair,Ear Infection,Planned,2025-05-19,2025-05-23,4,Semi-Private,Health Insurance,21500,0,12900,8600,UPI,4.2,Discharged,May,5,36-50
+P10700,Rohan Nair,41,Female,Mumbai,Dermatology,Dr. Isha Patil,Cancer,Emergency,2025-05-20,2025-05-22,2,Private,Corporate Insurance,28900,0,22300,6600,Cash,4.0,Discharged,May,5,36-50
+P10490,Rohan Gupta,39,Male,Nashik,Neurology,Dr. Kavita Rao,Skin Infection,Planned,2025-05-20,2025-05-24,4,General Ward,Government Scheme,64400,3200,56200,5000,UPI,4.6,Referred,May,5,36-50
+P10072,Ananya Pawar,90,Male,Nashik,Orthopedics,Dr. Sameer Patil,Viral Fever,Planned,2025-05-21,2025-05-25,4,Semi-Private,Corporate Insurance,47800,2400,38300,7100,Cash,4.8,Discharged,May,5,66+
+P10569,Aarav Jadhav,50,Male,Aurangabad,Cardiology,Dr. Neeraj Kulkarni,Ear Infection,Referral,2025-05-21,2025-05-27,6,Private,Health Insurance,80100,4000,43400,32700,Insurance,5.0,Referred,May,5,36-50
+P10707,Ira Singh,46,Male,Pune,Cardiology,Dr. Neeraj Kulkarni,Asthma,Planned,2025-05-21,2025-05-27,6,ICU,Self Pay,130000,0,0,130000,Card,5.0,Referred,May,5,36-50
+P10756,Aisha Gupta,45,Male,Pune,Dermatology,Dr. Isha Patil,Heart Disease,Emergency,2025-05-23,2025-05-28,5,Semi-Private,Health Insurance,21300,1100,11300,8900,Cash,4.1,Discharged,May,5,36-50
+P10513,Ira Chavan,35,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Skin Infection,Planned,2025-05-23,2025-05-27,4,Private,Health Insurance,57400,2900,31600,22900,UPI,4.2,Under Treatment,May,5,19-35
+P10489,Meera Kulkarni,25,Male,Pune,General Medicine,Dr. Priya Nair,Kidney Stone,Planned,2025-05-24,2025-05-27,3,Private,Health Insurance,26200,1300,22100,2800,UPI,3.9,Under Treatment,May,5,19-35
+P10268,Meera Pawar,65,Male,Mumbai,Oncology,Dr. Vikram Singh,Diabetes,Planned,2025-05-24,2025-05-26,2,ICU,Self Pay,100200,5000,0,95200,Insurance,3.9,Discharged,May,5,51-65
+P10677,Aisha Sharma,34,Male,Mumbai,General Medicine,Dr. Priya Nair,Asthma,Planned,2025-05-24,2025-05-28,4,Private,Health Insurance,34900,0,30900,4000,Insurance,4.6,Referred,May,5,19-35
+P10270,Riya Sharma,54,Male,Nashik,Emergency,Dr. Arjun Patil,Pneumonia,Referral,2025-05-24,2025-05-29,5,Semi-Private,Health Insurance,47800,0,28100,19700,Insurance,3.2,Referred,May,5,51-65
+P10039,Arjun More,11,Female,Nashik,Gynecology,Dr. Ananya Rao,Asthma,Referral,2025-05-25,2025-05-26,1,Semi-Private,Health Insurance,39300,0,29800,9500,Insurance,4.2,Expired,May,5,0-18
+P10134,Aisha Singh,6,Female,Thane,Dermatology,Dr. Isha Patil,Fracture,Emergency,2025-05-25,2025-05-31,6,General Ward,Corporate Insurance,23800,0,22000,1800,Insurance,4.6,Discharged,May,5,0-18
+P10614,Aarav Chavan,38,Male,Nagpur,Oncology,Dr. Vikram Singh,Viral Fever,Planned,2025-05-26,2025-05-27,1,General Ward,Self Pay,72900,0,0,72900,Insurance,3.4,Referred,May,5,36-50
+P10689,Pooja Khan,18,Male,Nagpur,Oncology,Dr. Vikram Singh,Skin Infection,Emergency,2025-05-26,2025-05-29,3,ICU,Health Insurance,120800,6000,72900,41900,UPI,4.6,Referred,May,5,0-18
+P10507,Riya Jadhav,31,Female,Satara,Dermatology,Dr. Isha Patil,Viral Fever,Emergency,2025-05-26,2025-05-30,4,General Ward,Health Insurance,15400,800,10300,4300,UPI,3.7,Discharged,May,5,19-35
+P10894,Priya Chavan,20,Male,Pune,General Medicine,Dr. Rahul Verma,Hypertension,Referral,2025-05-26,2025-05-31,5,Private,Self Pay,59900,0,0,59900,Insurance,3.6,Discharged,May,5,19-35
+P10008,Aditya Kulkarni,24,Male,Pune,Dermatology,Dr. Isha Patil,Ear Infection,Planned,2025-05-26,2025-05-28,2,Private,Government Scheme,19100,1900,16100,1100,Cash,4.2,Discharged,May,5,19-35
+P10204,Ira Joshi,4,Female,Mumbai,Gynecology,Dr. Ananya Rao,Heart Disease,Emergency,2025-05-27,2025-05-29,2,General Ward,Health Insurance,42600,4300,23800,14500,Cash,4.0,Discharged,May,5,0-18
+P10186,Ananya Chavan,26,Female,Mumbai,Emergency,Dr. Arjun Patil,Ear Infection,Planned,2025-05-28,2025-06-03,6,Private,Corporate Insurance,58600,0,48500,10100,Insurance,4.6,Discharged,May,5,19-35
+P10839,Ananya Gupta,5,Female,Aurangabad,Dermatology,Dr. Isha Patil,Diabetes,Emergency,2025-05-28,2025-05-30,2,General Ward,Health Insurance,14300,700,10000,3600,UPI,4.5,Discharged,May,5,0-18
+P10786,Aisha Joshi,64,Female,Satara,Pediatrics,Dr. Sneha Desai,Heart Disease,Emergency,2025-05-29,2025-05-30,1,Semi-Private,Health Insurance,26300,0,22800,3500,Insurance,3.6,Discharged,May,5,51-65
+P10278,Aisha Jadhav,45,Female,Mumbai,Gynecology,Dr. Ananya Rao,Skin Infection,Emergency,2025-05-29,2025-06-02,4,General Ward,Health Insurance,25200,0,23300,1900,Insurance,4.1,Discharged,May,5,36-50
+P10696,Ishaan Gupta,1,Male,Thane,Cardiology,Dr. Neeraj Kulkarni,Pregnancy,Planned,2025-05-30,2025-06-02,3,General Ward,Health Insurance,55700,0,38300,17400,Card,3.7,Under Treatment,May,5,0-18
+P10364,Rohan Gupta,44,Female,Mumbai,ENT,Dr. Karan Shah,Migraine,Planned,2025-05-30,2025-05-31,1,Semi-Private,Self Pay,14500,1400,0,13100,Insurance,4.6,Discharged,May,5,36-50
+P10704,Vivaan Patil,50,Male,Mumbai,Neurology,Dr. Kavita Rao,Hypertension,Planned,2025-05-31,2025-06-12,12,Semi-Private,Health Insurance,77900,3900,52800,21200,Insurance,4.0,Discharged,May,5,36-50
+P10920,Vivaan Jadhav,25,Female,Mumbai,Dermatology,Dr. Neha Mehta,Fracture,Emergency,2025-05-31,2025-06-01,1,General Ward,Corporate Insurance,17500,900,9800,6800,Cash,4.3,Discharged,May,5,19-35
+P10903,Vivaan Jadhav,41,Female,Aurangabad,Orthopedics,Dr. Raj Mehta,Kidney Stone,Referral,2025-05-31,2025-06-06,6,Semi-Private,Self Pay,69600,0,0,69600,UPI,2.7,Discharged,May,5,36-50
+P10768,Tanya Singh,17,Female,Pune,Gynecology,Dr. Ananya Rao,Heart Disease,Planned,2025-06-01,2025-06-02,1,ICU,Corporate Insurance,35200,1800,25400,8000,Insurance,3.4,Discharged,Jun,6,0-18
+P10058,Ishaan Gupta,31,Female,Mumbai,ENT,Dr. Karan Shah,Viral Fever,Planned,2025-06-01,2025-06-05,4,Private,Corporate Insurance,29100,0,25700,3400,Insurance,3.3,Discharged,Jun,6,19-35
+P10908,Diya Mehta,77,Female,Thane,General Medicine,Dr. Priya Nair,Heart Disease,Planned,2025-06-02,2025-06-07,5,Private,Government Scheme,44400,6700,25200,12500,Card,3.6,Discharged,Jun,6,66+
+P10961,Aarav Patil,9,Female,Aurangabad,Gynecology,Dr. Pooja Desai,Cancer,Planned,2025-06-02,2025-06-05,3,General Ward,Corporate Insurance,30100,0,21200,8900,Cash,3.0,Discharged,Jun,6,0-18
+P10349,Rohan Mehta,10,Female,Mumbai,General Medicine,Dr. Rahul Verma,Pneumonia,Referral,2025-06-02,2025-06-03,1,Semi-Private,Health Insurance,12100,600,10800,700,Insurance,4.8,Under Treatment,Jun,6,0-18
+P10201,Tanya Patil,50,Other,Satara,Pediatrics,Dr. Rohan Shah,Heart Disease,Referral,2025-06-03,2025-06-06,3,General Ward,Health Insurance,23400,0,16600,6800,Cash,4.2,Discharged,Jun,6,36-50
+P10307,Ishaan Jadhav,48,Female,Kolhapur,ENT,Dr. Karan Shah,Hypertension,Emergency,2025-06-03,2025-06-09,6,Private,Health Insurance,43700,4400,22000,17300,Card,4.0,Discharged,Jun,6,36-50
+P10680,Diya Khan,58,Female,Mumbai,Neurology,Dr. Anil Joshi,Pneumonia,Emergency,2025-06-03,2025-06-05,2,General Ward,Government Scheme,55200,0,43900,11300,Insurance,1.6,Discharged,Jun,6,51-65
+P10280,Arjun Gupta,46,Male,Nagpur,ENT,Dr. Karan Shah,Kidney Stone,Planned,2025-06-04,2025-06-08,4,ICU,Government Scheme,70900,0,56400,14500,Card,4.7,Discharged,Jun,6,36-50
+P10073,Meera Joshi,25,Female,Pune,General Medicine,Dr. Priya Nair,Back Pain,Emergency,2025-06-04,2025-06-11,7,General Ward,Self Pay,32300,1600,0,30700,Insurance,5.0,Under Treatment,Jun,6,19-35
+P10176,Pooja Patil,36,Male,Navi Mumbai,Orthopedics,Dr. Raj Mehta,Diabetes,Emergency,2025-06-05,2025-06-08,3,General Ward,Health Insurance,38700,1900,26300,10500,Cash,4.4,Under Treatment,Jun,6,36-50
+P10516,Rohan More,70,Male,Ahmednagar,Pediatrics,Dr. Rohan Shah,Cancer,Planned,2025-06-06,2025-06-08,2,Semi-Private,Corporate Insurance,24900,0,22200,2700,Insurance,4.0,Discharged,Jun,6,66+
+P10915,Tanya Kulkarni,42,Male,Pune,Cardiology,Dr. Neeraj Kulkarni,Viral Fever,Referral,2025-06-07,2025-06-16,9,General Ward,Self Pay,64400,0,0,64400,Card,5.0,Discharged,Jun,6,36-50
+P10806,Rohan Jadhav,32,Female,Thane,ENT,Dr. Meenal Joshi,Pregnancy,Emergency,2025-06-07,2025-06-12,5,Semi-Private,Self Pay,38800,0,0,38800,UPI,4.4,Under Treatment,Jun,6,19-35
+P10233,Ishaan Chavan,24,Male,Satara,Gynecology,Dr. Ananya Rao,Pregnancy,Referral,2025-06-08,2025-06-09,1,Private,Self Pay,33900,0,0,33900,Cash,4.7,Discharged,Jun,6,19-35
+P10321,Rohan Kulkarni,66,Male,Pune,Dermatology,Dr. Neha Mehta,Hypertension,Planned,2025-06-08,2025-06-09,1,General Ward,Government Scheme,16900,0,9400,7500,Card,3.6,Referred,Jun,6,66+
+P10469,Kabir Joshi,86,Male,Navi Mumbai,Emergency,Dr. Sameer Khan,Pregnancy,Emergency,2025-06-08,2025-06-10,2,General Ward,Corporate Insurance,42000,4200,33400,4400,UPI,4.0,Discharged,Jun,6,66+
+P10764,Ishaan Gupta,1,Female,Nagpur,ENT,Dr. Karan Shah,Fracture,Emergency,2025-06-09,2025-06-14,5,General Ward,Corporate Insurance,28100,0,25800,2300,UPI,5.0,Under Treatment,Jun,6,0-18
+P10667,Priya Verma,12,Male,Pune,Gynecology,Dr. Ananya Rao,Skin Infection,Emergency,2025-06-10,2025-06-14,4,General Ward,Health Insurance,35500,1800,25900,7800,UPI,2.6,Discharged,Jun,6,0-18
+P10413,Vivaan Kulkarni,66,Female,Thane,Gynecology,Dr. Ananya Rao,Kidney Stone,Planned,2025-06-10,2025-06-12,2,General Ward,Health Insurance,27000,1400,18200,7400,Insurance,4.5,Discharged,Jun,6,66+
+P10814,Rahul Mehta,57,Other,Pune,Emergency,Dr. Arjun Patil,Kidney Stone,Emergency,2025-06-10,2025-06-11,1,Private,Government Scheme,24800,1200,20400,3200,UPI,2.8,Under Treatment,Jun,6,51-65
+P10865,Ishaan Deshmukh,40,Male,Kolhapur,Orthopedics,Dr. Raj Mehta,Viral Fever,Emergency,2025-06-10,2025-06-11,1,General Ward,Corporate Insurance,41600,2100,37300,2200,Insurance,2.6,Discharged,Jun,6,36-50
+P10019,Tanya Gupta,70,Male,Nashik,Dermatology,Dr. Neha Mehta,Kidney Stone,Planned,2025-06-11,2025-06-15,4,Semi-Private,Self Pay,20100,0,0,20100,Insurance,3.5,Discharged,Jun,6,66+
+P10120,Vivaan Kulkarni,30,Male,Pune,ENT,Dr. Karan Shah,Hypertension,Planned,2025-06-11,2025-06-16,5,General Ward,Health Insurance,18100,900,14500,2700,UPI,3.9,Discharged,Jun,6,19-35
+P10593,Neha Khan,35,Male,Nagpur,Oncology,Dr. Vikram Singh,Kidney Stone,Planned,2025-06-11,2025-06-15,4,Private,Corporate Insurance,110700,11100,80900,18700,Insurance,4.3,Under Treatment,Jun,6,19-35
+P10174,Sneha Joshi,16,Female,Nashik,Gynecology,Dr. Pooja Desai,Pneumonia,Planned,2025-06-12,2025-06-18,6,Private,Self Pay,70700,10600,0,60100,Cash,4.3,Discharged,Jun,6,0-18
+P10572,Arjun Kulkarni,25,Male,Nagpur,Emergency,Dr. Sameer Khan,Heart Disease,Referral,2025-06-12,2025-06-16,4,General Ward,Self Pay,30900,0,0,30900,Insurance,4.3,Discharged,Jun,6,19-35
+P10226,Karan Pawar,81,Female,Pune,General Medicine,Dr. Priya Nair,Fracture,Referral,2025-06-13,2025-06-14,1,Semi-Private,Corporate Insurance,11400,1700,6100,3600,Card,5.0,Discharged,Jun,6,66+
+P10448,Meera Nair,71,Male,Ahmednagar,Gynecology,Dr. Pooja Desai,Hypertension,Referral,2025-06-13,2025-06-15,2,General Ward,Health Insurance,39900,4000,34000,1900,Cash,4.7,Discharged,Jun,6,66+
+P10421,Ananya Joshi,40,Male,Mumbai,Oncology,Dr. Vikram Singh,Skin Infection,Referral,2025-06-13,2025-06-17,4,Private,Self Pay,110400,11000,0,99400,Cash,5.0,Discharged,Jun,6,36-50
+P10338,Karan Singh,41,Female,Ahmednagar,Emergency,Dr. Arjun Patil,Diabetes,Planned,2025-06-13,2025-06-22,9,Private,Health Insurance,76700,0,50400,26300,UPI,5.0,Discharged,Jun,6,36-50
+P10251,Ananya Khan,21,Male,Nashik,Emergency,Dr. Arjun Patil,Skin Infection,Planned,2025-06-13,2025-06-22,9,General Ward,Health Insurance,41800,0,33700,8100,Card,4.7,Discharged,Jun,6,19-35
+P10817,Diya Sharma,43,Female,Nagpur,Oncology,Dr. Vikram Singh,Fracture,Emergency,2025-06-14,2025-06-18,4,General Ward,Health Insurance,92300,4600,67600,20100,Cash,3.8,Under Treatment,Jun,6,36-50
+P10149,Tanya Nair,4,Female,Mumbai,Emergency,Dr. Sameer Khan,Heart Disease,Emergency,2025-06-14,2025-06-17,3,Private,Health Insurance,36600,0,23100,13500,Insurance,4.5,Discharged,Jun,6,0-18
+P10771,Pooja More,38,Female,Satara,Oncology,Dr. Vikram Singh,Back Pain,Planned,2025-06-15,2025-06-22,7,Private,Health Insurance,126700,12700,72400,41600,Cash,4.7,Discharged,Jun,6,36-50
+P10158,Karan Mehta,53,Female,Pune,Neurology,Dr. Kavita Rao,Pregnancy,Planned,2025-06-15,2025-06-19,4,Semi-Private,Health Insurance,51500,7700,34100,9700,Card,3.8,Discharged,Jun,6,51-65
+P10686,Ira Joshi,16,Female,Satara,General Medicine,Dr. Priya Nair,Cancer,Emergency,2025-06-15,2025-06-20,5,Semi-Private,Health Insurance,34400,0,32000,2400,Cash,4.0,Referred,Jun,6,0-18
+P10140,Pooja Sharma,50,Male,Pune,Gynecology,Dr. Pooja Desai,Fracture,Planned,2025-06-15,2025-06-18,3,Private,Corporate Insurance,59700,0,46200,13500,Card,4.6,Discharged,Jun,6,36-50
+P10320,Vivaan Deshmukh,19,Male,Mumbai,Pediatrics,Dr. Rohan Shah,Hypertension,Emergency,2025-06-15,2025-06-19,4,ICU,Health Insurance,69600,0,63400,6200,Insurance,3.6,Discharged,Jun,6,19-35
+P10281,Arjun Khan,90,Male,Navi Mumbai,General Medicine,Dr. Priya Nair,Hypertension,Emergency,2025-06-15,2025-06-20,5,General Ward,Health Insurance,23900,2400,12100,9400,Card,4.5,Discharged,Jun,6,66+
+P10646,Aarav More,54,Male,Nashik,Pediatrics,Dr. Sneha Desai,Skin Infection,Planned,2025-06-16,2025-06-18,2,General Ward,Self Pay,29700,1500,0,28200,UPI,4.3,Discharged,Jun,6,51-65
+P10797,Meera More,45,Female,Mumbai,Oncology,Dr. Vikram Singh,Back Pain,Planned,2025-06-17,2025-06-21,4,ICU,Corporate Insurance,123400,0,69400,54000,Insurance,4.4,Discharged,Jun,6,36-50
+P10062,Rohan Joshi,21,Male,Mumbai,General Medicine,Dr. Priya Nair,Skin Infection,Emergency,2025-06-17,2025-06-23,6,General Ward,Health Insurance,39200,0,28900,10300,Insurance,4.1,Discharged,Jun,6,19-35
+P10179,Kabir Joshi,57,Male,Navi Mumbai,ENT,Dr. Karan Shah,Fracture,Planned,2025-06-18,2025-06-20,2,General Ward,Government Scheme,17700,0,13200,4500,Insurance,3.5,Referred,Jun,6,51-65
+P10648,Aisha Sharma,48,Male,Nashik,Pediatrics,Dr. Rohan Shah,Kidney Stone,Referral,2025-06-18,2025-06-23,5,General Ward,Government Scheme,39700,0,35500,4200,Cash,3.3,Discharged,Jun,6,36-50
+P10453,Sneha Jadhav,13,Female,Aurangabad,Emergency,Dr. Arjun Patil,Skin Infection,Emergency,2025-06-18,2025-06-22,4,Private,Self Pay,41000,0,0,41000,Cash,5.0,Discharged,Jun,6,0-18
+P10890,Pooja Pawar,52,Male,Ahmednagar,Dermatology,Dr. Isha Patil,Ear Infection,Planned,2025-06-18,2025-06-24,6,General Ward,Corporate Insurance,25100,1300,13100,10700,Insurance,3.5,Discharged,Jun,6,51-65
+P10843,Neha Kulkarni,22,Other,Pune,Gynecology,Dr. Pooja Desai,Heart Disease,Emergency,2025-06-18,2025-06-23,5,General Ward,Government Scheme,32200,0,18000,14200,Cash,3.7,Referred,Jun,6,19-35
+P10164,Aarav Pawar,40,Male,Pune,ENT,Dr. Karan Shah,Pneumonia,Emergency,2025-06-19,2025-06-23,4,General Ward,Self Pay,28100,0,0,28100,UPI,4.2,Discharged,Jun,6,36-50
+P10515,Priya Kulkarni,38,Male,Mumbai,Pediatrics,Dr. Rohan Shah,Migraine,Planned,2025-06-19,2025-06-21,2,General Ward,Self Pay,16800,0,0,16800,Insurance,3.3,Discharged,Jun,6,36-50
+P10645,Riya Sharma,26,Male,Pune,Pediatrics,Dr. Sneha Desai,Hypertension,Emergency,2025-06-19,2025-06-21,2,General Ward,Health Insurance,23600,0,13300,10300,UPI,4.5,Under Treatment,Jun,6,19-35
+P10592,Rahul Singh,44,Male,Mumbai,Dermatology,Dr. Isha Patil,Migraine,Planned,2025-06-20,2025-06-23,3,Semi-Private,Government Scheme,25900,2600,21600,1700,Card,5.0,Discharged,Jun,6,36-50
+P10500,Tanya Pawar,36,Female,Thane,Oncology,Dr. Nitin Mehta,Cancer,Referral,2025-06-20,2025-06-23,3,Semi-Private,Corporate Insurance,85300,0,70700,14600,UPI,3.1,Discharged,Jun,6,36-50
+P10087,Tanya More,33,Male,Mumbai,Oncology,Dr. Vikram Singh,Viral Fever,Referral,2025-06-20,2025-06-26,6,General Ward,Self Pay,106000,15900,0,90100,Insurance,3.9,Discharged,Jun,6,19-35
+P10577,Neha Mehta,77,Female,Nagpur,Pediatrics,Dr. Rohan Shah,Pregnancy,Planned,2025-06-21,2025-06-24,3,General Ward,Government Scheme,21300,1100,14400,5800,Insurance,5.0,Discharged,Jun,6,66+
+P10879,Vivaan Pawar,46,Female,Mumbai,ENT,Dr. Karan Shah,Skin Infection,Planned,2025-06-21,2025-06-24,3,General Ward,Corporate Insurance,24900,2500,18500,3900,Insurance,4.4,Discharged,Jun,6,36-50
+P10522,Ananya Deshmukh,39,Female,Mumbai,Dermatology,Dr. Neha Mehta,Kidney Stone,Emergency,2025-06-21,2025-06-27,6,General Ward,Health Insurance,16700,800,9800,6100,Insurance,3.1,Discharged,Jun,6,36-50
+P10747,Pooja Khan,66,Female,Pune,Neurology,Dr. Anil Joshi,Cancer,Planned,2025-06-22,2025-06-30,8,General Ward,Health Insurance,43600,0,34400,9200,UPI,3.1,Discharged,Jun,6,66+
+P10109,Vivaan Pawar,68,Male,Thane,General Medicine,Dr. Priya Nair,Cancer,Emergency,2025-06-22,2025-07-05,13,Private,Health Insurance,83400,8300,46100,29000,Insurance,3.9,Discharged,Jun,6,66+
+P10816,Priya Khan,55,Female,Mumbai,Gynecology,Dr. Pooja Desai,Kidney Stone,Planned,2025-06-23,2025-06-24,1,Semi-Private,Health Insurance,30900,0,25400,5500,Insurance,2.9,Under Treatment,Jun,6,51-65
+P10286,Ishaan Verma,43,Female,Mumbai,Dermatology,Dr. Neha Mehta,Viral Fever,Planned,2025-06-23,2025-06-29,6,ICU,Self Pay,81900,0,0,81900,UPI,4.7,Discharged,Jun,6,36-50
+P10754,Sneha Kulkarni,1,Female,Pune,Orthopedics,Dr. Sameer Patil,Pregnancy,Planned,2025-06-23,2025-07-01,8,Semi-Private,Self Pay,62100,0,0,62100,Card,4.4,Referred,Jun,6,0-18
+P10860,Sneha Gupta,33,Female,Kolhapur,Emergency,Dr. Sameer Khan,Back Pain,Emergency,2025-06-24,2025-06-27,3,Semi-Private,Health Insurance,34700,0,29800,4900,Cash,3.6,Referred,Jun,6,19-35
+P10038,Ananya More,28,Male,Thane,Pediatrics,Dr. Sneha Desai,Hypertension,Referral,2025-06-25,2025-06-29,4,Private,Health Insurance,49100,0,35900,13200,UPI,4.2,Referred,Jun,6,19-35
+P10063,Ira Verma,38,Male,Pune,Cardiology,Dr. Neeraj Kulkarni,Viral Fever,Planned,2025-06-25,2025-06-28,3,General Ward,Government Scheme,42100,4200,33900,4000,Insurance,4.9,Discharged,Jun,6,36-50
+P10166,Priya More,43,Female,Satara,ENT,Dr. Meenal Joshi,Pneumonia,Emergency,2025-06-25,2025-06-29,4,General Ward,Self Pay,22600,1100,0,21500,Cash,4.5,Discharged,Jun,6,36-50
+P10415,Aisha More,60,Female,Navi Mumbai,Neurology,Dr. Kavita Rao,Hypertension,Planned,2025-06-25,2025-07-02,7,Semi-Private,Health Insurance,75600,7600,58200,9800,Insurance,4.7,Discharged,Jun,6,51-65
+P10476,Tanya Gupta,61,Female,Pune,ENT,Dr. Karan Shah,Skin Infection,Emergency,2025-06-25,2025-06-30,5,Semi-Private,Corporate Insurance,16600,1700,9600,5300,UPI,3.6,Discharged,Jun,6,51-65
+P10681,Vivaan Joshi,70,Female,Mumbai,Dermatology,Dr. Neha Mehta,Back Pain,Planned,2025-06-25,2025-07-04,9,General Ward,Government Scheme,16400,1600,8600,6200,Insurance,3.8,Discharged,Jun,6,66+
+P10662,Neha Deshmukh,34,Female,Aurangabad,Neurology,Dr. Anil Joshi,Fracture,Planned,2025-06-26,2025-06-27,1,Private,Health Insurance,43900,0,27600,16300,Insurance,5.0,Discharged,Jun,6,19-35
+P10255,Arjun Verma,44,Female,Nagpur,ENT,Dr. Meenal Joshi,Pneumonia,Emergency,2025-06-26,2025-06-28,2,Semi-Private,Health Insurance,23200,0,16900,6300,Insurance,4.5,Discharged,Jun,6,36-50
+P10881,Sneha Kulkarni,73,Male,Mumbai,Neurology,Dr. Kavita Rao,Kidney Stone,Planned,2025-06-27,2025-07-03,6,General Ward,Corporate Insurance,48300,2400,40300,5600,UPI,4.3,Discharged,Jun,6,66+
+P10028,Ishaan Pawar,63,Male,Thane,Neurology,Dr. Anil Joshi,Pneumonia,Planned,2025-06-27,2025-06-29,2,Private,Corporate Insurance,70700,0,48400,22300,Insurance,5.0,Referred,Jun,6,51-65
+P10954,Ira Gupta,66,Male,Nashik,Emergency,Dr. Sameer Khan,Diabetes,Emergency,2025-06-27,2025-06-29,2,General Ward,Health Insurance,35800,0,28900,6900,Card,3.6,Discharged,Jun,6,66+
+P10404,Aisha Pawar,35,Female,Aurangabad,General Medicine,Dr. Priya Nair,Cancer,Referral,2025-06-27,2025-06-28,1,Semi-Private,Corporate Insurance,17200,0,15100,2100,UPI,3.5,Discharged,Jun,6,19-35
+P10004,Ishaan Khan,40,Female,Satara,Dermatology,Dr. Isha Patil,Pneumonia,Referral,2025-06-27,2025-07-01,4,Semi-Private,Government Scheme,22400,3400,12700,6300,Insurance,4.1,Referred,Jun,6,36-50
+P10209,Ananya Kulkarni,10,Female,Navi Mumbai,Orthopedics,Dr. Raj Mehta,Viral Fever,Emergency,2025-06-28,2025-07-02,4,Semi-Private,Self Pay,52600,0,0,52600,Insurance,3.6,Discharged,Jun,6,0-18
+P10023,Aisha Mehta,48,Male,Mumbai,ENT,Dr. Karan Shah,Pneumonia,Referral,2025-06-28,2025-07-01,3,ICU,Government Scheme,60000,0,43600,16400,UPI,4.1,Discharged,Jun,6,36-50
+P10568,Kabir Gupta,45,Female,Pune,Cardiology,Dr. Neeraj Kulkarni,Diabetes,Referral,2025-06-28,2025-06-30,2,General Ward,Health Insurance,41400,6200,31900,3300,Insurance,1.9,Discharged,Jun,6,36-50
+P10083,Vivaan Khan,41,Male,Nashik,General Medicine,Dr. Priya Nair,Kidney Stone,Planned,2025-06-29,2025-07-07,8,General Ward,Government Scheme,21100,0,16700,4400,Card,4.6,Discharged,Jun,6,36-50
+P10832,Karan Mehta,20,Female,Navi Mumbai,Cardiology,Dr. Amit Shah,Asthma,Emergency,2025-06-29,2025-07-01,2,Private,Health Insurance,58100,0,42700,15400,Cash,3.3,Discharged,Jun,6,19-35
+P10451,Neha Verma,48,Female,Mumbai,Orthopedics,Dr. Raj Mehta,Migraine,Planned,2025-06-29,2025-07-03,4,Private,Corporate Insurance,60500,0,56400,4100,Insurance,2.8,Discharged,Jun,6,36-50
+P10100,Karan Mehta,71,Female,Pune,Cardiology,Dr. Amit Shah,Hypertension,Planned,2025-06-30,2025-07-03,3,General Ward,Government Scheme,61000,0,35800,25200,Card,4.2,Discharged,Jun,6,66+
+P10452,Diya Chavan,71,Male,Nashik,Oncology,Dr. Nitin Mehta,Back Pain,Planned,2025-06-30,2025-07-03,3,Semi-Private,Government Scheme,93600,4700,54400,34500,Cash,3.4,Discharged,Jun,6,66+
+P10183,Aarav Mehta,78,Male,Pune,Emergency,Dr. Arjun Patil,Back Pain,Referral,2025-06-30,2025-07-04,4,ICU,Corporate Insurance,84300,0,65200,19100,Card,4.7,Discharged,Jun,6,66+
+P10917,Rohan Joshi,47,Female,Navi Mumbai,ENT,Dr. Meenal Joshi,Cancer,Planned,2025-06-30,2025-07-02,2,Semi-Private,Corporate Insurance,23400,0,18000,5400,Cash,4.4,Discharged,Jun,6,36-50
+P10621,Tanya Gupta,37,Female,Navi Mumbai,Gynecology,Dr. Ananya Rao,Cancer,Emergency,2025-06-30,2025-07-01,1,Semi-Private,Self Pay,32500,0,0,32500,UPI,5.0,Discharged,Jun,6,36-50
+P10446,Priya Sharma,14,Male,Mumbai,General Medicine,Dr. Priya Nair,Fracture,Planned,2025-06-30,2025-07-02,2,General Ward,Health Insurance,29100,0,21100,8000,Cash,3.4,Discharged,Jun,6,0-18
+P10207,Riya Gupta,48,Female,Navi Mumbai,Dermatology,Dr. Neha Mehta,Asthma,Referral,2025-07-01,2025-07-11,10,General Ward,Government Scheme,34400,1700,21300,11400,Card,3.2,Discharged,Jul,7,36-50
+P10977,Ira Verma,22,Female,Mumbai,ENT,Dr. Meenal Joshi,Viral Fever,Planned,2025-07-01,2025-07-03,2,General Ward,Government Scheme,18800,0,12200,6600,Cash,4.8,Discharged,Jul,7,19-35
+P10350,Aditya Joshi,34,Female,Nagpur,Pediatrics,Dr. Sneha Desai,Fracture,Emergency,2025-07-01,2025-07-11,10,Private,Government Scheme,80200,0,66900,13300,Card,3.8,Discharged,Jul,7,19-35
+P10710,Rahul Sharma,31,Male,Navi Mumbai,Cardiology,Dr. Amit Shah,Viral Fever,Emergency,2025-07-02,2025-07-04,2,Semi-Private,Health Insurance,56900,0,39600,17300,UPI,4.8,Discharged,Jul,7,19-35
+P10117,Pooja Chavan,11,Female,Nashik,General Medicine,Dr. Rahul Verma,Pregnancy,Planned,2025-07-03,2025-07-04,1,Private,Government Scheme,37400,0,21600,15800,Insurance,3.7,Discharged,Jul,7,0-18
+P10510,Arjun Joshi,45,Male,Thane,Gynecology,Dr. Pooja Desai,Ear Infection,Referral,2025-07-04,2025-07-09,5,Private,Self Pay,59300,0,0,59300,Cash,4.6,Discharged,Jul,7,36-50
+P10561,Ishaan Joshi,33,Male,Nagpur,Cardiology,Dr. Neeraj Kulkarni,Hypertension,Emergency,2025-07-04,2025-07-05,1,General Ward,Health Insurance,60100,0,55100,5000,Card,3.2,Discharged,Jul,7,19-35
+P10859,Aarav Nair,80,Female,Aurangabad,Gynecology,Dr. Pooja Desai,Diabetes,Emergency,2025-07-04,2025-07-09,5,Semi-Private,Self Pay,30600,0,0,30600,Insurance,4.1,Discharged,Jul,7,66+
+P10283,Aditya Patil,29,Female,Thane,Cardiology,Dr. Amit Shah,Asthma,Planned,2025-07-05,2025-07-11,6,General Ward,Health Insurance,63400,3200,45700,14500,Insurance,4.8,Discharged,Jul,7,19-35
+P10718,Diya Verma,36,Male,Nashik,Neurology,Dr. Kavita Rao,Cancer,Referral,2025-07-05,2025-07-18,13,Private,Health Insurance,103400,10300,62100,31000,Card,4.0,Discharged,Jul,7,36-50
+P10912,Aditya Patil,59,Male,Mumbai,Pediatrics,Dr. Sneha Desai,Back Pain,Emergency,2025-07-05,2025-07-13,8,Semi-Private,Corporate Insurance,45200,4500,25800,14900,UPI,4.1,Discharged,Jul,7,51-65
+P10694,Rahul Sharma,45,Female,Nagpur,ENT,Dr. Karan Shah,Migraine,Planned,2025-07-05,2025-07-09,4,General Ward,Corporate Insurance,30900,0,27500,3400,Card,4.3,Discharged,Jul,7,36-50
+P10607,Riya Jadhav,5,Female,Mumbai,Orthopedics,Dr. Raj Mehta,Pneumonia,Emergency,2025-07-05,2025-07-11,6,General Ward,Health Insurance,40700,0,33500,7200,Card,4.0,Discharged,Jul,7,0-18
+P10622,Diya Kulkarni,52,Male,Navi Mumbai,Orthopedics,Dr. Sameer Patil,Skin Infection,Emergency,2025-07-06,2025-07-09,3,General Ward,Corporate Insurance,49500,2500,38900,8100,Cash,4.2,Discharged,Jul,7,51-65
+P10995,Aisha Kulkarni,86,Female,Thane,Neurology,Dr. Anil Joshi,Viral Fever,Emergency,2025-07-06,2025-07-09,3,Semi-Private,Government Scheme,48300,0,33000,15300,UPI,4.6,Discharged,Jul,7,66+
+P10196,Ananya Singh,47,Female,Navi Mumbai,General Medicine,Dr. Rahul Verma,Heart Disease,Planned,2025-07-06,2025-07-07,1,General Ward,Self Pay,16700,0,0,16700,UPI,4.2,Discharged,Jul,7,36-50
+P10426,Tanya Verma,12,Female,Nashik,General Medicine,Dr. Priya Nair,Fracture,Planned,2025-07-07,2025-07-09,2,ICU,Health Insurance,38300,0,24700,13600,Card,5.0,Discharged,Jul,7,0-18
+P10468,Meera Sharma,25,Female,Nashik,Orthopedics,Dr. Sameer Patil,Ear Infection,Planned,2025-07-07,2025-07-09,2,ICU,Self Pay,52800,0,0,52800,Cash,4.0,Discharged,Jul,7,19-35
+P10647,Riya Chavan,47,Male,Mumbai,Dermatology,Dr. Neha Mehta,Cancer,Planned,2025-07-07,2025-07-12,5,Private,Self Pay,54400,0,0,54400,Cash,3.6,Expired,Jul,7,36-50
+P10245,Ishaan Mehta,27,Male,Mumbai,Oncology,Dr. Nitin Mehta,Kidney Stone,Planned,2025-07-07,2025-07-17,10,General Ward,Corporate Insurance,105200,0,77700,27500,UPI,3.1,Discharged,Jul,7,19-35
+P10883,Ishaan Khan,38,Female,Nagpur,Orthopedics,Dr. Sameer Patil,Ear Infection,Planned,2025-07-07,2025-07-12,5,General Ward,Corporate Insurance,59300,0,51900,7400,Cash,4.1,Discharged,Jul,7,36-50
+P10606,Karan Kulkarni,31,Male,Satara,Pediatrics,Dr. Sneha Desai,Asthma,Planned,2025-07-07,2025-07-11,4,Semi-Private,Self Pay,34300,1700,0,32600,Insurance,4.9,Under Treatment,Jul,7,19-35
+P10247,Rohan Singh,31,Female,Pune,Cardiology,Dr. Amit Shah,Asthma,Referral,2025-07-08,2025-07-14,6,General Ward,Self Pay,59800,0,0,59800,Cash,4.8,Discharged,Jul,7,19-35
+P10926,Priya Gupta,37,Female,Thane,Gynecology,Dr. Ananya Rao,Fracture,Planned,2025-07-08,2025-07-17,9,Private,Health Insurance,72700,0,50500,22200,Insurance,4.4,Under Treatment,Jul,7,36-50
+P10257,Vivaan Patil,25,Male,Pune,General Medicine,Dr. Priya Nair,Skin Infection,Emergency,2025-07-08,2025-07-11,3,Semi-Private,Corporate Insurance,22100,0,16500,5600,UPI,5.0,Discharged,Jul,7,19-35
+P10188,Priya Verma,17,Male,Mumbai,Neurology,Dr. Kavita Rao,Skin Infection,Planned,2025-07-08,2025-07-09,1,Semi-Private,Government Scheme,44000,0,28800,15200,UPI,4.4,Discharged,Jul,7,0-18
+P10643,Pooja Jadhav,78,Female,Pune,ENT,Dr. Karan Shah,Cancer,Referral,2025-07-09,2025-07-12,3,Private,Health Insurance,29400,0,16900,12500,UPI,4.6,Expired,Jul,7,66+
+P10238,Priya Pawar,18,Female,Satara,Dermatology,Dr. Isha Patil,Diabetes,Planned,2025-07-10,2025-07-19,9,Semi-Private,Self Pay,37300,0,0,37300,Cash,4.1,Discharged,Jul,7,0-18
+P10992,Priya Mehta,49,Male,Thane,Orthopedics,Dr. Raj Mehta,Migraine,Emergency,2025-07-10,2025-07-16,6,Semi-Private,Health Insurance,49200,0,39800,9400,Cash,4.1,Discharged,Jul,7,36-50
+P10726,Aarav Khan,46,Male,Thane,Neurology,Dr. Anil Joshi,Viral Fever,Planned,2025-07-11,2025-07-20,9,Semi-Private,Corporate Insurance,81500,12200,51000,18300,UPI,3.4,Discharged,Jul,7,36-50
+P10763,Neha Deshmukh,33,Male,Mumbai,ENT,Dr. Meenal Joshi,Skin Infection,Planned,2025-07-11,2025-07-17,6,General Ward,Health Insurance,21800,0,19000,2800,Insurance,3.8,Under Treatment,Jul,7,19-35
+P10394,Pooja Deshmukh,49,Female,Mumbai,Dermatology,Dr. Neha Mehta,Hypertension,Planned,2025-07-12,2025-07-18,6,General Ward,Self Pay,32400,0,0,32400,Insurance,3.0,Discharged,Jul,7,36-50
+P10230,Sneha Gupta,28,Male,Mumbai,General Medicine,Dr. Priya Nair,Viral Fever,Planned,2025-07-12,2025-07-13,1,General Ward,Health Insurance,18800,0,11000,7800,Insurance,3.4,Referred,Jul,7,19-35
+P10776,Ira Singh,90,Female,Kolhapur,General Medicine,Dr. Priya Nair,Skin Infection,Referral,2025-07-14,2025-07-16,2,ICU,Corporate Insurance,41000,2000,23900,15100,Card,4.5,Discharged,Jul,7,66+
+P10013,Ira Gupta,9,Male,Navi Mumbai,Dermatology,Dr. Neha Mehta,Heart Disease,Planned,2025-07-15,2025-07-30,15,Semi-Private,Health Insurance,65100,0,50300,14800,Insurance,3.6,Discharged,Jul,7,0-18
+P10935,Priya Singh,89,Male,Nashik,Gynecology,Dr. Ananya Rao,Hypertension,Referral,2025-07-15,2025-07-25,10,General Ward,Government Scheme,54300,0,45600,8700,Insurance,2.8,Referred,Jul,7,66+
+P10539,Rahul Nair,31,Male,Mumbai,Emergency,Dr. Sameer Khan,Viral Fever,Planned,2025-07-15,2025-07-19,4,Semi-Private,Self Pay,45000,0,0,45000,UPI,4.0,Discharged,Jul,7,19-35
+P10604,Rohan Verma,52,Female,Nagpur,Dermatology,Dr. Isha Patil,Diabetes,Emergency,2025-07-17,2025-07-24,7,Semi-Private,Corporate Insurance,29000,2900,18200,7900,Cash,4.7,Under Treatment,Jul,7,51-65
+P10020,Aditya Deshmukh,58,Female,Pune,Orthopedics,Dr. Raj Mehta,Migraine,Planned,2025-07-17,2025-07-23,6,Semi-Private,Government Scheme,63700,0,47800,15900,UPI,3.6,Referred,Jul,7,51-65
+P10791,Sneha Verma,59,Female,Nashik,Oncology,Dr. Vikram Singh,Fracture,Referral,2025-07-17,2025-07-27,10,General Ward,Self Pay,87700,0,0,87700,UPI,5.0,Discharged,Jul,7,51-65
+P10971,Rahul Nair,71,Male,Mumbai,Dermatology,Dr. Neha Mehta,Back Pain,Planned,2025-07-17,2025-07-24,7,ICU,Corporate Insurance,103500,0,59600,43900,Cash,4.6,Discharged,Jul,7,66+
+P10978,Rahul Sharma,27,Female,Thane,ENT,Dr. Karan Shah,Cancer,Planned,2025-07-18,2025-07-19,1,General Ward,Self Pay,11400,1100,0,10300,Card,4.4,Discharged,Jul,7,19-35
+P10291,Pooja Patil,6,Male,Thane,Dermatology,Dr. Neha Mehta,Heart Disease,Referral,2025-07-18,2025-07-26,8,Semi-Private,Corporate Insurance,42000,0,25100,16900,Card,3.0,Referred,Jul,7,0-18
+P10132,Aisha Verma,11,Female,Ahmednagar,Gynecology,Dr. Pooja Desai,Ear Infection,Emergency,2025-07-18,2025-07-20,2,ICU,Corporate Insurance,49800,2500,35700,11600,Insurance,4.2,Discharged,Jul,7,0-18
+P10294,Riya Patil,48,Male,Pune,Cardiology,Dr. Amit Shah,Cancer,Emergency,2025-07-19,2025-07-22,3,Private,Health Insurance,63900,3200,53000,7700,Cash,4.1,Discharged,Jul,7,36-50
+P10122,Sneha Patil,28,Female,Navi Mumbai,Cardiology,Dr. Amit Shah,Back Pain,Planned,2025-07-19,2025-07-22,3,General Ward,Government Scheme,57700,0,40800,16900,Card,3.0,Discharged,Jul,7,19-35
+P10866,Diya Jadhav,50,Female,Kolhapur,Pediatrics,Dr. Rohan Shah,Pregnancy,Planned,2025-07-19,2025-07-22,3,Semi-Private,Health Insurance,28800,0,18700,10100,Insurance,3.6,Discharged,Jul,7,36-50
+P10937,Ira Mehta,81,Male,Nashik,Emergency,Dr. Arjun Patil,Heart Disease,Referral,2025-07-21,2025-07-25,4,Private,Health Insurance,46500,4600,26700,15200,Cash,5.0,Discharged,Jul,7,66+
+P10218,Neha Joshi,56,Female,Aurangabad,General Medicine,Dr. Priya Nair,Pregnancy,Emergency,2025-07-22,2025-07-26,4,General Ward,Health Insurance,24300,2400,12600,9300,Insurance,3.7,Discharged,Jul,7,51-65
+P10610,Diya Singh,69,Male,Mumbai,Emergency,Dr. Sameer Khan,Kidney Stone,Planned,2025-07-23,2025-07-25,2,General Ward,Corporate Insurance,33700,0,29900,3800,Cash,3.8,Discharged,Jul,7,66+
+P10363,Aisha Pawar,37,Female,Navi Mumbai,Gynecology,Dr. Ananya Rao,Ear Infection,Emergency,2025-07-23,2025-07-25,2,General Ward,Health Insurance,40400,4000,29900,6500,Cash,4.5,Discharged,Jul,7,36-50
+P10801,Sneha Patil,25,Female,Mumbai,Pediatrics,Dr. Rohan Shah,Migraine,Referral,2025-07-23,2025-07-25,2,Private,Health Insurance,19700,1000,15200,3500,Cash,5.0,Discharged,Jul,7,19-35
+P10409,Neha Deshmukh,48,Male,Mumbai,Dermatology,Dr. Isha Patil,Asthma,Planned,2025-07-23,2025-07-24,1,General Ward,Self Pay,5000,500,0,4500,UPI,3.3,Discharged,Jul,7,36-50
+P10558,Riya Singh,49,Female,Thane,Gynecology,Dr. Pooja Desai,Fracture,Planned,2025-07-23,2025-07-25,2,General Ward,Health Insurance,41700,0,23100,18600,Insurance,4.2,Discharged,Jul,7,36-50
+P10858,Riya Verma,67,Female,Mumbai,Cardiology,Dr. Amit Shah,Pneumonia,Emergency,2025-07-24,2025-07-27,3,Semi-Private,Self Pay,71700,0,0,71700,Insurance,4.5,Discharged,Jul,7,66+
+P10053,Aditya Joshi,49,Male,Navi Mumbai,ENT,Dr. Meenal Joshi,Migraine,Emergency,2025-07-24,2025-07-28,4,Private,Government Scheme,42100,0,36400,5700,UPI,3.3,Discharged,Jul,7,36-50
+P10871,Aisha Mehta,40,Female,Navi Mumbai,Cardiology,Dr. Neeraj Kulkarni,Migraine,Emergency,2025-07-24,2025-07-29,5,General Ward,Health Insurance,56200,0,39400,16800,UPI,4.3,Discharged,Jul,7,36-50
+P10678,Aarav Chavan,52,Male,Pune,Neurology,Dr. Anil Joshi,Pneumonia,Referral,2025-07-24,2025-07-29,5,General Ward,Self Pay,42100,4200,0,37900,Insurance,4.3,Discharged,Jul,7,51-65
+P10636,Karan Patil,41,Male,Nagpur,Emergency,Dr. Arjun Patil,Cancer,Planned,2025-07-26,2025-07-29,3,General Ward,Health Insurance,30800,0,27600,3200,Cash,3.3,Discharged,Jul,7,36-50
+P10390,Aditya Deshmukh,78,Female,Pune,Oncology,Dr. Vikram Singh,Hypertension,Planned,2025-07-26,2025-08-01,6,Private,Government Scheme,115600,11600,89400,14600,Cash,3.8,Referred,Jul,7,66+
+P10748,Pooja Chavan,77,Female,Satara,Gynecology,Dr. Ananya Rao,Diabetes,Planned,2025-07-27,2025-07-31,4,ICU,Corporate Insurance,73200,0,52400,20800,Insurance,3.1,Discharged,Jul,7,66+
+P10275,Vivaan Joshi,21,Female,Ahmednagar,Pediatrics,Dr. Sneha Desai,Heart Disease,Emergency,2025-07-27,2025-08-01,5,General Ward,Health Insurance,21400,0,17100,4300,Insurance,4.5,Discharged,Jul,7,19-35
+P10524,Vivaan Jadhav,58,Female,Navi Mumbai,Pediatrics,Dr. Sneha Desai,Fracture,Planned,2025-07-27,2025-07-30,3,Private,Corporate Insurance,38600,0,21600,17000,Cash,4.0,Referred,Jul,7,51-65
+P10889,Arjun Nair,43,Female,Mumbai,General Medicine,Dr. Rahul Verma,Diabetes,Emergency,2025-07-27,2025-07-29,2,ICU,Health Insurance,47400,0,26200,21200,UPI,4.3,Discharged,Jul,7,36-50
+P10761,Pooja Singh,40,Male,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Migraine,Planned,2025-07-27,2025-07-28,1,Private,Health Insurance,52300,5200,27100,20000,Card,4.3,Discharged,Jul,7,36-50
+P10370,Meera More,15,Male,Thane,Emergency,Dr. Sameer Khan,Kidney Stone,Planned,2025-07-28,2025-08-04,7,General Ward,Self Pay,43800,2200,0,41600,UPI,2.6,Discharged,Jul,7,0-18
+P10533,Ira Sharma,49,Male,Navi Mumbai,Gynecology,Dr. Ananya Rao,Asthma,Planned,2025-07-29,2025-08-03,5,Semi-Private,Government Scheme,45800,4600,31800,9400,Insurance,4.0,Discharged,Jul,7,36-50
+P10240,Pooja More,14,Male,Kolhapur,Gynecology,Dr. Pooja Desai,Hypertension,Planned,2025-07-29,2025-08-02,4,Semi-Private,Self Pay,40500,4000,0,36500,Card,4.6,Discharged,Jul,7,0-18
+P10741,Rohan Pawar,71,Female,Mumbai,Neurology,Dr. Anil Joshi,Skin Infection,Emergency,2025-07-29,2025-08-01,3,General Ward,Government Scheme,54700,0,32100,22600,Insurance,5.0,Discharged,Jul,7,66+
+P10728,Tanya Joshi,29,Male,Mumbai,Neurology,Dr. Kavita Rao,Fracture,Planned,2025-07-29,2025-08-04,6,Private,Government Scheme,82900,4100,43500,35300,Insurance,4.4,Discharged,Jul,7,19-35
+P10638,Rahul Patil,71,Male,Nashik,Orthopedics,Dr. Raj Mehta,Pregnancy,Referral,2025-07-30,2025-08-07,8,Semi-Private,Self Pay,66400,10000,0,56400,Insurance,4.6,Discharged,Jul,7,66+
+P10485,Riya Khan,1,Male,Navi Mumbai,Gynecology,Dr. Ananya Rao,Ear Infection,Planned,2025-07-30,2025-08-06,7,ICU,Health Insurance,117900,0,95500,22400,Cash,4.0,Discharged,Jul,7,0-18
+P10054,Aarav Nair,68,Female,Mumbai,Emergency,Dr. Arjun Patil,Hypertension,Planned,2025-07-30,2025-08-06,7,Semi-Private,Health Insurance,43200,2200,28500,12500,UPI,2.5,Discharged,Jul,7,66+
+P10050,Rahul Verma,66,Female,Pune,Cardiology,Dr. Neeraj Kulkarni,Pneumonia,Planned,2025-07-30,2025-07-31,1,Private,Government Scheme,58600,0,37600,21000,Insurance,3.7,Discharged,Jul,7,66+
+P10868,Ananya Khan,35,Female,Thane,Emergency,Dr. Sameer Khan,Diabetes,Emergency,2025-07-31,2025-08-06,6,Semi-Private,Self Pay,45900,4600,0,41300,UPI,4.7,Discharged,Jul,7,19-35
+P10368,Tanya Jadhav,68,Female,Navi Mumbai,Oncology,Dr. Vikram Singh,Viral Fever,Planned,2025-07-31,2025-08-08,8,General Ward,Self Pay,94100,0,0,94100,Cash,5.0,Discharged,Jul,7,66+
+P10708,Ananya Kulkarni,48,Female,Aurangabad,Emergency,Dr. Sameer Khan,Ear Infection,Emergency,2025-08-01,2025-08-19,18,General Ward,Health Insurance,49900,2500,44300,3100,Insurance,3.8,Discharged,Aug,8,36-50
+P10031,Pooja Mehta,19,Male,Aurangabad,Cardiology,Dr. Amit Shah,Pregnancy,Planned,2025-08-02,2025-08-05,3,Semi-Private,Corporate Insurance,63200,0,41800,21400,Cash,3.7,Discharged,Aug,8,19-35
+P10888,Arjun Sharma,25,Female,Mumbai,Emergency,Dr. Sameer Khan,Hypertension,Referral,2025-08-02,2025-08-05,3,General Ward,Health Insurance,43000,0,37800,5200,Card,3.2,Expired,Aug,8,19-35
+P10804,Pooja Gupta,36,Female,Nashik,Neurology,Dr. Anil Joshi,Pneumonia,Emergency,2025-08-02,2025-08-06,4,Private,Self Pay,73700,7400,0,66300,Insurance,3.0,Under Treatment,Aug,8,36-50
+P10142,Ira Deshmukh,53,Female,Mumbai,Neurology,Dr. Kavita Rao,Cancer,Planned,2025-08-02,2025-08-03,1,Semi-Private,Health Insurance,49800,2500,27400,19900,Cash,2.6,Under Treatment,Aug,8,51-65
+P10639,Ishaan Patil,18,Male,Pune,ENT,Dr. Meenal Joshi,Ear Infection,Planned,2025-08-03,2025-08-04,1,General Ward,Self Pay,20500,2000,0,18500,UPI,3.0,Discharged,Aug,8,0-18
+P10333,Riya Singh,22,Female,Nagpur,Neurology,Dr. Anil Joshi,Ear Infection,Planned,2025-08-03,2025-08-07,4,General Ward,Health Insurance,53000,2600,33200,17200,Cash,5.0,Discharged,Aug,8,19-35
+P10805,Arjun Pawar,72,Male,Kolhapur,Pediatrics,Dr. Rohan Shah,Viral Fever,Planned,2025-08-03,2025-08-05,2,General Ward,Health Insurance,37300,5600,28100,3600,UPI,4.5,Discharged,Aug,8,66+
+P10405,Aarav Kulkarni,46,Male,Kolhapur,Dermatology,Dr. Isha Patil,Hypertension,Referral,2025-08-03,2025-08-11,8,General Ward,Government Scheme,22400,1100,19500,1800,Insurance,4.8,Discharged,Aug,8,36-50
+P10769,Aditya Sharma,24,Male,Thane,Gynecology,Dr. Ananya Rao,Asthma,Planned,2025-08-03,2025-08-12,9,Semi-Private,Self Pay,62200,0,0,62200,UPI,2.7,Under Treatment,Aug,8,19-35
+P10442,Ananya Jadhav,23,Male,Thane,Orthopedics,Dr. Sameer Patil,Skin Infection,Planned,2025-08-04,2025-08-10,6,Private,Health Insurance,69300,6900,36900,25500,UPI,4.7,Discharged,Aug,8,19-35
+P10877,Pooja Gupta,53,Female,Mumbai,Dermatology,Dr. Neha Mehta,Pneumonia,Emergency,2025-08-04,2025-08-12,8,Semi-Private,Corporate Insurance,46800,0,26800,20000,Insurance,5.0,Discharged,Aug,8,51-65
+P10327,Meera Mehta,34,Female,Satara,Oncology,Dr. Nitin Mehta,Migraine,Emergency,2025-08-04,2025-08-06,2,Private,Health Insurance,100200,0,79000,21200,Insurance,3.8,Under Treatment,Aug,8,19-35
+P10867,Riya Chavan,20,Male,Nagpur,Orthopedics,Dr. Raj Mehta,Ear Infection,Emergency,2025-08-04,2025-08-10,6,ICU,Health Insurance,109700,16500,65300,27900,Insurance,3.9,Discharged,Aug,8,19-35
+P10092,Karan Joshi,55,Male,Thane,Neurology,Dr. Kavita Rao,Skin Infection,Emergency,2025-08-04,2025-08-06,2,General Ward,Government Scheme,46500,0,33400,13100,UPI,5.0,Discharged,Aug,8,51-65
+P10380,Neha Patil,68,Female,Kolhapur,Dermatology,Dr. Isha Patil,Diabetes,Referral,2025-08-04,2025-08-06,2,Private,Self Pay,23400,1200,0,22200,Card,4.6,Discharged,Aug,8,66+
+P10813,Arjun Nair,46,Male,Pune,Pediatrics,Dr. Sneha Desai,Heart Disease,Planned,2025-08-04,2025-08-07,3,Semi-Private,Health Insurance,26900,2700,15300,8900,Cash,3.7,Discharged,Aug,8,36-50
+P10688,Ira Verma,55,Female,Mumbai,Dermatology,Dr. Neha Mehta,Pregnancy,Referral,2025-08-04,2025-08-08,4,ICU,Self Pay,57700,0,0,57700,Insurance,3.6,Under Treatment,Aug,8,51-65
+P10287,Rohan Pawar,35,Male,Aurangabad,Emergency,Dr. Sameer Khan,Heart Disease,Planned,2025-08-05,2025-08-06,1,ICU,Self Pay,55800,2800,0,53000,Insurance,4.3,Referred,Aug,8,19-35
+P10433,Sneha Chavan,78,Male,Navi Mumbai,Emergency,Dr. Sameer Khan,Migraine,Planned,2025-08-05,2025-08-06,1,ICU,Self Pay,35700,0,0,35700,Card,4.2,Discharged,Aug,8,66+
+P10942,Meera Patil,27,Male,Pune,Gynecology,Dr. Pooja Desai,Migraine,Planned,2025-08-06,2025-08-12,6,General Ward,Health Insurance,34300,0,25800,8500,Card,4.6,Discharged,Aug,8,19-35
+P10256,Sneha Singh,56,Female,Pune,Dermatology,Dr. Isha Patil,Ear Infection,Planned,2025-08-06,2025-08-07,1,General Ward,Government Scheme,19800,2000,12300,5500,Cash,3.2,Under Treatment,Aug,8,51-65
+P10396,Priya Patil,38,Female,Mumbai,Neurology,Dr. Anil Joshi,Asthma,Emergency,2025-08-06,2025-08-12,6,Private,Self Pay,86000,0,0,86000,UPI,4.3,Discharged,Aug,8,36-50
+P10113,Ira Khan,16,Female,Mumbai,Dermatology,Dr. Neha Mehta,Pneumonia,Emergency,2025-08-06,2025-08-10,4,Semi-Private,Self Pay,31900,0,0,31900,Insurance,3.6,Under Treatment,Aug,8,0-18
+P10929,Priya Sharma,50,Male,Kolhapur,Gynecology,Dr. Ananya Rao,Ear Infection,Emergency,2025-08-07,2025-08-13,6,Private,Health Insurance,69100,0,40000,29100,Insurance,4.6,Discharged,Aug,8,36-50
+P10052,Pooja Verma,40,Male,Thane,Cardiology,Dr. Amit Shah,Kidney Stone,Planned,2025-08-07,2025-08-08,1,Semi-Private,Government Scheme,51400,0,44700,6700,Insurance,3.2,Discharged,Aug,8,36-50
+P10661,Rahul Kulkarni,31,Female,Nashik,ENT,Dr. Meenal Joshi,Pneumonia,Planned,2025-08-08,2025-08-12,4,Private,Government Scheme,30800,4600,19700,6500,UPI,3.9,Discharged,Aug,8,19-35
+P10819,Aditya Verma,8,Other,Thane,Gynecology,Dr. Ananya Rao,Back Pain,Emergency,2025-08-08,2025-08-09,1,Semi-Private,Government Scheme,33200,3300,25200,4700,Cash,4.7,Discharged,Aug,8,0-18
+P10331,Ishaan Nair,44,Male,Nashik,Neurology,Dr. Anil Joshi,Hypertension,Emergency,2025-08-08,2025-08-12,4,General Ward,Corporate Insurance,52000,0,41300,10700,Insurance,5.0,Discharged,Aug,8,36-50
+P10334,Aditya Jadhav,41,Female,Pune,Neurology,Dr. Anil Joshi,Heart Disease,Planned,2025-08-09,2025-08-17,8,Private,Self Pay,97600,4900,0,92700,Card,3.4,Discharged,Aug,8,36-50
+P10944,Aisha More,31,Male,Navi Mumbai,Neurology,Dr. Anil Joshi,Asthma,Emergency,2025-08-10,2025-08-13,3,Semi-Private,Health Insurance,54500,0,35600,18900,Cash,3.4,Discharged,Aug,8,19-35
+P10221,Aisha Pawar,51,Female,Thane,Dermatology,Dr. Isha Patil,Cancer,Referral,2025-08-11,2025-08-14,3,General Ward,Corporate Insurance,17000,800,11900,4300,Card,4.7,Discharged,Aug,8,51-65
+P10200,Arjun Jadhav,42,Female,Mumbai,Orthopedics,Dr. Raj Mehta,Pneumonia,Planned,2025-08-12,2025-08-18,6,Semi-Private,Self Pay,49800,0,0,49800,Card,3.7,Discharged,Aug,8,36-50
+P10986,Ananya More,39,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Ear Infection,Planned,2025-08-12,2025-08-13,1,General Ward,Health Insurance,25400,0,14300,11100,Cash,4.1,Discharged,Aug,8,36-50
+P10323,Sneha Jadhav,60,Male,Pune,Orthopedics,Dr. Sameer Patil,Asthma,Emergency,2025-08-13,2025-08-15,2,Private,Government Scheme,42100,0,37100,5000,Card,5.0,Discharged,Aug,8,51-65
+P10170,Vivaan Deshmukh,50,Female,Pune,Dermatology,Dr. Isha Patil,Hypertension,Emergency,2025-08-13,2025-08-22,9,General Ward,Government Scheme,29300,2900,23800,2600,Cash,3.9,Discharged,Aug,8,36-50
+P10845,Rohan Khan,37,Male,Nagpur,Oncology,Dr. Nitin Mehta,Pregnancy,Emergency,2025-08-13,2025-08-25,12,Private,Government Scheme,150000,0,88300,61700,Insurance,4.3,Discharged,Aug,8,36-50
+P10716,Riya Deshmukh,44,Male,Nagpur,Neurology,Dr. Kavita Rao,Hypertension,Planned,2025-08-14,2025-08-20,6,General Ward,Health Insurance,58500,5800,39100,13600,Insurance,4.2,Discharged,Aug,8,36-50
+P10973,Kabir Gupta,38,Female,Nagpur,Cardiology,Dr. Amit Shah,Hypertension,Referral,2025-08-14,2025-08-22,8,Semi-Private,Health Insurance,79200,0,49300,29900,Insurance,4.3,Discharged,Aug,8,36-50
+P10131,Rahul Singh,19,Male,Nagpur,Neurology,Dr. Anil Joshi,Heart Disease,Emergency,2025-08-14,2025-08-16,2,Semi-Private,Government Scheme,45600,0,34800,10800,Cash,3.9,Discharged,Aug,8,19-35
+P10198,Meera Pawar,8,Female,Thane,Orthopedics,Dr. Raj Mehta,Asthma,Planned,2025-08-14,2025-08-15,1,Semi-Private,Corporate Insurance,38900,0,36000,2900,UPI,2.9,Referred,Aug,8,0-18
+P10948,Meera Gupta,59,Male,Navi Mumbai,Dermatology,Dr. Neha Mehta,Cancer,Planned,2025-08-15,2025-08-16,1,General Ward,Government Scheme,11900,1200,7600,3100,Cash,4.4,Discharged,Aug,8,51-65
+P10901,Diya Khan,33,Male,Aurangabad,General Medicine,Dr. Rahul Verma,Back Pain,Planned,2025-08-15,2025-08-19,4,Private,Health Insurance,30000,1500,16600,11900,Insurance,4.5,Discharged,Aug,8,19-35
+P10091,Tanya Jadhav,20,Female,Aurangabad,Cardiology,Dr. Neeraj Kulkarni,Hypertension,Emergency,2025-08-15,2025-08-18,3,Private,Corporate Insurance,62200,0,45800,16400,Insurance,3.1,Discharged,Aug,8,19-35
+P10826,Ananya Joshi,68,Female,Nagpur,Emergency,Dr. Sameer Khan,Heart Disease,Planned,2025-08-15,2025-08-17,2,Semi-Private,Health Insurance,38300,1900,34600,1800,Insurance,4.8,Under Treatment,Aug,8,66+
+P10955,Priya Chavan,54,Male,Pune,Pediatrics,Dr. Sneha Desai,Cancer,Emergency,2025-08-16,2025-08-19,3,General Ward,Self Pay,32700,1600,0,31100,Insurance,4.1,Discharged,Aug,8,51-65
+P10650,Kabir Joshi,49,Female,Mumbai,Oncology,Dr. Vikram Singh,Migraine,Referral,2025-08-17,2025-08-23,6,Semi-Private,Government Scheme,100800,0,76200,24600,Insurance,3.5,Discharged,Aug,8,36-50
+P10487,Kabir Mehta,33,Female,Thane,Gynecology,Dr. Pooja Desai,Migraine,Emergency,2025-08-17,2025-08-19,2,General Ward,Self Pay,25500,1300,0,24200,UPI,5.0,Discharged,Aug,8,19-35
+P10721,Ishaan Verma,63,Male,Satara,Pediatrics,Dr. Rohan Shah,Pregnancy,Planned,2025-08-18,2025-08-28,10,General Ward,Self Pay,38400,0,0,38400,Cash,4.7,Under Treatment,Aug,8,51-65
+P10259,Ira Sharma,85,Male,Ahmednagar,Orthopedics,Dr. Sameer Patil,Asthma,Emergency,2025-08-18,2025-08-20,2,Private,Self Pay,47300,0,0,47300,Cash,4.5,Discharged,Aug,8,66+
+P10246,Aarav More,47,Male,Navi Mumbai,Pediatrics,Dr. Sneha Desai,Pneumonia,Referral,2025-08-18,2025-08-20,2,General Ward,Corporate Insurance,25900,0,23200,2700,UPI,4.3,Discharged,Aug,8,36-50
+P10923,Neha Pawar,47,Male,Thane,Gynecology,Dr. Ananya Rao,Diabetes,Referral,2025-08-19,2025-08-22,3,ICU,Corporate Insurance,76200,0,68800,7400,Card,4.5,Discharged,Aug,8,36-50
+P10570,Rohan Nair,78,Female,Aurangabad,Cardiology,Dr. Neeraj Kulkarni,Skin Infection,Planned,2025-08-19,2025-08-24,5,Semi-Private,Corporate Insurance,60300,3000,34600,22700,Card,3.6,Discharged,Aug,8,66+
+P10523,Ananya Pawar,60,Male,Mumbai,Dermatology,Dr. Neha Mehta,Pneumonia,Planned,2025-08-19,2025-08-21,2,ICU,Health Insurance,37500,1900,31500,4100,Cash,5.0,Discharged,Aug,8,51-65
+P10184,Aarav Joshi,25,Female,Pune,Pediatrics,Dr. Sneha Desai,Viral Fever,Planned,2025-08-19,2025-08-24,5,General Ward,Self Pay,26800,1300,0,25500,Cash,3.8,Discharged,Aug,8,19-35
+P10800,Rohan Gupta,49,Male,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Asthma,Emergency,2025-08-19,2025-08-23,4,General Ward,Government Scheme,55900,5600,41900,8400,UPI,2.6,Discharged,Aug,8,36-50
+P10045,Meera Gupta,55,Male,Aurangabad,Pediatrics,Dr. Sneha Desai,Heart Disease,Emergency,2025-08-19,2025-08-21,2,Private,Corporate Insurance,26200,2600,20200,3400,Cash,4.9,Under Treatment,Aug,8,51-65
+P10988,Ira Singh,42,Male,Pune,Gynecology,Dr. Ananya Rao,Diabetes,Planned,2025-08-20,2025-08-27,7,General Ward,Government Scheme,39500,4000,20900,14600,Cash,4.4,Discharged,Aug,8,36-50
+P10773,Meera Sharma,64,Male,Pune,Dermatology,Dr. Neha Mehta,Heart Disease,Emergency,2025-08-20,2025-08-22,2,Semi-Private,Health Insurance,25300,0,16300,9000,Card,3.7,Under Treatment,Aug,8,51-65
+P10316,Kabir Singh,38,Female,Aurangabad,Orthopedics,Dr. Raj Mehta,Ear Infection,Emergency,2025-08-20,2025-08-27,7,General Ward,Government Scheme,53000,5300,37400,10300,Insurance,3.2,Discharged,Aug,8,36-50
+P10076,Arjun More,55,Female,Mumbai,Cardiology,Dr. Amit Shah,Diabetes,Emergency,2025-08-20,2025-08-23,3,General Ward,Health Insurance,52000,2600,29600,19800,Card,2.8,Discharged,Aug,8,51-65
+P10709,Kabir Nair,60,Male,Nashik,General Medicine,Dr. Rahul Verma,Pregnancy,Emergency,2025-08-21,2025-08-26,5,General Ward,Self Pay,23300,2300,0,21000,UPI,4.0,Under Treatment,Aug,8,51-65
+P10551,Riya Jadhav,60,Male,Mumbai,Orthopedics,Dr. Sameer Patil,Pregnancy,Planned,2025-08-22,2025-08-23,1,Private,Corporate Insurance,30200,3000,15000,12200,UPI,3.6,Discharged,Aug,8,51-65
+P10671,Priya Chavan,43,Female,Ahmednagar,Orthopedics,Dr. Raj Mehta,Kidney Stone,Planned,2025-08-23,2025-08-28,5,Semi-Private,Health Insurance,54100,0,36100,18000,UPI,4.1,Discharged,Aug,8,36-50
+P10277,Arjun Khan,43,Female,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Diabetes,Planned,2025-08-23,2025-08-26,3,General Ward,Self Pay,55900,0,0,55900,Insurance,3.0,Discharged,Aug,8,36-50
+P10547,Meera Khan,56,Female,Navi Mumbai,Oncology,Dr. Nitin Mehta,Migraine,Planned,2025-08-24,2025-09-01,8,General Ward,Government Scheme,94300,0,54800,39500,Cash,3.4,Discharged,Aug,8,51-65
+P10261,Aarav Patil,59,Male,Navi Mumbai,ENT,Dr. Meenal Joshi,Migraine,Referral,2025-08-24,2025-08-28,4,Private,Health Insurance,32400,1600,27900,2900,UPI,3.9,Discharged,Aug,8,51-65
+P10374,Neha Gupta,33,Male,Aurangabad,General Medicine,Dr. Rahul Verma,Hypertension,Emergency,2025-08-25,2025-09-07,13,Semi-Private,Health Insurance,54800,0,31200,23600,Cash,4.5,Referred,Aug,8,19-35
+P10125,Aditya Mehta,1,Male,Mumbai,ENT,Dr. Karan Shah,Cancer,Planned,2025-08-25,2025-08-31,6,Private,Self Pay,46100,2300,0,43800,Cash,3.9,Discharged,Aug,8,0-18
+P10974,Kabir Gupta,44,Male,Mumbai,General Medicine,Dr. Rahul Verma,Pneumonia,Emergency,2025-08-25,2025-09-01,7,Private,Health Insurance,54300,0,43600,10700,Cash,5.0,Discharged,Aug,8,36-50
+P10921,Aditya Patil,55,Male,Thane,Emergency,Dr. Arjun Patil,Hypertension,Planned,2025-08-26,2025-08-31,5,General Ward,Self Pay,26700,0,0,26700,Card,4.5,Under Treatment,Aug,8,51-65
+P10477,Arjun Khan,30,Male,Pune,Pediatrics,Dr. Rohan Shah,Fracture,Emergency,2025-08-26,2025-08-31,5,General Ward,Health Insurance,31400,0,18300,13100,Insurance,4.8,Discharged,Aug,8,19-35
+P10138,Sneha Gupta,54,Male,Mumbai,Orthopedics,Dr. Sameer Patil,Migraine,Planned,2025-08-26,2025-09-02,7,Semi-Private,Government Scheme,62700,0,37700,25000,Insurance,4.3,Referred,Aug,8,51-65
+P10155,Aisha More,39,Male,Pune,Gynecology,Dr. Pooja Desai,Ear Infection,Referral,2025-08-27,2025-08-31,4,General Ward,Health Insurance,37200,0,27000,10200,UPI,3.8,Discharged,Aug,8,36-50
+P10682,Ira Mehta,62,Male,Navi Mumbai,Gynecology,Dr. Ananya Rao,Cancer,Planned,2025-08-29,2025-09-11,13,Private,Self Pay,104800,0,0,104800,UPI,3.5,Discharged,Aug,8,51-65
+P10952,Riya Verma,30,Male,Mumbai,ENT,Dr. Meenal Joshi,Heart Disease,Emergency,2025-08-29,2025-09-05,7,General Ward,Self Pay,28200,0,0,28200,Insurance,3.0,Discharged,Aug,8,19-35
+P10077,Rohan Singh,48,Male,Navi Mumbai,ENT,Dr. Meenal Joshi,Asthma,Planned,2025-08-29,2025-09-01,3,Private,Health Insurance,34100,0,24500,9600,Insurance,4.3,Discharged,Aug,8,36-50
+P10521,Aisha Verma,1,Female,Nagpur,Neurology,Dr. Kavita Rao,Diabetes,Planned,2025-08-30,2025-09-04,5,General Ward,Self Pay,48800,0,0,48800,Insurance,3.6,Discharged,Aug,8,0-18
+P10673,Ishaan Khan,49,Female,Navi Mumbai,Pediatrics,Dr. Rohan Shah,Asthma,Planned,2025-08-30,2025-09-07,8,General Ward,Health Insurance,36000,0,29000,7000,Insurance,4.2,Discharged,Aug,8,36-50
+P10160,Aarav More,46,Female,Nagpur,ENT,Dr. Meenal Joshi,Migraine,Planned,2025-08-31,2025-09-03,3,ICU,Corporate Insurance,55400,8300,40700,6400,Insurance,4.3,Discharged,Aug,8,36-50
+P10389,Rohan Kulkarni,71,Male,Nagpur,Emergency,Dr. Sameer Khan,Ear Infection,Emergency,2025-08-31,2025-09-01,1,Private,Government Scheme,36000,0,22300,13700,Card,4.4,Under Treatment,Aug,8,66+
+P10470,Riya Chavan,36,Male,Mumbai,ENT,Dr. Karan Shah,Hypertension,Planned,2025-08-31,2025-09-06,6,ICU,Government Scheme,84400,0,65800,18600,Card,4.4,Discharged,Aug,8,36-50
+P10483,Rahul Verma,61,Female,Thane,Dermatology,Dr. Neha Mehta,Viral Fever,Planned,2025-08-31,2025-09-04,4,Private,Government Scheme,36900,0,27500,9400,Insurance,4.5,Discharged,Aug,8,51-65
+P10766,Aisha Nair,1,Male,Nashik,Dermatology,Dr. Neha Mehta,Ear Infection,Emergency,2025-08-31,2025-09-03,3,Semi-Private,Corporate Insurance,21300,1100,18500,1700,UPI,2.5,Discharged,Aug,8,0-18
+P10475,Pooja Jadhav,75,Female,Mumbai,Cardiology,Dr. Amit Shah,Pneumonia,Emergency,2025-09-01,2025-09-11,10,General Ward,Corporate Insurance,56200,0,44800,11400,UPI,4.7,Discharged,Sep,9,66+
+P10798,Aisha Mehta,30,Male,Ahmednagar,Dermatology,Dr. Neha Mehta,Back Pain,Emergency,2025-09-01,2025-09-05,4,General Ward,Health Insurance,23400,1200,18000,4200,Insurance,3.8,Discharged,Sep,9,19-35
+P10904,Arjun Patil,31,Female,Mumbai,Neurology,Dr. Anil Joshi,Migraine,Planned,2025-09-02,2025-09-03,1,General Ward,Health Insurance,46400,0,41300,5100,UPI,3.1,Discharged,Sep,9,19-35
+P10575,Ananya Patil,33,Female,Mumbai,Emergency,Dr. Arjun Patil,Asthma,Referral,2025-09-03,2025-09-09,6,Semi-Private,Government Scheme,45300,2300,31400,11600,Insurance,3.5,Discharged,Sep,9,19-35
+P10697,Diya More,45,Male,Thane,Pediatrics,Dr. Rohan Shah,Asthma,Planned,2025-09-03,2025-09-08,5,General Ward,Corporate Insurance,30400,0,25100,5300,Insurance,4.3,Referred,Sep,9,36-50
+P10864,Kabir Pawar,32,Female,Aurangabad,Dermatology,Dr. Neha Mehta,Kidney Stone,Emergency,2025-09-03,2025-09-08,5,ICU,Government Scheme,70700,3500,47600,19600,Cash,4.1,Under Treatment,Sep,9,19-35
+P10693,Priya Gupta,23,Male,Pune,Oncology,Dr. Nitin Mehta,Cancer,Planned,2025-09-04,2025-09-07,3,Semi-Private,Self Pay,92500,0,0,92500,UPI,5.0,Discharged,Sep,9,19-35
+P10493,Sneha Mehta,46,Female,Mumbai,Neurology,Dr. Kavita Rao,Cancer,Emergency,2025-09-04,2025-09-05,1,Private,Government Scheme,41200,2100,33100,6000,UPI,5.0,Discharged,Sep,9,36-50
+P10725,Rohan Verma,60,Male,Mumbai,Pediatrics,Dr. Rohan Shah,Skin Infection,Planned,2025-09-04,2025-09-10,6,ICU,Government Scheme,100200,0,70100,30100,Card,4.6,Discharged,Sep,9,51-65
+P10802,Priya Chavan,1,Male,Pune,Neurology,Dr. Kavita Rao,Asthma,Emergency,2025-09-05,2025-09-11,6,Private,Corporate Insurance,77300,0,46000,31300,UPI,3.5,Discharged,Sep,9,0-18
+P10296,Karan Joshi,26,Male,Thane,Dermatology,Dr. Isha Patil,Back Pain,Referral,2025-09-05,2025-09-14,9,Private,Corporate Insurance,65800,0,51900,13900,UPI,5.0,Discharged,Sep,9,19-35
+P10787,Ishaan More,34,Female,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Fracture,Planned,2025-09-06,2025-09-08,2,Semi-Private,Corporate Insurance,65800,0,56000,9800,Cash,4.8,Under Treatment,Sep,9,19-35
+P10325,Tanya Patil,41,Female,Nashik,Pediatrics,Dr. Sneha Desai,Heart Disease,Referral,2025-09-06,2025-09-08,2,ICU,Health Insurance,59200,0,53700,5500,Insurance,3.9,Discharged,Sep,9,36-50
+P10081,Ishaan Nair,53,Male,Navi Mumbai,Pediatrics,Dr. Sneha Desai,Kidney Stone,Referral,2025-09-06,2025-09-11,5,Private,Health Insurance,42600,4300,32400,5900,Cash,4.0,Discharged,Sep,9,51-65
+P10302,Rohan Joshi,41,Male,Nashik,Neurology,Dr. Anil Joshi,Viral Fever,Emergency,2025-09-06,2025-09-08,2,General Ward,Health Insurance,63000,3200,47100,12700,Card,4.3,Discharged,Sep,9,36-50
+P10392,Rohan Khan,54,Male,Mumbai,Emergency,Dr. Sameer Khan,Cancer,Emergency,2025-09-06,2025-09-08,2,Private,Health Insurance,40800,2000,21500,17300,Insurance,4.1,Discharged,Sep,9,51-65
+P10711,Ira Jadhav,55,Female,Nagpur,Cardiology,Dr. Amit Shah,Cancer,Emergency,2025-09-08,2025-09-10,2,ICU,Corporate Insurance,78400,0,72600,5800,Cash,4.8,Under Treatment,Sep,9,51-65
+P10371,Aditya Jadhav,56,Female,Mumbai,Dermatology,Dr. Isha Patil,Ear Infection,Planned,2025-09-08,2025-09-11,3,General Ward,Health Insurance,28400,0,21200,7200,Cash,4.3,Discharged,Sep,9,51-65
+P10017,Neha More,53,Female,Pune,Neurology,Dr. Anil Joshi,Pneumonia,Planned,2025-09-09,2025-09-11,2,General Ward,Self Pay,43200,0,0,43200,Insurance,2.6,Under Treatment,Sep,9,51-65
+P10146,Sneha Joshi,22,Female,Pune,Emergency,Dr. Arjun Patil,Skin Infection,Emergency,2025-09-09,2025-09-15,6,General Ward,Government Scheme,29600,0,20600,9000,Insurance,3.1,Discharged,Sep,9,19-35
+P10943,Rahul Deshmukh,65,Female,Pune,Neurology,Dr. Anil Joshi,Skin Infection,Emergency,2025-09-10,2025-09-15,5,General Ward,Self Pay,60700,0,0,60700,Card,3.8,Discharged,Sep,9,51-65
+P10562,Rahul Khan,31,Female,Thane,Gynecology,Dr. Ananya Rao,Fracture,Emergency,2025-09-10,2025-09-13,3,Semi-Private,Government Scheme,30800,0,21600,9200,Cash,4.2,Discharged,Sep,9,19-35
+P10876,Priya Nair,12,Male,Mumbai,Dermatology,Dr. Neha Mehta,Pneumonia,Emergency,2025-09-11,2025-09-16,5,Private,Health Insurance,50300,2500,38100,9700,UPI,3.9,Discharged,Sep,9,0-18
+P10265,Aarav Verma,34,Female,Mumbai,ENT,Dr. Karan Shah,Heart Disease,Referral,2025-09-11,2025-09-15,4,Semi-Private,Health Insurance,23100,2300,17000,3800,Card,3.5,Discharged,Sep,9,19-35
+P10596,Meera Verma,41,Female,Mumbai,ENT,Dr. Meenal Joshi,Viral Fever,Emergency,2025-09-12,2025-09-14,2,General Ward,Self Pay,21300,0,0,21300,Insurance,3.5,Discharged,Sep,9,36-50
+P10624,Aisha Nair,32,Male,Aurangabad,Neurology,Dr. Kavita Rao,Asthma,Emergency,2025-09-12,2025-09-14,2,General Ward,Government Scheme,61800,3100,35800,22900,Card,5.0,Discharged,Sep,9,19-35
+P10836,Aditya Nair,52,Female,Kolhapur,Pediatrics,Dr. Rohan Shah,Viral Fever,Referral,2025-09-12,2025-09-17,5,Private,Self Pay,43100,2200,0,40900,Cash,3.6,Discharged,Sep,9,51-65
+P10260,Aditya Pawar,19,Female,Nagpur,Cardiology,Dr. Amit Shah,Pregnancy,Emergency,2025-09-12,2025-09-19,7,Semi-Private,Self Pay,70900,3500,0,67400,UPI,3.4,Referred,Sep,9,19-35
+P10534,Priya Deshmukh,38,Male,Nashik,General Medicine,Dr. Rahul Verma,Asthma,Emergency,2025-09-12,2025-09-14,2,General Ward,Health Insurance,41400,0,33400,8000,Insurance,4.1,Discharged,Sep,9,36-50
+P10980,Neha Nair,29,Female,Navi Mumbai,Oncology,Dr. Nitin Mehta,Diabetes,Emergency,2025-09-12,2025-09-16,4,General Ward,Corporate Insurance,101200,0,64800,36400,UPI,3.5,Discharged,Sep,9,19-35
+P10875,Vivaan Jadhav,11,Female,Nashik,Emergency,Dr. Sameer Khan,Skin Infection,Emergency,2025-09-13,2025-09-16,3,General Ward,Corporate Insurance,14300,700,7700,5900,Card,3.5,Discharged,Sep,9,0-18
+P10778,Pooja Mehta,38,Male,Mumbai,ENT,Dr. Meenal Joshi,Heart Disease,Emergency,2025-09-13,2025-09-22,9,General Ward,Corporate Insurance,18200,0,16400,1800,Insurance,3.3,Discharged,Sep,9,36-50
+P10590,Ananya Verma,27,Female,Mumbai,Dermatology,Dr. Neha Mehta,Ear Infection,Planned,2025-09-13,2025-09-16,3,ICU,Corporate Insurance,45000,0,25000,20000,Cash,3.7,Discharged,Sep,9,19-35
+P10989,Ira Jadhav,9,Male,Pune,Dermatology,Dr. Neha Mehta,Hypertension,Emergency,2025-09-13,2025-09-16,3,Semi-Private,Health Insurance,27500,4100,19300,4100,Cash,3.2,Discharged,Sep,9,0-18
+P10269,Priya Sharma,53,Male,Mumbai,Gynecology,Dr. Pooja Desai,Skin Infection,Referral,2025-09-14,2025-09-20,6,General Ward,Health Insurance,36200,5400,18800,12000,Insurance,5.0,Discharged,Sep,9,51-65
+P10969,Vivaan Khan,33,Male,Mumbai,Orthopedics,Dr. Sameer Patil,Pneumonia,Planned,2025-09-14,2025-09-19,5,General Ward,Self Pay,41300,4100,0,37200,Card,3.1,Discharged,Sep,9,19-35
+P10767,Aisha Chavan,51,Male,Mumbai,ENT,Dr. Karan Shah,Diabetes,Planned,2025-09-15,2025-09-18,3,General Ward,Health Insurance,15100,0,13800,1300,UPI,3.6,Discharged,Sep,9,51-65
+P10080,Arjun Jadhav,39,Female,Thane,Oncology,Dr. Vikram Singh,Hypertension,Emergency,2025-09-15,2025-09-18,3,General Ward,Corporate Insurance,85100,4300,56900,23900,UPI,3.8,Discharged,Sep,9,36-50
+P10244,Sneha Deshmukh,67,Male,Satara,Emergency,Dr. Arjun Patil,Pregnancy,Planned,2025-09-15,2025-10-04,19,General Ward,Corporate Insurance,45000,0,31700,13300,Cash,3.5,Discharged,Sep,9,66+
+P10111,Aarav Joshi,44,Female,Mumbai,Gynecology,Dr. Pooja Desai,Heart Disease,Emergency,2025-09-16,2025-09-25,9,General Ward,Government Scheme,41900,4200,23800,13900,Insurance,4.9,Discharged,Sep,9,36-50
+P10271,Aditya Singh,32,Male,Nagpur,General Medicine,Dr. Rahul Verma,Viral Fever,Emergency,2025-09-16,2025-09-18,2,Private,Health Insurance,25900,0,16700,9200,Insurance,4.2,Discharged,Sep,9,19-35
+P10966,Kabir Singh,39,Male,Mumbai,Gynecology,Dr. Ananya Rao,Hypertension,Emergency,2025-09-16,2025-09-21,5,Private,Government Scheme,50900,2500,28900,19500,Cash,4.4,Discharged,Sep,9,36-50
+P10408,Neha Singh,60,Male,Mumbai,Neurology,Dr. Kavita Rao,Fracture,Planned,2025-09-16,2025-09-17,1,General Ward,Health Insurance,40100,0,32300,7800,UPI,4.6,Discharged,Sep,9,51-65
+P10376,Aisha Nair,28,Female,Mumbai,Gynecology,Dr. Pooja Desai,Asthma,Referral,2025-09-16,2025-09-17,1,General Ward,Corporate Insurance,25800,0,20200,5600,Cash,2.9,Referred,Sep,9,19-35
+P10059,Rahul Pawar,43,Female,Mumbai,ENT,Dr. Meenal Joshi,Pneumonia,Planned,2025-09-16,2025-09-23,7,Private,Corporate Insurance,65500,3300,52400,9800,UPI,3.5,Under Treatment,Sep,9,36-50
+P10211,Diya Pawar,20,Male,Nagpur,Emergency,Dr. Arjun Patil,Heart Disease,Emergency,2025-09-17,2025-09-30,13,Private,Health Insurance,93300,0,54400,38900,Insurance,3.4,Discharged,Sep,9,19-35
+P10519,Diya Joshi,46,Male,Nagpur,Gynecology,Dr. Pooja Desai,Asthma,Planned,2025-09-17,2025-09-22,5,Semi-Private,Self Pay,50700,0,0,50700,Card,3.9,Discharged,Sep,9,36-50
+P10855,Rahul Nair,64,Other,Navi Mumbai,Neurology,Dr. Kavita Rao,Pneumonia,Planned,2025-09-18,2025-09-22,4,Private,Health Insurance,60800,3000,50800,7000,Insurance,4.1,Discharged,Sep,9,51-65
+P10848,Sneha Jadhav,33,Male,Nashik,ENT,Dr. Karan Shah,Pneumonia,Planned,2025-09-18,2025-09-22,4,General Ward,Self Pay,31200,0,0,31200,UPI,3.0,Discharged,Sep,9,19-35
+P10634,Pooja Singh,42,Male,Kolhapur,ENT,Dr. Karan Shah,Asthma,Emergency,2025-09-18,2025-09-25,7,General Ward,Self Pay,27200,1400,0,25800,Insurance,3.4,Discharged,Sep,9,36-50
+P10264,Aditya Patil,42,Male,Nashik,Emergency,Dr. Sameer Khan,Cancer,Planned,2025-09-18,2025-09-26,8,Semi-Private,Self Pay,40100,0,0,40100,Insurance,3.3,Referred,Sep,9,36-50
+P10698,Arjun Khan,64,Male,Satara,Gynecology,Dr. Ananya Rao,Pneumonia,Planned,2025-09-19,2025-09-21,2,General Ward,Self Pay,27400,2700,0,24700,Insurance,3.8,Under Treatment,Sep,9,51-65
+P10074,Ishaan Patil,50,Male,Mumbai,General Medicine,Dr. Priya Nair,Fracture,Planned,2025-09-19,2025-09-20,1,General Ward,Health Insurance,22800,1100,17800,3900,UPI,4.3,Discharged,Sep,9,36-50
+P10895,Ira Mehta,38,Female,Nagpur,Gynecology,Dr. Pooja Desai,Migraine,Emergency,2025-09-20,2025-09-22,2,General Ward,Corporate Insurance,42500,2100,24100,16300,Cash,3.9,Expired,Sep,9,36-50
+P10626,Pooja Nair,57,Male,Kolhapur,ENT,Dr. Meenal Joshi,Ear Infection,Planned,2025-09-21,2025-09-25,4,Semi-Private,Health Insurance,33800,5100,21300,7400,UPI,4.1,Discharged,Sep,9,51-65
+P10288,Pooja Singh,22,Female,Mumbai,General Medicine,Dr. Priya Nair,Diabetes,Planned,2025-09-21,2025-10-05,14,General Ward,Health Insurance,34400,0,28100,6300,Cash,4.9,Discharged,Sep,9,19-35
+P10298,Ishaan Pawar,16,Female,Thane,Cardiology,Dr. Amit Shah,Fracture,Planned,2025-09-21,2025-09-29,8,Semi-Private,Government Scheme,84700,12700,46100,25900,Insurance,4.7,Discharged,Sep,9,0-18
+P10243,Ira Khan,44,Female,Navi Mumbai,Orthopedics,Dr. Raj Mehta,Asthma,Emergency,2025-09-22,2025-09-25,3,General Ward,Health Insurance,47600,2400,39500,5700,Cash,4.1,Discharged,Sep,9,36-50
+P10304,Tanya Nair,34,Female,Navi Mumbai,Dermatology,Dr. Neha Mehta,Kidney Stone,Planned,2025-09-22,2025-09-27,5,General Ward,Government Scheme,25400,1300,16200,7900,Cash,4.9,Discharged,Sep,9,19-35
+P10809,Priya Verma,67,Female,Thane,Dermatology,Dr. Isha Patil,Migraine,Planned,2025-09-24,2025-09-25,1,ICU,Self Pay,20800,0,0,20800,UPI,3.5,Under Treatment,Sep,9,66+
+P10393,Ananya Joshi,25,Male,Mumbai,Pediatrics,Dr. Rohan Shah,Skin Infection,Planned,2025-09-24,2025-10-04,10,ICU,Corporate Insurance,133000,0,109000,24000,UPI,4.9,Referred,Sep,9,19-35
+P10101,Pooja More,53,Male,Pune,ENT,Dr. Karan Shah,Pregnancy,Emergency,2025-09-25,2025-09-30,5,General Ward,Self Pay,16600,1700,0,14900,UPI,3.9,Discharged,Sep,9,51-65
+P10715,Diya Patil,24,Male,Mumbai,ENT,Dr. Meenal Joshi,Ear Infection,Referral,2025-09-26,2025-10-14,18,ICU,Health Insurance,234000,0,164200,69800,Insurance,4.5,Discharged,Sep,9,19-35
+P10666,Vivaan Joshi,67,Male,Thane,Gynecology,Dr. Pooja Desai,Pneumonia,Emergency,2025-09-26,2025-10-01,5,Semi-Private,Self Pay,53200,2700,0,50500,Insurance,3.2,Discharged,Sep,9,66+
+P10041,Rahul More,1,Male,Pune,Pediatrics,Dr. Sneha Desai,Heart Disease,Planned,2025-09-26,2025-10-04,8,General Ward,Self Pay,29400,4400,0,25000,Insurance,5.0,Discharged,Sep,9,0-18
+P10492,Kabir Kulkarni,15,Female,Mumbai,Pediatrics,Dr. Rohan Shah,Pneumonia,Planned,2025-09-27,2025-09-29,2,General Ward,Self Pay,19400,0,0,19400,Insurance,3.7,Discharged,Sep,9,0-18
+P10526,Tanya Patil,20,Male,Navi Mumbai,Pediatrics,Dr. Sneha Desai,Viral Fever,Referral,2025-09-27,2025-10-01,4,General Ward,Health Insurance,24900,2500,19100,3300,Insurance,4.5,Under Treatment,Sep,9,19-35
+P10905,Aditya Jadhav,12,Female,Aurangabad,Gynecology,Dr. Ananya Rao,Asthma,Planned,2025-09-27,2025-10-01,4,Semi-Private,Corporate Insurance,49200,0,41000,8200,Cash,3.9,Discharged,Sep,9,0-18
+P10266,Ananya Nair,51,Male,Mumbai,Dermatology,Dr. Isha Patil,Pneumonia,Emergency,2025-09-28,2025-10-02,4,Private,Self Pay,40400,0,0,40400,Cash,3.0,Under Treatment,Sep,9,51-65
+P10391,Rohan Deshmukh,57,Female,Ahmednagar,General Medicine,Dr. Rahul Verma,Cancer,Planned,2025-09-28,2025-09-30,2,ICU,Health Insurance,48500,0,36600,11900,Insurance,2.0,Under Treatment,Sep,9,51-65
+P10305,Arjun Deshmukh,35,Female,Thane,Cardiology,Dr. Amit Shah,Back Pain,Planned,2025-09-28,2025-09-30,2,General Ward,Corporate Insurance,68900,10300,45300,13300,Cash,5.0,Discharged,Sep,9,19-35
+P10025,Karan Khan,9,Female,Ahmednagar,ENT,Dr. Meenal Joshi,Diabetes,Planned,2025-09-28,2025-09-29,1,ICU,Health Insurance,23000,0,16000,7000,Card,3.2,Under Treatment,Sep,9,0-18
+P10947,Kabir Nair,31,Male,Aurangabad,Dermatology,Dr. Isha Patil,Viral Fever,Emergency,2025-09-29,2025-10-05,6,Semi-Private,Health Insurance,37000,0,26700,10300,Cash,3.9,Discharged,Sep,9,19-35
+P10987,Diya Sharma,44,Male,Nagpur,Oncology,Dr. Nitin Mehta,Kidney Stone,Planned,2025-09-30,2025-10-01,1,ICU,Corporate Insurance,98500,9800,84200,4500,Insurance,4.5,Discharged,Sep,9,36-50
+P10692,Riya Patil,55,Male,Thane,General Medicine,Dr. Priya Nair,Cancer,Referral,2025-09-30,2025-10-03,3,Semi-Private,Corporate Insurance,14900,0,12500,2400,Cash,3.3,Discharged,Sep,9,51-65
+P10466,Priya Nair,31,Female,Pune,Gynecology,Dr. Ananya Rao,Pneumonia,Emergency,2025-09-30,2025-10-06,6,General Ward,Self Pay,44200,0,0,44200,Insurance,4.7,Under Treatment,Sep,9,19-35
+P10075,Tanya Jadhav,23,Female,Pune,Gynecology,Dr. Ananya Rao,Viral Fever,Planned,2025-09-30,2025-10-04,4,Semi-Private,Corporate Insurance,40200,0,28800,11400,Card,4.0,Discharged,Sep,9,19-35
+P10956,Sneha Kulkarni,51,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Heart Disease,Emergency,2025-09-30,2025-10-05,5,Private,Self Pay,47000,0,0,47000,UPI,4.2,Referred,Sep,9,51-65
+P10157,Aditya Jadhav,23,Female,Mumbai,Emergency,Dr. Sameer Khan,Fracture,Planned,2025-10-01,2025-10-02,1,General Ward,Government Scheme,39400,3900,23800,11700,UPI,2.9,Discharged,Oct,10,19-35
+P10916,Riya Gupta,50,Female,Thane,Orthopedics,Dr. Raj Mehta,Pneumonia,Planned,2025-10-02,2025-10-04,2,Private,Health Insurance,50400,0,39600,10800,UPI,3.6,Discharged,Oct,10,36-50
+P10633,Aisha Deshmukh,52,Male,Mumbai,Gynecology,Dr. Ananya Rao,Migraine,Planned,2025-10-02,2025-10-12,10,General Ward,Health Insurance,36600,1800,27000,7800,UPI,5.0,Discharged,Oct,10,51-65
+P10631,Aarav Patil,46,Female,Pune,General Medicine,Dr. Priya Nair,Heart Disease,Emergency,2025-10-03,2025-10-10,7,General Ward,Health Insurance,23900,0,19900,4000,UPI,3.3,Discharged,Oct,10,36-50
+P10419,Kabir Patil,49,Male,Thane,Orthopedics,Dr. Sameer Patil,Ear Infection,Emergency,2025-10-03,2025-10-19,16,Private,Health Insurance,134200,20100,87200,26900,Insurance,4.9,Discharged,Oct,10,36-50
+P10297,Ira Gupta,53,Female,Navi Mumbai,Emergency,Dr. Arjun Patil,Viral Fever,Planned,2025-10-03,2025-10-07,4,Semi-Private,Health Insurance,31300,0,21500,9800,Card,4.4,Discharged,Oct,10,51-65
+P10914,Neha Deshmukh,19,Other,Pune,Pediatrics,Dr. Sneha Desai,Heart Disease,Emergency,2025-10-03,2025-10-05,2,General Ward,Government Scheme,27700,0,19900,7800,Card,3.1,Discharged,Oct,10,19-35
+P10055,Rohan Khan,36,Female,Mumbai,ENT,Dr. Meenal Joshi,Pregnancy,Emergency,2025-10-04,2025-10-08,4,Private,Self Pay,33300,0,0,33300,UPI,3.2,Discharged,Oct,10,36-50
+P10909,Vivaan Chavan,35,Female,Nashik,Emergency,Dr. Sameer Khan,Pneumonia,Planned,2025-10-04,2025-10-14,10,Semi-Private,Corporate Insurance,59200,0,35400,23800,Insurance,3.1,Discharged,Oct,10,19-35
+P10620,Karan Joshi,33,Male,Thane,Pediatrics,Dr. Sneha Desai,Cancer,Planned,2025-10-05,2025-10-14,9,Semi-Private,Health Insurance,48600,2400,41700,4500,UPI,4.7,Referred,Oct,10,19-35
+P10856,Meera Jadhav,18,Other,Navi Mumbai,Pediatrics,Dr. Sneha Desai,Pneumonia,Referral,2025-10-05,2025-10-16,11,General Ward,Corporate Insurance,31000,3100,17500,10400,Insurance,3.4,Discharged,Oct,10,0-18
+P10153,Aditya More,30,Male,Mumbai,Oncology,Dr. Nitin Mehta,Migraine,Planned,2025-10-05,2025-10-11,6,Semi-Private,Self Pay,106000,10600,0,95400,Cash,4.6,Discharged,Oct,10,19-35
+P10702,Ananya Mehta,23,Male,Thane,Dermatology,Dr. Isha Patil,Skin Infection,Emergency,2025-10-05,2025-10-09,4,General Ward,Self Pay,25400,1300,0,24100,Insurance,4.3,Discharged,Oct,10,19-35
+P10910,Priya Mehta,48,Male,Kolhapur,Cardiology,Dr. Amit Shah,Asthma,Planned,2025-10-06,2025-10-15,9,General Ward,Self Pay,51100,0,0,51100,Insurance,3.5,Discharged,Oct,10,36-50
+P10653,Ishaan Joshi,39,Male,Pune,Pediatrics,Dr. Sneha Desai,Pneumonia,Planned,2025-10-06,2025-10-12,6,Semi-Private,Government Scheme,40000,0,27500,12500,Card,4.3,Under Treatment,Oct,10,36-50
+P10669,Sneha Mehta,40,Male,Kolhapur,Oncology,Dr. Nitin Mehta,Cancer,Emergency,2025-10-06,2025-10-09,3,Semi-Private,Self Pay,109500,5500,0,104000,Card,4.1,Discharged,Oct,10,36-50
+P10892,Aarav Kulkarni,6,Male,Thane,Oncology,Dr. Nitin Mehta,Asthma,Planned,2025-10-07,2025-10-12,5,General Ward,Government Scheme,88800,4400,72100,12300,Insurance,4.0,Discharged,Oct,10,0-18
+P10187,Aditya Verma,86,Male,Aurangabad,Neurology,Dr. Anil Joshi,Diabetes,Emergency,2025-10-07,2025-10-09,2,General Ward,Health Insurance,47500,0,40200,7300,Insurance,3.7,Discharged,Oct,10,66+
+P10632,Diya Kulkarni,47,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Cancer,Planned,2025-10-08,2025-10-11,3,General Ward,Government Scheme,19300,0,17800,1500,Cash,4.0,Referred,Oct,10,36-50
+P10235,Aditya Pawar,74,Male,Nagpur,Orthopedics,Dr. Raj Mehta,Heart Disease,Emergency,2025-10-08,2025-10-11,3,Semi-Private,Self Pay,33300,0,0,33300,UPI,4.5,Discharged,Oct,10,66+
+P10779,Meera Sharma,26,Male,Satara,Oncology,Dr. Nitin Mehta,Pregnancy,Emergency,2025-10-08,2025-10-16,8,Semi-Private,Health Insurance,126000,12600,88300,25100,Insurance,3.8,Discharged,Oct,10,19-35
+P11000,Ananya Joshi,58,Male,Pune,Cardiology,Dr. Neeraj Kulkarni,Ear Infection,Emergency,2025-10-09,2025-10-13,4,General Ward,Corporate Insurance,62900,3100,37700,22100,Card,4.1,Discharged,Oct,10,51-65
+P10774,Aditya Deshmukh,30,Female,Mumbai,Neurology,Dr. Kavita Rao,Pregnancy,Planned,2025-10-09,2025-10-10,1,General Ward,Self Pay,43200,6500,0,36700,Cash,5.0,Under Treatment,Oct,10,19-35
+P10676,Riya Mehta,20,Female,Nashik,Cardiology,Dr. Neeraj Kulkarni,Viral Fever,Planned,2025-10-09,2025-10-17,8,General Ward,Health Insurance,67500,3400,54200,9900,UPI,5.0,Discharged,Oct,10,19-35
+P10663,Aditya Joshi,29,Male,Kolhapur,Gynecology,Dr. Ananya Rao,Heart Disease,Planned,2025-10-09,2025-10-12,3,Semi-Private,Self Pay,41800,0,0,41800,Card,3.5,Discharged,Oct,10,19-35
+P10340,Meera Pawar,25,Female,Thane,ENT,Dr. Meenal Joshi,Viral Fever,Planned,2025-10-10,2025-10-17,7,Private,Health Insurance,48600,0,44400,4200,Card,4.4,Discharged,Oct,10,19-35
+P10789,Pooja Jadhav,14,Male,Mumbai,Emergency,Dr. Sameer Khan,Fracture,Planned,2025-10-10,2025-10-17,7,General Ward,Government Scheme,40000,0,28400,11600,Cash,4.3,Discharged,Oct,10,0-18
+P10960,Aarav Sharma,42,Male,Mumbai,ENT,Dr. Meenal Joshi,Asthma,Emergency,2025-10-10,2025-10-12,2,Private,Health Insurance,28600,0,19300,9300,Insurance,3.8,Discharged,Oct,10,36-50
+P10984,Aditya Chavan,55,Female,Thane,Emergency,Dr. Arjun Patil,Cancer,Planned,2025-10-12,2025-10-13,1,General Ward,Health Insurance,33500,0,30700,2800,UPI,3.3,Discharged,Oct,10,51-65
+P10462,Vivaan Jadhav,71,Male,Pune,Dermatology,Dr. Isha Patil,Pneumonia,Planned,2025-10-12,2025-10-15,3,General Ward,Health Insurance,8500,800,6200,1500,Insurance,2.9,Discharged,Oct,10,66+
+P10308,Ananya Khan,29,Female,Mumbai,Neurology,Dr. Kavita Rao,Heart Disease,Planned,2025-10-12,2025-10-15,3,Private,Health Insurance,64200,3200,44900,16100,UPI,3.6,Discharged,Oct,10,19-35
+P10594,Priya Nair,52,Male,Mumbai,Emergency,Dr. Sameer Khan,Back Pain,Planned,2025-10-13,2025-10-17,4,Private,Self Pay,51200,5100,0,46100,Insurance,5.0,Discharged,Oct,10,51-65
+P10675,Riya Jadhav,66,Male,Mumbai,ENT,Dr. Meenal Joshi,Kidney Stone,Planned,2025-10-13,2025-10-16,3,Semi-Private,Government Scheme,25900,2600,18700,4600,Insurance,3.6,Discharged,Oct,10,66+
+P10563,Tanya Chavan,55,Male,Pune,General Medicine,Dr. Priya Nair,Cancer,Emergency,2025-10-13,2025-10-19,6,Semi-Private,Corporate Insurance,44800,0,38400,6400,Card,4.5,Discharged,Oct,10,51-65
+P10430,Diya Nair,64,Male,Mumbai,Orthopedics,Dr. Raj Mehta,Kidney Stone,Planned,2025-10-13,2025-10-18,5,Private,Government Scheme,71600,0,67800,3800,Insurance,4.0,Under Treatment,Oct,10,51-65
+P10996,Aisha Joshi,16,Male,Nashik,ENT,Dr. Karan Shah,Heart Disease,Emergency,2025-10-15,2025-10-16,1,General Ward,Self Pay,18900,0,0,18900,Card,4.0,Discharged,Oct,10,0-18
+P10422,Pooja Deshmukh,40,Female,Pune,Oncology,Dr. Vikram Singh,Diabetes,Emergency,2025-10-15,2025-10-18,3,General Ward,Health Insurance,91900,0,69900,22000,Insurance,3.5,Discharged,Oct,10,36-50
+P10957,Tanya Patil,27,Male,Thane,Neurology,Dr. Anil Joshi,Pneumonia,Emergency,2025-10-15,2025-10-16,1,Private,Health Insurance,53900,8100,25900,19900,Insurance,5.0,Referred,Oct,10,19-35
+P10649,Pooja Sharma,78,Female,Mumbai,ENT,Dr. Karan Shah,Cancer,Emergency,2025-10-16,2025-10-17,1,ICU,Self Pay,11700,0,0,11700,Insurance,4.4,Referred,Oct,10,66+
+P10907,Neha Singh,47,Male,Mumbai,Dermatology,Dr. Neha Mehta,Kidney Stone,Planned,2025-10-16,2025-10-21,5,General Ward,Self Pay,19300,1000,0,18300,Insurance,3.8,Under Treatment,Oct,10,36-50
+P10553,Neha Patil,20,Female,Pune,Emergency,Dr. Arjun Patil,Pneumonia,Emergency,2025-10-16,2025-10-20,4,Semi-Private,Health Insurance,46500,0,41100,5400,Cash,2.5,Discharged,Oct,10,19-35
+P10922,Ira Sharma,27,Male,Pune,Oncology,Dr. Vikram Singh,Pregnancy,Planned,2025-10-16,2025-10-21,5,Semi-Private,Government Scheme,99700,0,54800,44900,Card,5.0,Discharged,Oct,10,19-35
+P10152,Rahul Mehta,57,Male,Ahmednagar,Cardiology,Dr. Amit Shah,Diabetes,Emergency,2025-10-16,2025-10-29,13,General Ward,Government Scheme,66600,0,40300,26300,Insurance,3.7,Discharged,Oct,10,51-65
+P10065,Aditya Deshmukh,30,Male,Navi Mumbai,Gynecology,Dr. Ananya Rao,Cancer,Emergency,2025-10-18,2025-10-24,6,Semi-Private,Health Insurance,51100,5100,37900,8100,Cash,4.2,Discharged,Oct,10,19-35
+P10852,Riya Khan,66,Male,Mumbai,Pediatrics,Dr. Sneha Desai,Asthma,Planned,2025-10-18,2025-10-20,2,General Ward,Self Pay,22300,1100,0,21200,Cash,3.3,Discharged,Oct,10,66+
+P10720,Pooja Nair,58,Male,Mumbai,General Medicine,Dr. Rahul Verma,Fracture,Emergency,2025-10-18,2025-10-22,4,General Ward,Health Insurance,26300,0,23900,2400,UPI,4.6,Discharged,Oct,10,51-65
+P10951,Rahul Nair,50,Male,Pune,ENT,Dr. Meenal Joshi,Hypertension,Planned,2025-10-18,2025-10-24,6,General Ward,Health Insurance,17100,0,14000,3100,Card,4.3,Under Treatment,Oct,10,36-50
+P10232,Aarav Jadhav,55,Female,Mumbai,Cardiology,Dr. Amit Shah,Hypertension,Emergency,2025-10-18,2025-10-30,12,Private,Health Insurance,132300,6600,74200,51500,UPI,4.1,Discharged,Oct,10,51-65
+P10885,Neha More,21,Female,Mumbai,Oncology,Dr. Nitin Mehta,Asthma,Planned,2025-10-19,2025-10-29,10,ICU,Health Insurance,202400,10100,150900,41400,Insurance,4.9,Discharged,Oct,10,19-35
+P10450,Neha Gupta,20,Male,Pune,Cardiology,Dr. Neeraj Kulkarni,Heart Disease,Planned,2025-10-19,2025-10-20,1,General Ward,Self Pay,53200,5300,0,47900,Insurance,3.7,Under Treatment,Oct,10,19-35
+P10310,Rohan Joshi,27,Male,Mumbai,General Medicine,Dr. Priya Nair,Hypertension,Emergency,2025-10-19,2025-10-25,6,Semi-Private,Corporate Insurance,28900,0,18000,10900,Cash,3.6,Discharged,Oct,10,19-35
+P10746,Pooja Jadhav,20,Female,Pune,ENT,Dr. Meenal Joshi,Back Pain,Emergency,2025-10-20,2025-10-24,4,Private,Health Insurance,35500,3600,24400,7500,UPI,3.0,Discharged,Oct,10,19-35
+P10159,Aarav Mehta,79,Male,Navi Mumbai,ENT,Dr. Karan Shah,Kidney Stone,Referral,2025-10-20,2025-10-21,1,General Ward,Self Pay,14200,700,0,13500,Insurance,3.4,Discharged,Oct,10,66+
+P10543,Rohan Deshmukh,7,Female,Navi Mumbai,Pediatrics,Dr. Sneha Desai,Kidney Stone,Emergency,2025-10-20,2025-10-21,1,ICU,Health Insurance,40100,6000,30100,4000,Card,3.8,Discharged,Oct,10,0-18
+P10365,Arjun Nair,47,Male,Mumbai,Neurology,Dr. Anil Joshi,Hypertension,Emergency,2025-10-20,2025-10-23,3,General Ward,Health Insurance,38700,1900,29100,7700,Insurance,4.6,Discharged,Oct,10,36-50
+P10784,Vivaan More,1,Male,Kolhapur,Pediatrics,Dr. Sneha Desai,Migraine,Referral,2025-10-21,2025-10-27,6,General Ward,Self Pay,27300,4100,0,23200,UPI,4.3,Discharged,Oct,10,0-18
+P10068,Rohan Khan,51,Female,Thane,Orthopedics,Dr. Raj Mehta,Skin Infection,Planned,2025-10-23,2025-10-27,4,General Ward,Corporate Insurance,52200,0,34700,17500,Insurance,4.0,Discharged,Oct,10,51-65
+P10129,Ishaan Mehta,33,Female,Mumbai,Orthopedics,Dr. Sameer Patil,Back Pain,Planned,2025-10-24,2025-10-30,6,General Ward,Corporate Insurance,52900,0,48300,4600,Card,3.9,Discharged,Oct,10,19-35
+P10958,Ananya Verma,46,Male,Navi Mumbai,General Medicine,Dr. Rahul Verma,Asthma,Planned,2025-10-24,2025-11-01,8,General Ward,Corporate Insurance,27300,0,20000,7300,UPI,4.1,Discharged,Oct,10,36-50
+P10098,Ira Verma,37,Male,Pune,ENT,Dr. Karan Shah,Viral Fever,Emergency,2025-10-24,2025-10-27,3,General Ward,Self Pay,12300,600,0,11700,Insurance,1.8,Discharged,Oct,10,36-50
+P10016,Sneha Chavan,46,Male,Mumbai,General Medicine,Dr. Priya Nair,Heart Disease,Planned,2025-10-24,2025-10-29,5,Private,Health Insurance,40500,0,33200,7300,Card,4.9,Discharged,Oct,10,36-50
+P10484,Pooja Pawar,56,Male,Navi Mumbai,General Medicine,Dr. Rahul Verma,Back Pain,Emergency,2025-10-24,2025-10-27,3,Semi-Private,Self Pay,39300,0,0,39300,Insurance,2.4,Discharged,Oct,10,51-65
+P10576,Kabir Jadhav,82,Male,Satara,ENT,Dr. Meenal Joshi,Skin Infection,Planned,2025-10-24,2025-10-28,4,General Ward,Health Insurance,26100,3900,12200,10000,Cash,4.0,Discharged,Oct,10,66+
+P10403,Aditya Nair,32,Female,Satara,Neurology,Dr. Kavita Rao,Back Pain,Planned,2025-10-24,2025-10-25,1,General Ward,Corporate Insurance,61100,0,42900,18200,Cash,2.8,Discharged,Oct,10,19-35
+P10744,Ira Joshi,47,Male,Pune,Oncology,Dr. Vikram Singh,Cancer,Referral,2025-10-24,2025-11-01,8,Semi-Private,Government Scheme,98700,4900,62300,31500,UPI,2.6,Discharged,Oct,10,36-50
+P10005,Riya Singh,61,Female,Ahmednagar,Neurology,Dr. Kavita Rao,Asthma,Planned,2025-10-25,2025-10-29,4,Semi-Private,Health Insurance,54400,2700,32300,19400,Card,4.7,Discharged,Oct,10,51-65
+P10609,Karan Kulkarni,49,Female,Nashik,Orthopedics,Dr. Raj Mehta,Asthma,Planned,2025-10-25,2025-11-02,8,General Ward,Self Pay,39700,0,0,39700,UPI,4.9,Discharged,Oct,10,36-50
+P10760,Sneha Singh,44,Male,Mumbai,Emergency,Dr. Arjun Patil,Heart Disease,Planned,2025-10-26,2025-10-28,2,General Ward,Government Scheme,27300,1400,15300,10600,Insurance,3.1,Under Treatment,Oct,10,36-50
+P10605,Ananya Patil,68,Male,Thane,Oncology,Dr. Nitin Mehta,Hypertension,Emergency,2025-10-26,2025-11-01,6,Semi-Private,Government Scheme,112100,0,97600,14500,Card,4.5,Discharged,Oct,10,66+
+P10399,Aarav Patil,7,Female,Nagpur,Pediatrics,Dr. Sneha Desai,Back Pain,Emergency,2025-10-26,2025-11-01,6,ICU,Health Insurance,101600,0,58900,42700,Insurance,4.3,Discharged,Oct,10,0-18
+P10588,Rohan Mehta,32,Female,Thane,Cardiology,Dr. Neeraj Kulkarni,Back Pain,Emergency,2025-10-27,2025-11-07,11,General Ward,Health Insurance,71400,7100,58200,6100,Insurance,2.8,Discharged,Oct,10,19-35
+P10571,Aarav More,40,Male,Pune,General Medicine,Dr. Priya Nair,Asthma,Planned,2025-10-27,2025-11-01,5,General Ward,Health Insurance,20700,2100,10800,7800,Insurance,5.0,Under Treatment,Oct,10,36-50
+P10458,Tanya Chavan,1,Male,Pune,Orthopedics,Dr. Sameer Patil,Back Pain,Referral,2025-10-27,2025-11-04,8,Semi-Private,Government Scheme,54600,0,30800,23800,Insurance,4.7,Under Treatment,Oct,10,0-18
+P10167,Kabir Kulkarni,51,Male,Pune,ENT,Dr. Karan Shah,Kidney Stone,Emergency,2025-10-27,2025-10-30,3,Semi-Private,Health Insurance,20300,0,14300,6000,Insurance,4.2,Discharged,Oct,10,51-65
+P10545,Priya Khan,47,Female,Kolhapur,Emergency,Dr. Arjun Patil,Fracture,Planned,2025-10-27,2025-11-09,13,General Ward,Corporate Insurance,44300,6600,24800,12900,Insurance,3.0,Discharged,Oct,10,36-50
+P10503,Pooja More,17,Female,Kolhapur,Orthopedics,Dr. Sameer Patil,Ear Infection,Planned,2025-10-28,2025-11-01,4,Semi-Private,Corporate Insurance,42100,2100,34600,5400,Insurance,4.0,Discharged,Oct,10,0-18
+P10381,Diya Deshmukh,17,Female,Pune,ENT,Dr. Karan Shah,Back Pain,Planned,2025-10-28,2025-10-29,1,Private,Corporate Insurance,25800,2600,15600,7600,Card,4.6,Discharged,Oct,10,0-18
+P10185,Aisha Gupta,47,Male,Nagpur,ENT,Dr. Meenal Joshi,Migraine,Planned,2025-10-28,2025-11-01,4,Semi-Private,Health Insurance,46500,0,29400,17100,Card,2.6,Discharged,Oct,10,36-50
+P10972,Aditya Nair,42,Male,Nashik,ENT,Dr. Meenal Joshi,Diabetes,Planned,2025-10-28,2025-10-31,3,Semi-Private,Health Insurance,21800,2200,11800,7800,UPI,5.0,Discharged,Oct,10,36-50
+P10803,Karan Chavan,24,Female,Mumbai,Cardiology,Dr. Amit Shah,Heart Disease,Emergency,2025-10-29,2025-11-06,8,General Ward,Health Insurance,66300,6600,39800,19900,Insurance,3.7,Referred,Oct,10,19-35
+P10979,Tanya More,59,Female,Pune,Cardiology,Dr. Neeraj Kulkarni,Kidney Stone,Emergency,2025-10-29,2025-10-30,1,Semi-Private,Health Insurance,54900,5500,29100,20300,Card,4.8,Discharged,Oct,10,51-65
+P10300,Tanya Joshi,50,Female,Nashik,Cardiology,Dr. Amit Shah,Skin Infection,Planned,2025-10-29,2025-11-01,3,Private,Self Pay,66400,0,0,66400,UPI,5.0,Discharged,Oct,10,36-50
+P10342,Aarav Kulkarni,33,Female,Pune,Gynecology,Dr. Ananya Rao,Ear Infection,Planned,2025-10-29,2025-10-31,2,General Ward,Health Insurance,48900,2400,39900,6600,Insurance,4.3,Under Treatment,Oct,10,19-35
+P10070,Karan Chavan,64,Male,Mumbai,Gynecology,Dr. Pooja Desai,Cancer,Planned,2025-10-29,2025-10-30,1,Private,Government Scheme,50900,0,30500,20400,UPI,4.4,Discharged,Oct,10,51-65
+P10878,Pooja Verma,1,Male,Mumbai,ENT,Dr. Meenal Joshi,Cancer,Emergency,2025-10-30,2025-11-03,4,General Ward,Government Scheme,25200,0,20100,5100,UPI,3.2,Under Treatment,Oct,10,0-18
+P10780,Aarav Jadhav,38,Male,Mumbai,Oncology,Dr. Vikram Singh,Back Pain,Planned,2025-10-31,2025-11-05,5,Private,Health Insurance,111600,0,100600,11000,Card,4.9,Discharged,Oct,10,36-50
+P10330,Ira Kulkarni,26,Male,Aurangabad,Neurology,Dr. Kavita Rao,Viral Fever,Planned,2025-11-01,2025-11-04,3,Semi-Private,Health Insurance,37900,1900,27200,8800,Insurance,4.2,Discharged,Nov,11,19-35
+P10893,Aisha Sharma,39,Female,Mumbai,Dermatology,Dr. Isha Patil,Migraine,Planned,2025-11-01,2025-11-03,2,Semi-Private,Health Insurance,33300,0,28800,4500,Insurance,4.8,Referred,Nov,11,36-50
+P10608,Priya Verma,46,Female,Thane,Oncology,Dr. Vikram Singh,Pregnancy,Emergency,2025-11-01,2025-11-02,1,General Ward,Health Insurance,87800,0,70200,17600,UPI,2.3,Discharged,Nov,11,36-50
+P10440,Riya Joshi,42,Female,Nashik,Neurology,Dr. Kavita Rao,Pneumonia,Planned,2025-11-03,2025-11-12,9,Semi-Private,Government Scheme,66500,0,61000,5500,UPI,4.6,Discharged,Nov,11,36-50
+P10847,Rohan Pawar,23,Male,Kolhapur,ENT,Dr. Meenal Joshi,Cancer,Emergency,2025-11-03,2025-11-08,5,General Ward,Health Insurance,30700,1500,24800,4400,UPI,2.8,Discharged,Nov,11,19-35
+P10085,Kabir Pawar,61,Male,Thane,Pediatrics,Dr. Rohan Shah,Heart Disease,Emergency,2025-11-04,2025-11-05,1,General Ward,Government Scheme,29200,0,26900,2300,Insurance,4.2,Discharged,Nov,11,51-65
+P10861,Meera Nair,41,Male,Mumbai,Gynecology,Dr. Ananya Rao,Heart Disease,Planned,2025-11-05,2025-11-12,7,General Ward,Corporate Insurance,45600,2300,28000,15300,Card,3.4,Discharged,Nov,11,36-50
+P10172,Neha Patil,50,Male,Mumbai,ENT,Dr. Karan Shah,Skin Infection,Planned,2025-11-06,2025-11-12,6,Semi-Private,Government Scheme,26900,1300,18000,7600,UPI,4.5,Discharged,Nov,11,36-50
+P10463,Priya Nair,76,Male,Mumbai,Oncology,Dr. Vikram Singh,Fracture,Emergency,2025-11-06,2025-11-08,2,General Ward,Health Insurance,86700,8700,71700,6300,Card,3.4,Discharged,Nov,11,66+
+P10064,Aditya Patil,51,Male,Pune,Oncology,Dr. Nitin Mehta,Kidney Stone,Emergency,2025-11-06,2025-11-08,2,Private,Self Pay,84100,0,0,84100,Card,3.4,Discharged,Nov,11,51-65
+P10431,Sneha Nair,4,Female,Pune,ENT,Dr. Meenal Joshi,Hypertension,Planned,2025-11-06,2025-11-08,2,Private,Government Scheme,22400,0,20900,1500,Cash,5.0,Discharged,Nov,11,0-18
+P10899,Kabir Chavan,81,Male,Pune,Pediatrics,Dr. Rohan Shah,Hypertension,Referral,2025-11-07,2025-11-15,8,Semi-Private,Corporate Insurance,42800,0,35200,7600,Insurance,3.7,Discharged,Nov,11,66+
+P10276,Karan Singh,68,Male,Navi Mumbai,Oncology,Dr. Vikram Singh,Pneumonia,Emergency,2025-11-07,2025-11-10,3,General Ward,Health Insurance,90700,4500,52300,33900,Insurance,4.4,Discharged,Nov,11,66+
+P10573,Vivaan Khan,17,Male,Thane,Gynecology,Dr. Pooja Desai,Heart Disease,Planned,2025-11-07,2025-11-11,4,Private,Self Pay,50200,0,0,50200,Cash,3.8,Discharged,Nov,11,0-18
+P10378,Aarav Kulkarni,60,Female,Mumbai,Gynecology,Dr. Ananya Rao,Pregnancy,Planned,2025-11-07,2025-11-15,8,Semi-Private,Self Pay,47600,2400,0,45200,Insurance,4.6,Under Treatment,Nov,11,51-65
+P10591,Kabir Kulkarni,13,Female,Mumbai,Pediatrics,Dr. Sneha Desai,Pregnancy,Emergency,2025-11-08,2025-11-12,4,General Ward,Government Scheme,40200,0,35700,4500,Cash,4.3,Discharged,Nov,11,0-18
+P10628,Riya Kulkarni,19,Male,Mumbai,Orthopedics,Dr. Raj Mehta,Viral Fever,Emergency,2025-11-09,2025-11-10,1,General Ward,Health Insurance,53400,8000,30800,14600,UPI,4.0,Under Treatment,Nov,11,19-35
+P10851,Rahul Jadhav,14,Female,Nashik,Orthopedics,Dr. Sameer Patil,Pneumonia,Planned,2025-11-09,2025-11-10,1,Private,Corporate Insurance,33600,1700,21200,10700,Cash,4.5,Under Treatment,Nov,11,0-18
+P10099,Neha Nair,49,Male,Navi Mumbai,ENT,Dr. Meenal Joshi,Kidney Stone,Emergency,2025-11-09,2025-11-19,10,General Ward,Government Scheme,28800,2900,19100,6800,Cash,3.5,Discharged,Nov,11,36-50
+P10601,Ira Mehta,23,Female,Aurangabad,Emergency,Dr. Arjun Patil,Kidney Stone,Planned,2025-11-09,2025-11-11,2,Private,Self Pay,28000,1400,0,26600,Insurance,5.0,Discharged,Nov,11,19-35
+P10538,Aarav Verma,73,Female,Nagpur,Orthopedics,Dr. Raj Mehta,Skin Infection,Planned,2025-11-09,2025-11-11,2,Semi-Private,Government Scheme,45500,0,26100,19400,Insurance,4.5,Discharged,Nov,11,66+
+P10191,Ananya Sharma,35,Male,Nashik,Neurology,Dr. Anil Joshi,Cancer,Planned,2025-11-10,2025-11-11,1,General Ward,Health Insurance,46900,0,32800,14100,UPI,2.5,Discharged,Nov,11,19-35
+P10753,Rohan Kulkarni,37,Female,Aurangabad,Dermatology,Dr. Isha Patil,Cancer,Planned,2025-11-10,2025-11-13,3,Semi-Private,Self Pay,21700,0,0,21700,Cash,3.6,Discharged,Nov,11,36-50
+P10022,Karan Singh,28,Female,Mumbai,Dermatology,Dr. Isha Patil,Ear Infection,Planned,2025-11-10,2025-11-11,1,Semi-Private,Government Scheme,16700,800,12500,3400,Insurance,2.9,Referred,Nov,11,19-35
+P10359,Kabir Pawar,18,Female,Ahmednagar,Oncology,Dr. Nitin Mehta,Hypertension,Referral,2025-11-10,2025-11-12,2,General Ward,Self Pay,86200,8600,0,77600,Cash,5.0,Discharged,Nov,11,0-18
+P10435,Sneha Verma,49,Male,Mumbai,Oncology,Dr. Vikram Singh,Migraine,Planned,2025-11-10,2025-11-13,3,Private,Government Scheme,103000,0,71000,32000,Card,2.9,Discharged,Nov,11,36-50
+P10355,Aarav Deshmukh,48,Female,Nagpur,Neurology,Dr. Kavita Rao,Kidney Stone,Emergency,2025-11-10,2025-11-19,9,Private,Government Scheme,101700,0,86900,14800,UPI,4.1,Discharged,Nov,11,36-50
+P10406,Ira Deshmukh,39,Male,Aurangabad,ENT,Dr. Karan Shah,Asthma,Planned,2025-11-11,2025-11-13,2,Semi-Private,Government Scheme,16000,800,9600,5600,UPI,5.0,Under Treatment,Nov,11,36-50
+P10983,Kabir Khan,36,Female,Nashik,Cardiology,Dr. Neeraj Kulkarni,Kidney Stone,Emergency,2025-11-11,2025-11-12,1,ICU,Health Insurance,54800,2700,42200,9900,Cash,4.3,Discharged,Nov,11,36-50
+P10180,Karan Deshmukh,28,Female,Pune,Dermatology,Dr. Neha Mehta,Pneumonia,Planned,2025-11-11,2025-11-15,4,General Ward,Health Insurance,25200,1300,15100,8800,Card,4.2,Discharged,Nov,11,19-35
+P10757,Ira Chavan,72,Female,Pune,Pediatrics,Dr. Rohan Shah,Hypertension,Planned,2025-11-12,2025-11-17,5,ICU,Health Insurance,87300,4400,72400,10500,Insurance,3.1,Discharged,Nov,11,66+
+P10965,Ishaan Sharma,44,Female,Pune,Oncology,Dr. Nitin Mehta,Viral Fever,Emergency,2025-11-13,2025-11-18,5,Private,Corporate Insurance,118800,5900,74100,38800,Card,3.5,Discharged,Nov,11,36-50
+P10837,Karan Joshi,6,Female,Kolhapur,Cardiology,Dr. Neeraj Kulkarni,Ear Infection,Referral,2025-11-13,2025-11-21,8,General Ward,Corporate Insurance,67200,0,39900,27300,Insurance,3.2,Discharged,Nov,11,0-18
+P10284,Aditya Mehta,53,Female,Satara,Oncology,Dr. Vikram Singh,Pregnancy,Planned,2025-11-14,2025-11-22,8,General Ward,Self Pay,101200,5100,0,96100,Insurance,4.1,Discharged,Nov,11,51-65
+P10015,Ananya Pawar,58,Male,Nagpur,ENT,Dr. Karan Shah,Diabetes,Emergency,2025-11-14,2025-11-17,3,Private,Corporate Insurance,31800,0,28000,3800,UPI,4.2,Discharged,Nov,11,51-65
+P10886,Rohan Jadhav,25,Female,Navi Mumbai,Emergency,Dr. Arjun Patil,Cancer,Planned,2025-11-15,2025-11-18,3,Semi-Private,Health Insurance,51100,0,46800,4300,Insurance,4.3,Discharged,Nov,11,19-35
+P10292,Tanya Gupta,29,Male,Nagpur,Neurology,Dr. Anil Joshi,Fracture,Planned,2025-11-16,2025-11-17,1,Semi-Private,Government Scheme,52700,0,34100,18600,UPI,4.0,Discharged,Nov,11,19-35
+P10530,Kabir Singh,44,Male,Nashik,Orthopedics,Dr. Sameer Patil,Viral Fever,Planned,2025-11-16,2025-11-24,8,Private,Government Scheme,93900,4700,50900,38300,Card,2.5,Discharged,Nov,11,36-50
+P10161,Sneha Mehta,45,Female,Pune,Cardiology,Dr. Neeraj Kulkarni,Ear Infection,Planned,2025-11-16,2025-11-19,3,Semi-Private,Health Insurance,54100,2700,35100,16300,Insurance,2.5,Discharged,Nov,11,36-50
+P10781,Ananya Pawar,24,Female,Thane,Dermatology,Dr. Neha Mehta,Cancer,Emergency,2025-11-17,2025-11-20,3,General Ward,Health Insurance,20100,2000,11400,6700,UPI,3.3,Referred,Nov,11,19-35
+P10788,Tanya Jadhav,29,Female,Ahmednagar,Gynecology,Dr. Ananya Rao,Ear Infection,Emergency,2025-11-17,2025-11-23,6,General Ward,Corporate Insurance,40300,0,37400,2900,UPI,3.1,Discharged,Nov,11,19-35
+P10042,Rahul Deshmukh,47,Female,Thane,Emergency,Dr. Arjun Patil,Pneumonia,Planned,2025-11-18,2025-11-20,2,General Ward,Government Scheme,30600,0,25400,5200,UPI,4.8,Discharged,Nov,11,36-50
+P10770,Ananya Singh,29,Female,Nashik,Pediatrics,Dr. Sneha Desai,Asthma,Emergency,2025-11-18,2025-11-23,5,General Ward,Health Insurance,22500,0,19600,2900,UPI,3.7,Discharged,Nov,11,19-35
+P10279,Diya Jadhav,37,Female,Thane,Dermatology,Dr. Neha Mehta,Hypertension,Emergency,2025-11-18,2025-11-20,2,ICU,Government Scheme,38700,0,24800,13900,Cash,4.4,Under Treatment,Nov,11,36-50
+P10343,Kabir Khan,25,Female,Mumbai,Orthopedics,Dr. Sameer Patil,Ear Infection,Emergency,2025-11-18,2025-11-19,1,General Ward,Self Pay,41800,0,0,41800,Cash,3.2,Discharged,Nov,11,19-35
+P10090,Aarav Patil,51,Male,Satara,Dermatology,Dr. Isha Patil,Kidney Stone,Emergency,2025-11-19,2025-11-21,2,General Ward,Health Insurance,21900,1100,16300,4500,Insurance,3.9,Discharged,Nov,11,51-65
+P10844,Rahul Nair,72,Female,Nagpur,Orthopedics,Dr. Raj Mehta,Cancer,Emergency,2025-11-19,2025-11-22,3,General Ward,Health Insurance,47900,0,37200,10700,UPI,4.5,Discharged,Nov,11,66+
+P10782,Vivaan Singh,47,Male,Kolhapur,Dermatology,Dr. Neha Mehta,Pneumonia,Emergency,2025-11-19,2025-11-20,1,Semi-Private,Government Scheme,12800,0,7900,4900,Insurance,3.3,Under Treatment,Nov,11,36-50
+P10598,Aarav Chavan,27,Male,Kolhapur,ENT,Dr. Meenal Joshi,Ear Infection,Planned,2025-11-19,2025-11-23,4,Semi-Private,Health Insurance,16800,0,10200,6600,Insurance,4.2,Discharged,Nov,11,19-35
+P10727,Arjun Chavan,57,Female,Mumbai,Dermatology,Dr. Neha Mehta,Viral Fever,Emergency,2025-11-19,2025-11-23,4,Private,Self Pay,37900,0,0,37900,Insurance,4.7,Discharged,Nov,11,51-65
+P10732,Vivaan Gupta,43,Female,Nagpur,Pediatrics,Dr. Sneha Desai,Asthma,Emergency,2025-11-19,2025-11-23,4,General Ward,Health Insurance,25900,0,19800,6100,Cash,3.3,Discharged,Nov,11,36-50
+P10069,Priya Singh,39,Female,Pune,Cardiology,Dr. Amit Shah,Ear Infection,Emergency,2025-11-20,2025-11-22,2,General Ward,Health Insurance,52100,0,40600,11500,Card,2.7,Discharged,Nov,11,36-50
+P10060,Vivaan Patil,28,Male,Ahmednagar,Emergency,Dr. Arjun Patil,Kidney Stone,Referral,2025-11-20,2025-11-27,7,Semi-Private,Corporate Insurance,43700,6600,31500,5600,Insurance,4.9,Referred,Nov,11,19-35
+P10051,Diya Joshi,66,Female,Pune,Cardiology,Dr. Amit Shah,Back Pain,Planned,2025-11-21,2025-11-27,6,General Ward,Government Scheme,62900,0,49200,13700,Insurance,2.7,Referred,Nov,11,66+
+P10181,Pooja More,58,Female,Mumbai,Emergency,Dr. Arjun Patil,Ear Infection,Emergency,2025-11-21,2025-11-29,8,Semi-Private,Corporate Insurance,53100,5300,29400,18400,Cash,3.6,Discharged,Nov,11,51-65
+P10438,Aditya Joshi,52,Female,Nashik,Oncology,Dr. Nitin Mehta,Pregnancy,Planned,2025-11-21,2025-11-22,1,General Ward,Corporate Insurance,92300,0,57700,34600,Insurance,4.2,Discharged,Nov,11,51-65
+P10887,Arjun Mehta,17,Female,Navi Mumbai,Cardiology,Dr. Amit Shah,Hypertension,Planned,2025-11-21,2025-11-24,3,Private,Corporate Insurance,74100,7400,45200,21500,Cash,4.1,Discharged,Nov,11,0-18
+P10400,Rahul Sharma,3,Female,Nashik,Pediatrics,Dr. Sneha Desai,Asthma,Planned,2025-11-21,2025-11-29,8,General Ward,Self Pay,34400,0,0,34400,Card,3.6,Discharged,Nov,11,0-18
+P10027,Neha Pawar,39,Male,Ahmednagar,Dermatology,Dr. Isha Patil,Heart Disease,Planned,2025-11-22,2025-11-28,6,Private,Corporate Insurance,58100,0,44100,14000,Insurance,3.4,Referred,Nov,11,36-50
+P10724,Neha Verma,60,Female,Satara,Gynecology,Dr. Ananya Rao,Skin Infection,Emergency,2025-11-22,2025-11-23,1,General Ward,Health Insurance,29700,0,17000,12700,Cash,4.3,Discharged,Nov,11,51-65
+P10254,Rohan Jadhav,37,Female,Pune,General Medicine,Dr. Rahul Verma,Asthma,Emergency,2025-11-22,2025-11-24,2,Private,Self Pay,33500,0,0,33500,Card,4.4,Discharged,Nov,11,36-50
+P10356,Aditya Singh,58,Female,Pune,Dermatology,Dr. Neha Mehta,Diabetes,Emergency,2025-11-22,2025-11-24,2,Semi-Private,Health Insurance,22000,0,20400,1600,Insurance,4.2,Discharged,Nov,11,51-65
+P10136,Ishaan Pawar,57,Male,Nagpur,ENT,Dr. Meenal Joshi,Viral Fever,Planned,2025-11-22,2025-11-26,4,Private,Corporate Insurance,39500,4000,21300,14200,Insurance,4.8,Discharged,Nov,11,51-65
+P10930,Tanya Singh,72,Male,Navi Mumbai,Cardiology,Dr. Neeraj Kulkarni,Pregnancy,Planned,2025-11-22,2025-11-25,3,General Ward,Government Scheme,32300,0,27700,4600,UPI,5.0,Discharged,Nov,11,66+
+P10315,Ira Patil,21,Male,Navi Mumbai,Oncology,Dr. Nitin Mehta,Cancer,Planned,2025-11-23,2025-11-25,2,General Ward,Corporate Insurance,87300,0,62700,24600,UPI,5.0,Discharged,Nov,11,19-35
+P10115,Arjun Singh,24,Male,Mumbai,Orthopedics,Dr. Raj Mehta,Back Pain,Planned,2025-11-23,2025-11-25,2,General Ward,Health Insurance,48000,0,36100,11900,Insurance,3.8,Under Treatment,Nov,11,19-35
+P10126,Arjun Joshi,28,Male,Mumbai,Cardiology,Dr. Amit Shah,Pneumonia,Emergency,2025-11-23,2025-11-26,3,General Ward,Government Scheme,50700,5100,38500,7100,UPI,4.2,Discharged,Nov,11,19-35
+P10014,Pooja Nair,31,Female,Mumbai,Dermatology,Dr. Isha Patil,Skin Infection,Emergency,2025-11-23,2025-11-28,5,Semi-Private,Corporate Insurance,33400,0,22200,11200,Insurance,4.5,Discharged,Nov,11,19-35
+P10637,Tanya Kulkarni,65,Female,Nagpur,General Medicine,Dr. Priya Nair,Hypertension,Planned,2025-11-24,2025-12-01,7,Semi-Private,Health Insurance,46400,0,30800,15600,UPI,4.9,Under Treatment,Nov,11,51-65
+P10332,Ananya Khan,20,Male,Mumbai,Cardiology,Dr. Amit Shah,Cancer,Planned,2025-11-24,2025-11-26,2,Semi-Private,Self Pay,54000,2700,0,51300,Cash,3.6,Discharged,Nov,11,19-35
+P10730,Diya Patil,33,Female,Ahmednagar,Oncology,Dr. Nitin Mehta,Diabetes,Planned,2025-11-25,2025-11-27,2,Private,Health Insurance,102200,10200,64000,28000,Card,3.6,Discharged,Nov,11,19-35
+P10629,Ishaan Mehta,27,Male,Mumbai,Oncology,Dr. Nitin Mehta,Pneumonia,Planned,2025-11-25,2025-11-26,1,Semi-Private,Corporate Insurance,83400,0,68800,14600,Insurance,4.1,Discharged,Nov,11,19-35
+P10691,Pooja Sharma,47,Female,Navi Mumbai,Orthopedics,Dr. Sameer Patil,Ear Infection,Referral,2025-11-26,2025-11-30,4,Semi-Private,Health Insurance,60000,0,50300,9700,Cash,4.2,Discharged,Nov,11,36-50
+P10348,Diya Pawar,20,Female,Mumbai,Emergency,Dr. Sameer Khan,Skin Infection,Planned,2025-11-26,2025-11-29,3,General Ward,Corporate Insurance,41200,0,34400,6800,Cash,4.2,Discharged,Nov,11,19-35
+P10589,Diya More,65,Female,Nashik,Orthopedics,Dr. Raj Mehta,Pregnancy,Emergency,2025-11-26,2025-12-02,6,Private,Corporate Insurance,57400,2900,37000,17500,UPI,5.0,Discharged,Nov,11,51-65
+P10936,Pooja More,46,Male,Nashik,General Medicine,Dr. Rahul Verma,Back Pain,Emergency,2025-11-26,2025-11-27,1,General Ward,Health Insurance,22400,2200,14300,5900,UPI,2.7,Discharged,Nov,11,36-50
+P10891,Pooja Khan,61,Male,Aurangabad,Gynecology,Dr. Ananya Rao,Ear Infection,Referral,2025-11-26,2025-11-27,1,General Ward,Health Insurance,47000,0,40100,6900,Card,4.2,Discharged,Nov,11,51-65
+P10762,Ishaan More,38,Male,Pune,Neurology,Dr. Kavita Rao,Heart Disease,Planned,2025-11-26,2025-11-30,4,Private,Government Scheme,80300,0,55400,24900,Card,5.0,Discharged,Nov,11,36-50
+P10379,Aarav Sharma,54,Female,Nagpur,General Medicine,Dr. Priya Nair,Pneumonia,Planned,2025-11-27,2025-12-06,9,General Ward,Self Pay,31700,0,0,31700,UPI,2.6,Discharged,Nov,11,51-65
+P10635,Pooja Mehta,47,Male,Aurangabad,General Medicine,Dr. Rahul Verma,Pneumonia,Planned,2025-11-27,2025-12-12,15,General Ward,Self Pay,26700,0,0,26700,UPI,3.8,Under Treatment,Nov,11,36-50
+P10870,Ishaan Chavan,35,Female,Mumbai,Gynecology,Dr. Pooja Desai,Back Pain,Planned,2025-11-28,2025-12-01,3,Private,Self Pay,52200,0,0,52200,Card,2.9,Discharged,Nov,11,19-35
+P10853,Aditya Verma,39,Female,Nashik,Oncology,Dr. Vikram Singh,Migraine,Emergency,2025-11-28,2025-12-04,6,Private,Corporate Insurance,118000,0,109200,8800,Card,3.9,Expired,Nov,11,36-50
+P10036,Aisha Khan,17,Male,Aurangabad,General Medicine,Dr. Priya Nair,Pregnancy,Emergency,2025-11-28,2025-12-04,6,General Ward,Health Insurance,25400,0,20400,5000,Insurance,3.8,Discharged,Nov,11,0-18
+P10424,Pooja Khan,54,Male,Nashik,Emergency,Dr. Arjun Patil,Back Pain,Referral,2025-11-29,2025-11-30,1,Semi-Private,Health Insurance,36500,0,32600,3900,Insurance,4.5,Discharged,Nov,11,51-65
+P10743,Kabir Sharma,60,Female,Pune,Gynecology,Dr. Ananya Rao,Viral Fever,Referral,2025-11-29,2025-12-10,11,General Ward,Health Insurance,45100,0,41100,4000,UPI,4.3,Discharged,Nov,11,51-65
+P10583,Ira Jadhav,29,Male,Nashik,Neurology,Dr. Kavita Rao,Pneumonia,Emergency,2025-11-29,2025-12-03,4,General Ward,Corporate Insurance,53400,5300,39100,9000,Insurance,4.4,Discharged,Nov,11,19-35
+P10382,Pooja Jadhav,32,Male,Aurangabad,Emergency,Dr. Sameer Khan,Fracture,Emergency,2025-11-29,2025-12-05,6,Private,Corporate Insurance,60900,6100,51000,3800,Card,5.0,Under Treatment,Nov,11,19-35
+P10071,Neha Khan,1,Female,Pune,Orthopedics,Dr. Raj Mehta,Viral Fever,Emergency,2025-11-30,2025-12-02,2,Private,Self Pay,41800,4200,0,37600,Insurance,4.6,Discharged,Nov,11,0-18
+P10777,Neha Verma,50,Female,Aurangabad,General Medicine,Dr. Rahul Verma,Pneumonia,Emergency,2025-11-30,2025-12-02,2,Semi-Private,Health Insurance,42100,0,30800,11300,Insurance,2.7,Referred,Nov,11,36-50
+P10517,Diya Chavan,20,Male,Mumbai,Pediatrics,Dr. Rohan Shah,Viral Fever,Emergency,2025-12-01,2025-12-08,7,General Ward,Self Pay,36300,0,0,36300,Cash,4.2,Under Treatment,Dec,12,19-35
+P10395,Priya Gupta,53,Female,Pune,ENT,Dr. Meenal Joshi,Kidney Stone,Emergency,2025-12-01,2025-12-02,1,Private,Health Insurance,26900,4000,17300,5600,Card,3.5,Under Treatment,Dec,12,51-65
+P10145,Aditya Joshi,25,Female,Navi Mumbai,Dermatology,Dr. Neha Mehta,Migraine,Planned,2025-12-01,2025-12-05,4,General Ward,Health Insurance,25900,1300,21800,2800,Insurance,4.7,Discharged,Dec,12,19-35
+P10467,Neha Pawar,46,Female,Pune,Dermatology,Dr. Neha Mehta,Asthma,Planned,2025-12-02,2025-12-08,6,General Ward,Self Pay,29700,0,0,29700,UPI,5.0,Discharged,Dec,12,36-50
+P10107,Pooja Nair,56,Female,Thane,Emergency,Dr. Sameer Khan,Migraine,Planned,2025-12-02,2025-12-08,6,Private,Self Pay,58300,0,0,58300,Insurance,5.0,Discharged,Dec,12,51-65
+P10318,Rahul Khan,62,Female,Mumbai,General Medicine,Dr. Rahul Verma,Heart Disease,Emergency,2025-12-02,2025-12-10,8,Private,Government Scheme,53100,5300,40900,6900,Cash,3.7,Referred,Dec,12,51-65
+P10501,Diya Mehta,66,Male,Mumbai,Dermatology,Dr. Isha Patil,Pregnancy,Emergency,2025-12-03,2025-12-07,4,General Ward,Corporate Insurance,15000,0,12400,2600,Card,4.7,Under Treatment,Dec,12,66+
+P10079,Neha Nair,63,Female,Mumbai,Pediatrics,Dr. Rohan Shah,Fracture,Planned,2025-12-03,2025-12-14,11,Private,Government Scheme,87800,0,62900,24900,Insurance,3.0,Discharged,Dec,12,51-65
+P10496,Aditya Joshi,20,Female,Mumbai,General Medicine,Dr. Rahul Verma,Viral Fever,Planned,2025-12-03,2025-12-11,8,General Ward,Self Pay,40600,2000,0,38600,Insurance,3.2,Discharged,Dec,12,19-35
+P10228,Aarav Chavan,77,Female,Nashik,Oncology,Dr. Vikram Singh,Heart Disease,Emergency,2025-12-04,2025-12-08,4,Private,Corporate Insurance,110400,11000,65500,33900,Cash,3.9,Discharged,Dec,12,66+
+P10998,Karan Nair,46,Male,Kolhapur,ENT,Dr. Meenal Joshi,Pneumonia,Emergency,2025-12-04,2025-12-11,7,Semi-Private,Health Insurance,29500,0,25600,3900,UPI,4.7,Discharged,Dec,12,36-50
+P10143,Rohan Nair,41,Male,Mumbai,Pediatrics,Dr. Sneha Desai,Pregnancy,Emergency,2025-12-06,2025-12-08,2,Private,Health Insurance,45200,0,41900,3300,Insurance,3.8,Discharged,Dec,12,36-50
+P10939,Kabir Gupta,61,Female,Kolhapur,Emergency,Dr. Arjun Patil,Asthma,Emergency,2025-12-07,2025-12-09,2,Private,Health Insurance,37400,0,32300,5100,Insurance,3.4,Discharged,Dec,12,51-65
+P10295,Arjun Pawar,48,Male,Pune,Cardiology,Dr. Neeraj Kulkarni,Skin Infection,Emergency,2025-12-07,2025-12-08,1,General Ward,Corporate Insurance,61600,0,37200,24400,Card,4.0,Discharged,Dec,12,36-50
+P10833,Priya Deshmukh,37,Female,Pune,Cardiology,Dr. Amit Shah,Viral Fever,Planned,2025-12-07,2025-12-17,10,Private,Government Scheme,114400,0,77700,36700,Cash,3.9,Under Treatment,Dec,12,36-50
+P10314,Ananya Khan,88,Male,Thane,Gynecology,Dr. Pooja Desai,Ear Infection,Referral,2025-12-08,2025-12-15,7,General Ward,Self Pay,42200,2100,0,40100,Cash,3.6,Discharged,Dec,12,66+
+P10032,Aisha Verma,48,Female,Mumbai,General Medicine,Dr. Priya Nair,Cancer,Emergency,2025-12-08,2025-12-12,4,Private,Health Insurance,49800,2500,33500,13800,Insurance,4.4,Under Treatment,Dec,12,36-50
+P10822,Neha Singh,32,Male,Nashik,Orthopedics,Dr. Sameer Patil,Kidney Stone,Planned,2025-12-09,2025-12-17,8,General Ward,Government Scheme,35200,0,31600,3600,Cash,4.5,Discharged,Dec,12,19-35
+P10938,Arjun Gupta,37,Female,Satara,General Medicine,Dr. Rahul Verma,Migraine,Emergency,2025-12-10,2025-12-15,5,ICU,Self Pay,76700,11500,0,65200,Cash,4.7,Discharged,Dec,12,36-50
+P10258,Tanya Verma,10,Female,Thane,Oncology,Dr. Nitin Mehta,Skin Infection,Emergency,2025-12-12,2025-12-17,5,Private,Government Scheme,112100,5600,95700,10800,UPI,4.2,Discharged,Dec,12,0-18
+P10783,Aditya Khan,44,Female,Mumbai,Oncology,Dr. Nitin Mehta,Hypertension,Referral,2025-12-12,2025-12-13,1,ICU,Health Insurance,86000,0,67100,18900,Card,4.2,Discharged,Dec,12,36-50
+P10189,Aisha Chavan,52,Male,Mumbai,ENT,Dr. Meenal Joshi,Ear Infection,Emergency,2025-12-13,2025-12-16,3,General Ward,Self Pay,24300,2400,0,21900,Card,4.8,Discharged,Dec,12,51-65
+P10812,Ishaan Mehta,7,Male,Mumbai,Dermatology,Dr. Neha Mehta,Ear Infection,Emergency,2025-12-13,2025-12-21,8,General Ward,Health Insurance,30400,1500,19000,9900,Insurance,4.0,Discharged,Dec,12,0-18
+P10941,Rahul Nair,34,Male,Pune,Emergency,Dr. Arjun Patil,Migraine,Emergency,2025-12-13,2025-12-19,6,General Ward,Health Insurance,27000,1400,17900,7700,UPI,4.0,Discharged,Dec,12,19-35
+P10993,Meera Verma,42,Female,Nagpur,Orthopedics,Dr. Sameer Patil,Ear Infection,Emergency,2025-12-13,2025-12-15,2,ICU,Health Insurance,55700,2800,38300,14600,UPI,4.8,Discharged,Dec,12,36-50
+P10086,Ira Pawar,48,Female,Thane,Cardiology,Dr. Amit Shah,Viral Fever,Planned,2025-12-14,2025-12-15,1,Private,Corporate Insurance,57000,2800,44700,9500,Insurance,4.4,Discharged,Dec,12,36-50
+P10834,Vivaan Nair,71,Female,Mumbai,General Medicine,Dr. Rahul Verma,Cancer,Planned,2025-12-15,2025-12-18,3,General Ward,Self Pay,26000,0,0,26000,Cash,3.3,Discharged,Dec,12,66+
+P10518,Arjun Jadhav,41,Female,Mumbai,Oncology,Dr. Vikram Singh,Cancer,Referral,2025-12-15,2025-12-19,4,Private,Government Scheme,113200,0,107200,6000,UPI,4.3,Discharged,Dec,12,36-50
+P10147,Tanya Verma,61,Female,Thane,Cardiology,Dr. Amit Shah,Pneumonia,Emergency,2025-12-15,2025-12-16,1,General Ward,Health Insurance,55900,5600,43000,7300,Card,4.5,Under Treatment,Dec,12,51-65
+P10206,Vivaan Sharma,64,Male,Mumbai,Cardiology,Dr. Neeraj Kulkarni,Heart Disease,Emergency,2025-12-15,2025-12-22,7,Private,Health Insurance,105600,0,86900,18700,UPI,4.2,Discharged,Dec,12,51-65
+P10178,Priya Deshmukh,57,Female,Thane,Emergency,Dr. Sameer Khan,Pregnancy,Emergency,2025-12-16,2025-12-19,3,General Ward,Health Insurance,21600,0,20500,1100,Card,3.7,Expired,Dec,12,51-65
+P10190,Vivaan Chavan,27,Male,Nashik,General Medicine,Dr. Rahul Verma,Heart Disease,Planned,2025-12-16,2025-12-21,5,General Ward,Government Scheme,23500,0,22200,1300,Card,4.1,Discharged,Dec,12,19-35
+P10758,Karan Jadhav,54,Male,Ahmednagar,Dermatology,Dr. Isha Patil,Heart Disease,Emergency,2025-12-17,2025-12-20,3,General Ward,Government Scheme,26400,0,19700,6700,Insurance,3.7,Discharged,Dec,12,51-65
+P10203,Sneha More,13,Other,Mumbai,Pediatrics,Dr. Rohan Shah,Back Pain,Planned,2025-12-17,2025-12-21,4,Private,Corporate Insurance,57000,0,46200,10800,Insurance,5.0,Discharged,Dec,12,0-18
+P10273,Rahul Jadhav,18,Male,Thane,Orthopedics,Dr. Sameer Patil,Heart Disease,Emergency,2025-12-17,2025-12-23,6,Semi-Private,Health Insurance,71800,7200,53400,11200,UPI,2.7,Under Treatment,Dec,12,0-18
+P10656,Vivaan Pawar,1,Female,Thane,Neurology,Dr. Kavita Rao,Diabetes,Planned,2025-12-18,2025-12-19,1,General Ward,Self Pay,40200,0,0,40200,Card,3.5,Discharged,Dec,12,0-18
+P10582,Neha Mehta,43,Female,Mumbai,Neurology,Dr. Anil Joshi,Migraine,Emergency,2025-12-18,2025-12-21,3,Private,Self Pay,61300,6100,0,55200,Insurance,5.0,Referred,Dec,12,36-50
+P10104,Ishaan Sharma,23,Male,Mumbai,Gynecology,Dr. Ananya Rao,Hypertension,Planned,2025-12-19,2025-12-24,5,General Ward,Health Insurance,33500,1700,24300,7500,UPI,4.4,Discharged,Dec,12,19-35
+P10540,Karan Deshmukh,42,Female,Mumbai,Oncology,Dr. Nitin Mehta,Viral Fever,Planned,2025-12-19,2025-12-21,2,ICU,Health Insurance,107500,0,84300,23200,UPI,3.5,Discharged,Dec,12,36-50
+P10670,Tanya Deshmukh,67,Male,Mumbai,Dermatology,Dr. Isha Patil,Cancer,Referral,2025-12-19,2025-12-23,4,General Ward,Health Insurance,26300,0,18300,8000,Insurance,4.4,Discharged,Dec,12,66+
+P10479,Meera Sharma,42,Female,Nagpur,ENT,Dr. Karan Shah,Pneumonia,Emergency,2025-12-19,2025-12-23,4,Private,Health Insurance,38400,0,30500,7900,UPI,4.0,Discharged,Dec,12,36-50
+P10613,Priya Mehta,57,Female,Thane,ENT,Dr. Meenal Joshi,Fracture,Planned,2025-12-20,2025-12-22,2,Semi-Private,Government Scheme,37100,0,24100,13000,Card,4.1,Discharged,Dec,12,51-65
+P10078,Ishaan Jadhav,29,Male,Mumbai,Neurology,Dr. Anil Joshi,Hypertension,Emergency,2025-12-21,2025-12-25,4,ICU,Self Pay,103600,5200,0,98400,Insurance,4.4,Discharged,Dec,12,19-35
+P10495,Karan Singh,79,Female,Mumbai,General Medicine,Dr. Priya Nair,Cancer,Referral,2025-12-21,2025-12-29,8,General Ward,Government Scheme,30300,3000,24700,2600,UPI,4.1,Discharged,Dec,12,66+
+P10793,Ananya More,57,Male,Mumbai,Gynecology,Dr. Pooja Desai,Hypertension,Planned,2025-12-22,2025-12-25,3,General Ward,Corporate Insurance,24000,0,16000,8000,Card,4.7,Discharged,Dec,12,51-65
+P10751,Riya Verma,23,Female,Nashik,Emergency,Dr. Sameer Khan,Hypertension,Emergency,2025-12-22,2026-01-04,13,General Ward,Health Insurance,52900,0,44800,8100,Cash,4.2,Discharged,Dec,12,19-35
+P10447,Pooja More,56,Male,Satara,Dermatology,Dr. Neha Mehta,Back Pain,Planned,2025-12-22,2025-12-26,4,General Ward,Government Scheme,23200,0,12900,10300,UPI,3.5,Referred,Dec,12,51-65
+P10414,Aisha Sharma,39,Male,Kolhapur,Emergency,Dr. Sameer Khan,Fracture,Planned,2025-12-23,2025-12-27,4,General Ward,Health Insurance,32100,0,27900,4200,Card,4.1,Discharged,Dec,12,36-50
+P10029,Rahul Chavan,1,Male,Thane,Emergency,Dr. Arjun Patil,Viral Fever,Emergency,2025-12-23,2025-12-27,4,Semi-Private,Corporate Insurance,42300,0,23300,19000,Card,4.9,Discharged,Dec,12,0-18
+P10061,Sneha Singh,39,Male,Navi Mumbai,Gynecology,Dr. Pooja Desai,Heart Disease,Emergency,2025-12-23,2025-12-26,3,Semi-Private,Health Insurance,38100,0,23900,14200,Card,4.9,Discharged,Dec,12,36-50
+P10445,Ira Khan,47,Male,Mumbai,General Medicine,Dr. Priya Nair,Migraine,Planned,2025-12-23,2025-12-26,3,Private,Health Insurance,34900,0,27300,7600,Card,4.3,Discharged,Dec,12,36-50
+P10006,Diya Nair,59,Male,Mumbai,Oncology,Dr. Nitin Mehta,Kidney Stone,Referral,2025-12-24,2025-12-28,4,ICU,Self Pay,129800,13000,0,116800,Insurance,4.7,Discharged,Dec,12,51-65
+P10217,Meera Mehta,30,Female,Mumbai,Dermatology,Dr. Neha Mehta,Cancer,Planned,2025-12-24,2026-01-04,11,Semi-Private,Self Pay,44800,6700,0,38100,Insurance,5.0,Discharged,Dec,12,19-35
+P10285,Aisha Patil,1,Male,Nashik,Emergency,Dr. Arjun Patil,Kidney Stone,Referral,2025-12-24,2025-12-29,5,General Ward,Corporate Insurance,31400,0,21600,9800,Insurance,4.4,Discharged,Dec,12,0-18
+P10173,Rohan Pawar,52,Male,Navi Mumbai,ENT,Dr. Karan Shah,Asthma,Planned,2025-12-24,2026-01-02,9,Private,Corporate Insurance,60600,3000,49600,8000,Insurance,3.9,Discharged,Dec,12,51-65
+P10007,Arjun Verma,5,Female,Ahmednagar,Emergency,Dr. Arjun Patil,Viral Fever,Emergency,2025-12-25,2025-12-29,4,General Ward,Self Pay,35100,3500,0,31600,Insurance,4.4,Discharged,Dec,12,0-18
+P10857,Aarav Kulkarni,9,Female,Thane,General Medicine,Dr. Rahul Verma,Back Pain,Emergency,2025-12-25,2025-12-30,5,Semi-Private,Self Pay,38100,0,0,38100,Insurance,5.0,Discharged,Dec,12,0-18
+P10481,Neha Kulkarni,64,Female,Aurangabad,Emergency,Dr. Arjun Patil,Pneumonia,Emergency,2025-12-25,2026-01-02,8,Private,Government Scheme,64100,0,54500,9600,UPI,3.3,Discharged,Dec,12,51-65
+P10918,Aarav Khan,63,Female,Aurangabad,Dermatology,Dr. Isha Patil,Asthma,Planned,2025-12-25,2025-12-30,5,Private,Health Insurance,51800,0,30100,21700,UPI,3.9,Discharged,Dec,12,51-65
+P10612,Rohan Deshmukh,53,Female,Mumbai,Orthopedics,Dr. Sameer Patil,Pneumonia,Planned,2025-12-25,2026-01-01,7,Private,Health Insurance,81100,0,74800,6300,Card,4.3,Discharged,Dec,12,51-65
+P10828,Pooja Verma,59,Male,Mumbai,Gynecology,Dr. Ananya Rao,Hypertension,Planned,2025-12-25,2026-01-02,8,General Ward,Health Insurance,41500,4200,26900,10400,UPI,4.5,Discharged,Dec,12,51-65
+P10339,Aarav Joshi,65,Other,Navi Mumbai,ENT,Dr. Karan Shah,Skin Infection,Emergency,2025-12-27,2026-01-01,5,ICU,Corporate Insurance,80700,0,76200,4500,Card,3.8,Discharged,Dec,12,51-65
+P10504,Kabir Joshi,49,Male,Thane,Dermatology,Dr. Neha Mehta,Fracture,Planned,2025-12-28,2026-01-01,4,Semi-Private,Self Pay,33500,3400,0,30100,Insurance,2.8,Discharged,Dec,12,36-50
+P10790,Ira Gupta,5,Male,Thane,Dermatology,Dr. Neha Mehta,Cancer,Planned,2025-12-28,2026-01-04,7,Semi-Private,Government Scheme,37700,0,23800,13900,UPI,3.6,Discharged,Dec,12,0-18
+P10118,Kabir Verma,36,Male,Pune,Neurology,Dr. Kavita Rao,Fracture,Planned,2025-12-28,2026-01-03,6,Semi-Private,Corporate Insurance,71000,7100,41700,22200,Card,5.0,Discharged,Dec,12,36-50
+P10529,Diya Chavan,49,Male,Pune,Orthopedics,Dr. Raj Mehta,Diabetes,Emergency,2025-12-28,2025-12-31,3,Private,Self Pay,53100,0,0,53100,Card,3.6,Discharged,Dec,12,36-50
+P10532,Pooja Deshmukh,24,Male,Pune,Pediatrics,Dr. Rohan Shah,Back Pain,Planned,2025-12-28,2025-12-30,2,Private,Corporate Insurance,17900,2700,9700,5500,Card,4.2,Discharged,Dec,12,19-35
+P10872,Vivaan More,47,Male,Nashik,Emergency,Dr. Sameer Khan,Pregnancy,Referral,2025-12-31,2026-01-02,2,Semi-Private,Self Pay,27000,0,0,27000,Insurance,4.0,Discharged,Dec,12,36-50
+P10312,Aisha Chavan,60,Male,Kolhapur,Emergency,Dr. Arjun Patil,Kidney Stone,Planned,2025-12-31,2026-01-07,7,Semi-Private,Corporate Insurance,47300,2400,40300,4600,UPI,4.8,Discharged,Dec,12,51-65
